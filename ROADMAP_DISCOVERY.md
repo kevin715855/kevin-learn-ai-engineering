@@ -1,0 +1,598 @@
+# Roadmap.sh AI Engineer Course Structure Discovery
+
+- **Total Modules (Topics)**: 18
+- **Total Lessons (Subtopics)**: 167
+- **Source Roadmap API**: https://roadmap.sh/ai-engineer.json
+
+## Modules and Lessons Inventory
+
+### 1. Hugging Face
+- **Module ID**: `v99C5Bml2a6148LCJ9gy9`
+- **Lessons Count**: 10
+
+  - 1. **MCP** (`mcp`)
+    - ID: `jpSel6gPj1d0EhH73Knm7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp%40jpSel6gPj1d0EhH73Knm7.md`
+  - 2. **CoT** (`cot`)
+    - ID: `nyBgEHvUhwF-NANMwkRJW`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/cot%40nyBgEHvUhwF-NANMwkRJW.md`
+  - 3. **Context Evaluation** (`context-evaluation`)
+    - ID: `SzW-BtzGsSfGGa5DbSlr4`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-evaluation%40SzW-BtzGsSfGGa5DbSlr4.md`
+  - 4. **Zero-Shot** (`zero-shot`)
+    - ID: `15XOFdVp0IC-kLYPXUJWh`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/zero-shot%4015XOFdVp0IC-kLYPXUJWh.md`
+  - 5. **Memory Systems** (`memory-systems`)
+    - ID: `4HkJJigCBBO4eOef8qvhz`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/memory-systems%404HkJJigCBBO4eOef8qvhz.md`
+  - 6. **Long-Context Processing** (`long-context-processing`)
+    - ID: `BfmhnGPe1UdnThdpr7m1i`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/long-context-processing%40BfmhnGPe1UdnThdpr7m1i.md`
+  - 7. **State & Historical Context** (`state--historical-context`)
+    - ID: `unoZLoE2oJbKPOCBYUnMZ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/state--historical-context%40unoZLoE2oJbKPOCBYUnMZ.md`
+  - 8. **Hugging Face Tasks** (`hugging-face-tasks`)
+    - ID: `YKIPOiSj_FNtg0h8uaSMq`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/hugging-face-tasks%40YKIPOiSj_FNtg0h8uaSMq.md`
+  - 9. **Multi-agent Context Sharing** (`multi-agent-context-sharing`)
+    - ID: `wQfU09yhZ5sd-UPHkq2n0`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/multi-agent-context-sharing%40wQfU09yhZ5sd-UPHkq2n0.md`
+  - 10. **Hugging Face Hub** (`hugging-face-hub`)
+    - ID: `YLOdOvLXa5Fa7_mmuvKEi`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/hugging-face-hub%40YLOdOvLXa5Fa7_mmuvKEi.md`
+
+### 2. Introduction
+- **Module ID**: `_hYN0gEi9BL24nptEtXWU`
+- **Lessons Count**: 16
+
+  - 1. **Impact on Product Development** (`impact-on-product-development`)
+    - ID: `qJVgKe9uBvXc-YPfvX_Y7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/impact-on-product-development%40qJVgKe9uBvXc-YPfvX_Y7.md`
+  - 2. **Roles and Responsiblities** (`roles-and-responsiblities`)
+    - ID: `K9EiuFgPBFgeRxY4wxAmb`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/roles-and-responsiblities%40K9EiuFgPBFgeRxY4wxAmb.md`
+  - 3. **What is an AI Engineer?** (`what-is-an-ai-engineer`)
+    - ID: `GN6SnI7RXIeW8JeD-qORW`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/what-is-an-ai-engineer%40GN6SnI7RXIeW8JeD-qORW.md`
+  - 4. **AI Engineer vs ML Engineer** (`ai-engineer-vs-ml-engineer`)
+    - ID: `jSZ1LhPdhlkW-9QJhIvFs`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/ai-engineer-vs-ml-engineer%40jSZ1LhPdhlkW-9QJhIvFs.md`
+  - 5. **Large Language Model (LLM)** (`large-language-model-llm`)
+    - ID: `wf2BSyUekr1S1q6l8kyq6`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/large-language-model-llm%40wf2BSyUekr1S1q6l8kyq6.md`
+  - 6. **AI vs AGI** (`ai-vs-agi`)
+    - ID: `5QdihE1lLpMc3DFrGy46M`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/ai-vs-agi%405QdihE1lLpMc3DFrGy46M.md`
+  - 7. **Inference** (`inference`)
+    - ID: `4NtUD9V64gkp8SFudj_ai`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/inference%404NtUD9V64gkp8SFudj_ai.md`
+  - 8. **Training** (`training`)
+    - ID: `xostGgoaYkqMO28iN2gx8`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/training%40xostGgoaYkqMO28iN2gx8.md`
+  - 9. **Embeddings** (`embeddings`)
+    - ID: `XyEp6jnBSpCxMGwALnYfT`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/embeddings%40XyEp6jnBSpCxMGwALnYfT.md`
+  - 10. **Vector DBs** (`vector-dbs`)
+    - ID: `dzPKW_fn82lY1OOVrggk3`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/vector-dbs%40dzPKW_fn82lY1OOVrggk3.md`
+  - 11. ** RAG & Dynamic Filters** (`rag-and-dynamic-filters`)
+    - ID: `LnQ2AatMWpExUHcZhDIPd`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/rag-and-dynamic-filters%40LnQ2AatMWpExUHcZhDIPd.md`
+  - 12. **RAGs** (`rags`)
+    - ID: `IX1BJWGwGmB4L063g0Frf`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/rags%40IX1BJWGwGmB4L063g0Frf.md`
+  - 13. **Context Isolation** (`context-isolation`)
+    - ID: `9JwWIK0Z2MK8-6EQQJsCO`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-isolation%409JwWIK0Z2MK8-6EQQJsCO.md`
+  - 14. **Context Window** (`context-window`)
+    - ID: `SF07y6d-JcE1-pzXeBOU7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-window%40SF07y6d-JcE1-pzXeBOU7.md`
+  - 15. **AI Agents** (`ai-agents`)
+    - ID: `Uffu609uQbIzDl88Ddccv`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/ai-agents%40Uffu609uQbIzDl88Ddccv.md`
+  - 16. **Context Compaction** (`context-compaction`)
+    - ID: `9XCxilAQ7FRet7lHQr1gE`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-compaction%409XCxilAQ7FRet7lHQr1gE.md`
+
+### 3. How LLMs Work
+- **Module ID**: `zdeuA4GbdBl2DwKgiOA4G`
+- **Lessons Count**: 21
+
+  - 1. **Prompt Engineering** (`prompt-engineering`)
+    - ID: `VjXmSCdzi2ACv-W85Sy9D`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/prompt-engineering%40VjXmSCdzi2ACv-W85Sy9D.md`
+  - 2. **Context Engineering** (`context-engineering`)
+    - ID: `kCiHNaZ9CgnS9uksIQ_SY`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-engineering%40kCiHNaZ9CgnS9uksIQ_SY.md`
+  - 3. **Fine-tuning** (`fine-tuning`)
+    - ID: `zTvsCNS3ucsZmvy1tHyeI`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/fine-tuning%40zTvsCNS3ucsZmvy1tHyeI.md`
+  - 4. **Temperature** (`temperature`)
+    - ID: `_bPTciEA1GT1JwfXim19z`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/temperature%40_bPTciEA1GT1JwfXim19z.md`
+  - 5. **ReAct** (`react`)
+    - ID: `Waox7xR_yUeSnOtQFzU4c`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/react%40Waox7xR_yUeSnOtQFzU4c.md`
+  - 6. **Input Format** (`input-format`)
+    - ID: `LCHse57rXf3sl8ml1ow0T`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/input-format%40LCHse57rXf3sl8ml1ow0T.md`
+  - 7. **System Prompting** (`system-prompting`)
+    - ID: `S46Vaq8hYq6Ee1Id_-fSQ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/system-prompting%40S46Vaq8hYq6Ee1Id_-fSQ.md`
+  - 8. **Context** (`context`)
+    - ID: `9oUpeEnaMWctQLTobbmY7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context%409oUpeEnaMWctQLTobbmY7.md`
+  - 9. **Role & Behavior** (`role--behavior`)
+    - ID: `N3TzWYxU0jgv1l99Ts58n`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/role--behavior%40N3TzWYxU0jgv1l99Ts58n.md`
+  - 10. **Constraints** (`constraints`)
+    - ID: `PT3uDiUjiKhO8laOkCmgP`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/constraints%40PT3uDiUjiKhO8laOkCmgP.md`
+  - 11. **Structured Output** (`structured-output`)
+    - ID: `zqhmLzHsmDlrTFVHzhq6-`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/structured-output%40zqhmLzHsmDlrTFVHzhq6-.md`
+  - 12. **Function Calling** (`function-calling`)
+    - ID: `wFfjHkGLrcCyLyXV4BiFM`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/function-calling%40wFfjHkGLrcCyLyXV4BiFM.md`
+  - 13. **Prompt Caching** (`prompt-caching`)
+    - ID: `bqqY0gsZkBpcHMZw1hcZ5`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/prompt-caching%40bqqY0gsZkBpcHMZw1hcZ5.md`
+  - 14. **Streaming Responses** (`streaming-responses`)
+    - ID: `MUDBYjR7uCUZQ-kQxi2K_`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/streaming-responses%40MUDBYjR7uCUZQ-kQxi2K_.md`
+  - 15. **Top-K** (`top-k`)
+    - ID: `qzvp6YxWDiGakA2mtspfh`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/top-k%40qzvp6YxWDiGakA2mtspfh.md`
+  - 16. **Context vs Prompt Eng.** (`context-vs-prompt-eng`)
+    - ID: `s2YrrjXbvNIyW5WSFj2po`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-vs-prompt-eng%40s2YrrjXbvNIyW5WSFj2po.md`
+  - 17. **Top-P** (`top-p`)
+    - ID: `FjV3oD7G2Ocq5HhUC17iH`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/top-p%40FjV3oD7G2Ocq5HhUC17iH.md`
+  - 18. **What is a Context Layer?** (`what-is-a-context-layer`)
+    - ID: `5b2-GXozMVOqZF1Ga-HE8`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/what-is-a-context-layer%405b2-GXozMVOqZF1Ga-HE8.md`
+  - 19. **Few-Shot** (`few-shot`)
+    - ID: `DZPM9zjCbYYWBPLmQImxQ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/few-shot%40DZPM9zjCbYYWBPLmQImxQ.md`
+  - 20. **Context Sources** (`context-sources`)
+    - ID: `x0G0WD8MUflucdBqf2j5k`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-sources%40x0G0WD8MUflucdBqf2j5k.md`
+  - 21. **Context Security** (`context-security`)
+    - ID: `wel7a_gpXqpuDAdmF_4Rp`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-security%40wel7a_gpXqpuDAdmF_4Rp.md`
+
+### 4. Ollama
+- **Module ID**: `rTT2UnvqFO3GH6ThPLEjO`
+- **Lessons Count**: 11
+
+  - 1. **Context Failure Modes** (`context-failure-modes`)
+    - ID: `mfiiWDVZEeUGFa6KKUGLB`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context-failure-modes%40mfiiWDVZEeUGFa6KKUGLB.md`
+  - 2. **Hugging Face Inference SDK** (`hugging-face-inference-sdk`)
+    - ID: `3kRTzlLNBnXdTsAEXVu_M`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/hugging-face-inference-sdk%403kRTzlLNBnXdTsAEXVu_M.md`
+  - 3. **Transformers.js** (`transformersjs`)
+    - ID: `bGLrbpxKgENe2xS1eQtdh`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/transformersjs%40bGLrbpxKgENe2xS1eQtdh.md`
+  - 4. **modus** (`modus`)
+    - ID: `xTqTaiKLo6EE_4JVFdjEt`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/modus%40xTqTaiKLo6EE_4JVFdjEt.md`
+  - 5. **DataHub** (`datahub`)
+    - ID: `sFYcBgG9I0n1iKpwlp_7B`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/datahub%40sFYcBgG9I0n1iKpwlp_7B.md`
+  - 6. **PostHog** (`posthog`)
+    - ID: `31UjRzoh7wQKk6uAZ7aVM`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/posthog%4031UjRzoh7wQKk6uAZ7aVM.md`
+  - 7. **Atlan** (`atlan`)
+    - ID: `e_Mgd4pxKPdxL5DNxlxQ_`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/atlan%40e_Mgd4pxKPdxL5DNxlxQ_.md`
+  - 8. **OpenAI Response API** (`openai-response-api`)
+    - ID: `ro3vY_sp6xMQ-hfzO-rc1`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/openai-response-api%40ro3vY_sp6xMQ-hfzO-rc1.md`
+  - 9. **Google Gemini APi** (`google-gemini-api`)
+    - ID: `TsG_I7FL-cOCSw8gvZH3r`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/google-gemini-api%40TsG_I7FL-cOCSw8gvZH3r.md`
+  - 10. **RAG Usecases** (`rag-usecases`)
+    - ID: `GCn4LGNEtPI0NWYAZCRE-`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/rag-usecases%40GCn4LGNEtPI0NWYAZCRE-.md`
+  - 11. **RAG vs Fine-tuning** (`rag-vs-fine-tuning`)
+    - ID: `qlBEXrbV88e_wAGRwO9hW`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/rag-vs-fine-tuning%40qlBEXrbV88e_wAGRwO9hW.md`
+
+### 5. Vector Databases
+- **Module ID**: `tt9u3oFlsjEMfPyojuqpc`
+- **Lessons Count**: 5
+
+  - 1. **Gemini Embedding** (`gemini-embedding`)
+    - ID: `4GArjDYipit4SLqKZAWDf`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/gemini-embedding%404GArjDYipit4SLqKZAWDf.md`
+  - 2. **Open AI Embeddings API** (`open-ai-embeddings-api`)
+    - ID: `l6priWeJhbdUD5tJ7uHyG`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/open-ai-embeddings-api%40l6priWeJhbdUD5tJ7uHyG.md`
+  - 3. **Sentence Transformers** (`sentence-transformers`)
+    - ID: `ZV_V6sqOnRodgaw4mzokC`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/sentence-transformers%40ZV_V6sqOnRodgaw4mzokC.md`
+  - 4. **Models on Hugging Face** (`models-on-hugging-face`)
+    - ID: `dLEg4IA3F5jgc44Bst9if`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/models-on-hugging-face%40dLEg4IA3F5jgc44Bst9if.md`
+  - 5. **Jina** (`jina`)
+    - ID: `apVYIV4EyejPft25oAvdI`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/jina%40apVYIV4EyejPft25oAvdI.md`
+
+### 6. What are RAGs?
+- **Module ID**: `lVhWhZGR558O-ljHobxIi`
+- **Lessons Count**: 5
+
+  - 1. **Chunking** (`chunking`)
+    - ID: `mX987wiZF7p3V_gExrPeX`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/chunking%40mX987wiZF7p3V_gExrPeX.md`
+  - 2. **Embedding** (`embedding`)
+    - ID: `grTcbzT7jKk_sIUwOTZTD`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/embedding%40grTcbzT7jKk_sIUwOTZTD.md`
+  - 3. **Vector Database** (`vector-database`)
+    - ID: `zZA1FBhf1y4kCoUZ-hM4H`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/vector-database%40zZA1FBhf1y4kCoUZ-hM4H.md`
+  - 4. **Retrieval Process** (`retrieval-process`)
+    - ID: `OCGCzHQM2LQyUWmiqe6E0`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/retrieval-process%40OCGCzHQM2LQyUWmiqe6E0.md`
+  - 5. **Generation** (`generation`)
+    - ID: `2jJnS9vRYhaS69d6OxrMh`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/generation%402jJnS9vRYhaS69d6OxrMh.md`
+
+### 7. AI Agents
+- **Module ID**: `4_ap0rD9Gl6Ep_4jMfPpG`
+- **Lessons Count**: 23
+
+  - 1. **Tools & Function Calling** (`tools--function-calling`)
+    - ID: `eOqCBgBTKM8CmY3nsWjre`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/tools--function-calling%40eOqCBgBTKM8CmY3nsWjre.md`
+  - 2. **Using SDKs Directly** (`using-sdks-directly`)
+    - ID: `WZVW8FQu6LyspSKm1C_sl`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/using-sdks-directly%40WZVW8FQu6LyspSKm1C_sl.md`
+  - 3. **Agents Usecases** (`agents-usecases`)
+    - ID: `778HsQzTuJ_3c9OSn5DmH`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/agents-usecases%40778HsQzTuJ_3c9OSn5DmH.md`
+  - 4. **Langchain** (`langchain`)
+    - ID: `jM-Jbo0wUilhVY830hetJ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/langchain%40jM-Jbo0wUilhVY830hetJ.md`
+  - 5. **Llama Index** (`llama-index`)
+    - ID: `JT4mBXOjvvrUnynA7yrqt`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/llama-index%40JT4mBXOjvvrUnynA7yrqt.md`
+  - 6. **Haystack** (`haystack`)
+    - ID: `ebXXEhNRROjbbof-Gym4p`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/haystack%40ebXXEhNRROjbbof-Gym4p.md`
+  - 7. **RAGFlow** (`ragflow`)
+    - ID: `d0ontCII8KI8wfP-8Y45R`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/ragflow%40d0ontCII8KI8wfP-8Y45R.md`
+  - 8. **ReAct Prompting** (`react-prompting`)
+    - ID: `voDKcKvXtyLzeZdx2g3Qn`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/react-prompting%40voDKcKvXtyLzeZdx2g3Qn.md`
+  - 9. **Manual Implementation** (`manual-implementation`)
+    - ID: `6xaRB34_g0HGt-y1dGYXR`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/manual-implementation%406xaRB34_g0HGt-y1dGYXR.md`
+  - 10. **MCP Host** (`mcp-host`)
+    - ID: `MabZ9jOrSj539C5qZrVBd`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp-host%40MabZ9jOrSj539C5qZrVBd.md`
+  - 11. **MCP Client** (`mcp-client`)
+    - ID: `po0fIZYaFhRbNlza7sB37`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp-client%40po0fIZYaFhRbNlza7sB37.md`
+  - 12. **Data Layer** (`data-layer`)
+    - ID: `Z0920V57_ziDhXbQJMN9O`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/data-layer%40Z0920V57_ziDhXbQJMN9O.md`
+  - 13. **Transport Layer** (`transport-layer`)
+    - ID: `o4gHDZ5p9lyeHuCAPvAKz`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/transport-layer%40o4gHDZ5p9lyeHuCAPvAKz.md`
+  - 14. **OpenAI AgentKit & Agent SDK** (`openai-agentkit--agent-sdk`)
+    - ID: `Sm0Ne5Nx72hcZCdAcC0C2`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/openai-agentkit--agent-sdk%40Sm0Ne5Nx72hcZCdAcC0C2.md`
+  - 15. **MCP Server** (`mcp-server`)
+    - ID: `8Xkd88EjX3GE_9DWQhr7G`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp-server%408Xkd88EjX3GE_9DWQhr7G.md`
+  - 16. **Building an MCP Server** (`building-an-mcp-server`)
+    - ID: `oLGfKjcqBzJ3vd6Cg-T1B`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/building-an-mcp-server%40oLGfKjcqBzJ3vd6Cg-T1B.md`
+  - 17. **Building an MCP Client** (`building-an-mcp-client`)
+    - ID: `0Rk0rCbmRFJT2GKwUibQS`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/building-an-mcp-client%400Rk0rCbmRFJT2GKwUibQS.md`
+  - 18. **Connect to Local Server** (`connect-to-local-server`)
+    - ID: `H-G93SsEgsA_NGL_v4hPv`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/connect-to-local-server%40H-G93SsEgsA_NGL_v4hPv.md`
+  - 19. **Connect to Remote Server** (`connect-to-remote-server`)
+    - ID: `2t4uINxmzfx8FUF-_i_2B`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/connect-to-remote-server%402t4uINxmzfx8FUF-_i_2B.md`
+  - 20. **Claude Agent SDK** (`claude-agent-sdk`)
+    - ID: `xXLyuUNrKEc32XLQxMjgT`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/claude-agent-sdk%40xXLyuUNrKEc32XLQxMjgT.md`
+  - 21. **Vertex AI Agent Builder** (`vertex-ai-agent-builder`)
+    - ID: `AxzTGDCC2Ftp4G66U4Uqr`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/vertex-ai-agent-builder%40AxzTGDCC2Ftp4G66U4Uqr.md`
+  - 22. **Google ADK** (`google-adk`)
+    - ID: `mbp2NoL-VZ5hZIIblNBXt`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/google-adk%40mbp2NoL-VZ5hZIIblNBXt.md`
+  - 23. **Multi-agents** (`multi-agents`)
+    - ID: `kG1bkF2oY21CJOm9zhdpn`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/multi-agents%40kG1bkF2oY21CJOm9zhdpn.md`
+
+### 8. Multimodal AI
+- **Module ID**: `W7cKPt_UxcUgwp8J6hS4p`
+- **Lessons Count**: 7
+
+  - 1. **OpenAI Vision API** (`openai-vision-api`)
+    - ID: `CRrqa-dBw1LlOwVbrZhjK`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/openai-vision-api%40CRrqa-dBw1LlOwVbrZhjK.md`
+  - 2. **DALL-E API** (`dall-e-api`)
+    - ID: `LKFwwjtcawJ4Z12X102Cb`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/dall-e-api%40LKFwwjtcawJ4Z12X102Cb.md`
+  - 3. **Image Understanding** (`image-understanding`)
+    - ID: `fzVq4hGoa2gdbIzoyY1Zp`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/image-understanding%40fzVq4hGoa2gdbIzoyY1Zp.md`
+  - 4. **Whisper API** (`whisper-api`)
+    - ID: `OTBd6cPUayKaAM-fLWdSt`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/whisper-api%40OTBd6cPUayKaAM-fLWdSt.md`
+  - 5. **Image Generation** (`image-generation`)
+    - ID: `49BWxYVFpIgZCCqsikH7l`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/image-generation%4049BWxYVFpIgZCCqsikH7l.md`
+  - 6. **Hugging Face Models** (`hugging-face-models`)
+    - ID: `EIDbwbdolR_qsNKVDla6V`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/hugging-face-models%40EIDbwbdolR_qsNKVDla6V.md`
+  - 7. **Video Understanding** (`video-understanding`)
+    - ID: `TxaZCtTCTUfwCxAJ2pmND`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/video-understanding%40TxaZCtTCTUfwCxAJ2pmND.md`
+
+### 9. Development Tools
+- **Module ID**: `NYge7PNtfI-y6QWefXJ4d`
+- **Lessons Count**: 5
+
+  - 1. **LangChain for Multimodal Apps** (`langchain-for-multimodal-apps`)
+    - ID: `j9zD3pHysB1CBhLfLjhpD`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/langchain-for-multimodal-apps%40j9zD3pHysB1CBhLfLjhpD.md`
+  - 2. **Audio Processing** (`audio-processing`)
+    - ID: `mxQYB820447DC6kogyZIL`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/audio-processing%40mxQYB820447DC6kogyZIL.md`
+  - 3. **LlamaIndex for Multimodal Apps** (`llamaindex-for-multimodal-apps`)
+    - ID: `akQTCKuPRRelj2GORqvsh`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/llamaindex-for-multimodal-apps%40akQTCKuPRRelj2GORqvsh.md`
+  - 4. **Text-to-Speech** (`text-to-speech`)
+    - ID: `GCERpLz5BcRtWPpv-asUz`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/text-to-speech%40GCERpLz5BcRtWPpv-asUz.md`
+  - 5. **Speech-to-Text** (`speech-to-text`)
+    - ID: `jQX10XKd_QM5wdQweEkVJ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/speech-to-text%40jQX10XKd_QM5wdQweEkVJ.md`
+
+### 10. Prompt Engineering
+- **Module ID**: `ozrR8IvjNFbHd44kZrExX`
+- **Lessons Count**: 10
+
+  - 1. **Tokens** (`tokens`)
+    - ID: `2WbVpRLqwi3Oeqk1JPui4`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/tokens%402WbVpRLqwi3Oeqk1JPui4.md`
+  - 2. **Context** (`context`)
+    - ID: `vvpYkmycH0_W030E-L12f`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/context%40vvpYkmycH0_W030E-L12f.md`
+  - 3. **Sampling Parameters** (`sampling-parameters`)
+    - ID: `LbB2PeytxRSuU07Bk0KlJ`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/sampling-parameters%40LbB2PeytxRSuU07Bk0KlJ.md`
+  - 4. **Repetition Penalties** (`repetition-penalties`)
+    - ID: `0_pa739kMPWHfuSQV-VO7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/repetition-penalties%400_pa739kMPWHfuSQV-VO7.md`
+  - 5. **Anthropic Claude** (`anthropic-claude`)
+    - ID: `hy6EyKiNxk1x84J63dhez`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/anthropic-claude%40hy6EyKiNxk1x84J63dhez.md`
+  - 6. **Google Gemini** (`google-gemini`)
+    - ID: `oe8E6ZIQWuYvHVbYJHUc1`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/google-gemini%40oe8E6ZIQWuYvHVbYJHUc1.md`
+  - 7. **OpenAI (GPT, o-series)** (`openai-gpt-o-series`)
+    - ID: `3PQVZbcr4neNMRr6CuNzS`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/openai-gpt-o-series%403PQVZbcr4neNMRr6CuNzS.md`
+  - 8. **Meta Llama** (`meta-llama`)
+    - ID: `OkYO-aSPiuVYuLXHswBCn`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/meta-llama%40OkYO-aSPiuVYuLXHswBCn.md`
+  - 9. **Mistral** (`mistral`)
+    - ID: `n-Ud2dXkqIzK37jlKItN4`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mistral%40n-Ud2dXkqIzK37jlKItN4.md`
+  - 10. **Cohere** (`cohere`)
+    - ID: `a7qsvoauFe5u953I699ps`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/cohere%40a7qsvoauFe5u953I699ps.md`
+
+### 11. Type of Models
+- **Module ID**: `2X0NDcq2ojBJ0RxY_U6bl`
+- **Lessons Count**: 8
+
+  - 1. **Pre-trained Models** (`pre-trained-models`)
+    - ID: `d7fzv_ft12EopsQdmEsel`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/pre-trained-models%40d7fzv_ft12EopsQdmEsel.md`
+  - 2. **Closed vs Open Source Models** (`closed-vs-open-source-models`)
+    - ID: `RBwGsq9DngUsl8PrrCbqx`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/closed-vs-open-source-models%40RBwGsq9DngUsl8PrrCbqx.md`
+  - 3. **Adding end-user IDs in prompts** (`adding-end-user-ids-in-prompts`)
+    - ID: `4Q5x2VCXedAWISBXUIyin`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/adding-end-user-ids-in-prompts%404Q5x2VCXedAWISBXUIyin.md`
+  - 4. **Conducting adversarial testing** (`conducting-adversarial-testing`)
+    - ID: `Pt-AJmSJrOxKvolb5_HEv`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/conducting-adversarial-testing%40Pt-AJmSJrOxKvolb5_HEv.md`
+  - 5. **Robust prompt engineering** (`robust-prompt-engineering`)
+    - ID: `qmx6OHqx4_0JXVIv8dASp`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/robust-prompt-engineering%40qmx6OHqx4_0JXVIv8dASp.md`
+  - 6. **Know your Customers / Usecases** (`know-your-customers--usecases`)
+    - ID: `t1SObMWkDZ1cKqNNlcd9L`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/know-your-customers--usecases%40t1SObMWkDZ1cKqNNlcd9L.md`
+  - 7. **Constraining outputs and inputs** (`constraining-outputs-and-inputs`)
+    - ID: `ONLDyczNacGVZGojYyJrU`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/constraining-outputs-and-inputs%40ONLDyczNacGVZGojYyJrU.md`
+  - 8. **Self-Hosted Models** (`self-hosted-models`)
+    - ID: `_qqITQ8O0Q0RWUeZsUXnY`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/self-hosted-models%40_qqITQ8O0Q0RWUeZsUXnY.md`
+
+### 12. Choosing the Right Model 
+- **Module ID**: `zeWoTtAFEpVXDQzWNsha4`
+- **Lessons Count**: 5
+
+  - 1. **Cohere** (`cohere`)
+    - ID: `y0qD5Kb4Pf-ymIwW-tvhX`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/cohere%40y0qD5Kb4Pf-ymIwW-tvhX.md`
+  - 2. **Semantic Search** (`semantic-search`)
+    - ID: `eMfcyBxnMY_l_5-8eg6sD`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/semantic-search%40eMfcyBxnMY_l_5-8eg6sD.md`
+  - 3. **Data Classification** (`data-classification`)
+    - ID: `06Xta-OqSci05nV2QMFdF`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/data-classification%4006Xta-OqSci05nV2QMFdF.md`
+  - 4. **Recommendation Systems** (`recommendation-systems`)
+    - ID: `HQe9GKy3p0kTUPxojIfSF`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/recommendation-systems%40HQe9GKy3p0kTUPxojIfSF.md`
+  - 5. **Anomaly Detection** (`anomaly-detection`)
+    - ID: `AglWJ7gb9rTT2rMkstxtk`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/anomaly-detection%40AglWJ7gb9rTT2rMkstxtk.md`
+
+### 13. OpenRouter
+- **Module ID**: `1GlpMjmdAWor0X_BnISGg`
+- **Lessons Count**: 11
+
+  - 1. **Purpose and Functionality** (`purpose-and-functionality`)
+    - ID: `WcjX6p-V-Rdd77EL8Ega9`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/purpose-and-functionality%40WcjX6p-V-Rdd77EL8Ega9.md`
+  - 2. **Chroma** (`chroma`)
+    - ID: `dSd2C9lNl-ymmCRT9_ZC3`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/chroma%40dSd2C9lNl-ymmCRT9_ZC3.md`
+  - 3. **Pinecone** (`pinecone`)
+    - ID: `_Cf7S1DCvX7p1_3-tP3C3`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/pinecone%40_Cf7S1DCvX7p1_3-tP3C3.md`
+  - 4. **Claude Messages API** (`claude-messages-api`)
+    - ID: `nxwMVla0-PNG8nlocKK5v`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/claude-messages-api%40nxwMVla0-PNG8nlocKK5v.md`
+  - 5. **Weaviate** (`weaviate`)
+    - ID: `VgUnrZGKVjAAO4n_llq5-`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/weaviate%40VgUnrZGKVjAAO4n_llq5-.md`
+  - 6. **FAISS** (`faiss`)
+    - ID: `JurLbOO1Z8r6C3yUqRNwf`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/faiss%40JurLbOO1Z8r6C3yUqRNwf.md`
+  - 7. **LanceDB** (`lancedb`)
+    - ID: `rjaCNT3Li45kwu2gXckke`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/lancedb%40rjaCNT3Li45kwu2gXckke.md`
+  - 8. **Qdrant** (`qdrant`)
+    - ID: `DwOAL5mOBgBiw-EQpAzQl`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/qdrant%40DwOAL5mOBgBiw-EQpAzQl.md`
+  - 9. **Supabase** (`supabase`)
+    - ID: `9kT7EEQsbeD2WDdN9ADx7`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/supabase%409kT7EEQsbeD2WDdN9ADx7.md`
+  - 10. **OpenAI-compatible APIs** (`openai-compatible-apis`)
+    - ID: `vnXtUupJUlyU_uCbZBbnk`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/openai-compatible-apis%40vnXtUupJUlyU_uCbZBbnk.md`
+  - 11. **MongoDB Atlas** (`mongodb-atlas`)
+    - ID: `j6bkm0VUgLkHdMDDJFiMC`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mongodb-atlas%40j6bkm0VUgLkHdMDDJFiMC.md`
+
+### 14. Embedding Models
+- **Module ID**: `fr0UOXlVVctkk1K84Z8Of`
+- **Lessons Count**: 3
+
+  - 1. **Indexing Embeddings** (`indexing-embeddings`)
+    - ID: `5TQnO9B4_LTHwqjI7iHB1`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/indexing-embeddings%405TQnO9B4_LTHwqjI7iHB1.md`
+  - 2. **Performing Similarity Search** (`performing-similarity-search`)
+    - ID: `ZcbRPtgaptqKqWBgRrEBU`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/performing-similarity-search%40ZcbRPtgaptqKqWBgRrEBU.md`
+  - 3. **Multimodal AI Usecases** (`multimodal-ai-usecases`)
+    - ID: `sGR9qcro68KrzM8qWxcH8`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/multimodal-ai-usecases%40sGR9qcro68KrzM8qWxcH8.md`
+
+### 15. LLM Observability
+- **Module ID**: `1bBgMVISENC-XBwuZFlUk`
+- **Lessons Count**: 3
+
+  - 1. **Tracing & logging** (`tracing--logging`)
+    - ID: `cdapQf0Owxdx6olAHTrbq`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/tracing--logging%40cdapQf0Owxdx6olAHTrbq.md`
+  - 2. **Cost/latency monitoring** (`costlatency-monitoring`)
+    - ID: `CG3XTMPug98s-EP0_rn1Y`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/costlatency-monitoring%40CG3XTMPug98s-EP0_rn1Y.md`
+  - 3. **Production monitoring** (`production-monitoring`)
+    - ID: `3gwVG4XaO83z3Yzdd84Z-`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/production-monitoring%403gwVG4XaO83z3Yzdd84Z-.md`
+
+### 16. LLM Evaluations
+- **Module ID**: `FJ3ZwbTdiFyebrFi96tnz`
+- **Lessons Count**: 5
+
+  - 1. **LangSmith** (`langsmith`)
+    - ID: `bN_ReFUQgkJmWOAFMLXMg`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/langsmith%40bN_ReFUQgkJmWOAFMLXMg.md`
+  - 2. **Langfuse** (`langfuse`)
+    - ID: `Xw6-crHimGrVC1u1xujc6`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/langfuse%40Xw6-crHimGrVC1u1xujc6.md`
+  - 3. **Helicone** (`helicone`)
+    - ID: `82LE-qxw1H_FYfVUdgkN9`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/helicone%4082LE-qxw1H_FYfVUdgkN9.md`
+  - 4. **Arize AI** (`arize-ai`)
+    - ID: `jx57heeBnacrlCyQPhlEi`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/arize-ai%40jx57heeBnacrlCyQPhlEi.md`
+  - 5. **Deterministic Evals** (`deterministic-evals`)
+    - ID: `kSDTJK74Tq0KHBfIawJuT`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/deterministic-evals%40kSDTJK74Tq0KHBfIawJuT.md`
+
+### 17. Regression Testing
+- **Module ID**: `Bkzi3QyzKyHxcHE7sodRZ`
+- **Lessons Count**: 12
+
+  - 1. **Model-Based Evals** (`model-based-evals`)
+    - ID: `LJ6_U5lOdc0uRngutj7Ro`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/model-based-evals%40LJ6_U5lOdc0uRngutj7Ro.md`
+  - 2. **Human Evals** (`human-evals`)
+    - ID: `QIx5nT75l2Cn2q75-TxfD`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/human-evals%40QIx5nT75l2Cn2q75-TxfD.md`
+  - 3. **Evaluation Metrics** (`evaluation-metrics`)
+    - ID: `Z8MBleL51wJuV9BkS1djI`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/evaluation-metrics%40Z8MBleL51wJuV9BkS1djI.md`
+  - 4. **DeepEval** (`deepeval`)
+    - ID: `hyN5v8dg1lHJLpdZZdtJE`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/deepeval%40hyN5v8dg1lHJLpdZZdtJE.md`
+  - 5. **RAGAS** (`ragas`)
+    - ID: `CZ_-PSDzzSrSon5XdzLen`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/ragas%40CZ_-PSDzzSrSon5XdzLen.md`
+  - 6. **Claude Code** (`claude-code`)
+    - ID: `wr5ddjutC-fX_ixysTHaT`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/claude-code%40wr5ddjutC-fX_ixysTHaT.md`
+  - 7. **Gemini** (`gemini`)
+    - ID: `hzeEo8COf2l07iu5EdlFo`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/gemini%40hzeEo8COf2l07iu5EdlFo.md`
+  - 8. **Codex** (`codex`)
+    - ID: `XY2l96sry3WyLzzo3KUeU`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/codex%40XY2l96sry3WyLzzo3KUeU.md`
+  - 9. **Cursor** (`cursor`)
+    - ID: `MWhoqhNnBaoeCdN_8i15k`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/cursor%40MWhoqhNnBaoeCdN_8i15k.md`
+  - 10. **Devin** (`windsurf`)
+    - ID: `Xsl8mx6J182TxPPtNP471`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/windsurf%40Xsl8mx6J182TxPPtNP471.md`
+  - 11. **Replit** (`replit`)
+    - ID: `Ubk4GN0Z4XlDJ3EbRXdxg`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/replit%40Ubk4GN0Z4XlDJ3EbRXdxg.md`
+  - 12. **NanoBanana API** (`nanobanana-api`)
+    - ID: `6y73FLjshnqxV8BTGUeiu`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/nanobanana-api%406y73FLjshnqxV8BTGUeiu.md`
+
+### 18. Context Engineering
+- **Module ID**: `ySIOjFFU4GZbP0gqyWwLL`
+- **Lessons Count**: 7
+
+  - 1. **DeepSeek** (`deepseek`)
+    - ID: `UGYYh2W1XnnbgYNY8L8Hb`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/deepseek%40UGYYh2W1XnnbgYNY8L8Hb.md`
+  - 2. **Gemma** (`gemma`)
+    - ID: `MNtaY1_kOJHeoWuM-abb4`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/gemma%40MNtaY1_kOJHeoWuM-abb4.md`
+  - 3. **Qwen** (`qwen`)
+    - ID: `c0RPhpD00VIUgF4HJgN2T`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/qwen%40c0RPhpD00VIUgF4HJgN2T.md`
+  - 4. **Prompt Injection Attacks** (`prompt-injection-attacks`)
+    - ID: `cUyLT6ctYQ1pgmodCKREq`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/prompt-injection-attacks%40cUyLT6ctYQ1pgmodCKREq.md`
+  - 5. **Security and Privacy Concerns** (`security-and-privacy-concerns`)
+    - ID: `sWBT-j2cRuFqRFYtV_5TK`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/security-and-privacy-concerns%40sWBT-j2cRuFqRFYtV_5TK.md`
+  - 6. **Bias and Fairness** (`bias-and-fairness`)
+    - ID: `lhIU0ulpvDAn1Xc3ooYz_`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/bias-and-fairness%40lhIU0ulpvDAn1Xc3ooYz_.md`
+  - 7. **Content Moderation APIs** (`content-moderation-apis`)
+    - ID: `ljZLa3yjQpegiZWwtnn_q`
+    - URL: `https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/content-moderation-apis%40ljZLa3yjQpegiZWwtnn_q.md`

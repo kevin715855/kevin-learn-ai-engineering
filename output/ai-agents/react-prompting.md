@@ -1,0 +1,19 @@
+---
+id: voDKcKvXtyLzeZdx2g3Qn
+slug: react-prompting
+title: "ReAct (Reasoning and Acting) Prompting"
+original_title: "ReAct Prompting"
+module_id: 4_ap0rD9Gl6Ep_4jMfPpG
+module_title: "AI Agents"
+language: vi
+source_status: completed
+---
+
+# ReAct (Reasoning and Acting) Prompting
+
+ReAct (Reasoning and Acting) prompting is a technique that combines reasoning and action by guiding language models to think through a problem step-by-step and then take specific actions based on the reasoning. It encourages the model to break down tasks into logical steps (reasoning) and perform operations, such as calling APIs or retrieving information (actions), to reach a solution. This approach helps in scenarios where the model needs to process complex queries, interact with external systems, or handle tasks requiring a sequence of actions, improving the model's ability to provide accurate and context-aware responses.
+
+Visit the following resources to learn more:
+
+- [@article@ReAct (Reasoning and Acting) Prompting](https://www.promptingguide.ai/techniques/ReAct (Reasoning and Acting))
+- [@article@ReAct (Reasoning and Acting) Prompting: How We Prompt for High-Quality Results from LLMs](https://www.width.ai/post/ReAct (Reasoning and Acting)-prompting)

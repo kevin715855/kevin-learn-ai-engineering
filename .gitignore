@@ -1,0 +1,21 @@
+.opencode/
+
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local configuration and generated state
+.env
+.env.*
+!.env.example
+crawl_state.db
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
