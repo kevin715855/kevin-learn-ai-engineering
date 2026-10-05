@@ -8,13 +8,12 @@ module_title: "Regression Testing"
 language: vi
 source_status: completed
 ---
-
 # RAGAS
 
-RAGAS is an open-source framework specifically designed for evaluating Tăng cường Thế hệ bằng Truy xuất (RAG) pipelines. It provides a suite of reference-free metrics, meaning it does not require hand-labeled ground truth answers, which makes it practical to run on real production data. Its core metrics cover the main ways a RAG system can fail: retrieving the wrong context, generating answers that are not supported by the retrieved context, and producing responses that do not actually address the user's question.
+RAGAS là một framework mã nguồn mở được thiết kế đặc biệt để đánh giá các pipeline retrieval-augmented generation. Nó cung cấp một bộ công cụ các chỉ số không cần tham chiếu, có nghĩa là nó không cần câu trả lời ground truth được gán nhãn thủ công, điều này làm cho việc thực thi trên dữ liệu sản xuất thực tế trở nên khả thi. Các chỉ số chính của nó bao phủ các cách chính mà một hệ thống RAG có thể thất bại: lấy bối cảnh sai, tạo ra câu trả lời không được hỗ trợ bởi bối cảnh đã lấy, và tạo ra phản hồi mà không thực sự giải đáp câu hỏi của người dùng.
 
-Visit the following resources to learn more:
+Truy cập các tài nguyên sau để tìm hiểu thêm:
 
-- [@official@Ragas Docs](https://docs.ragas.io/en/stable/)
+- [@official@Tài liệu Ragas](https://docs.ragas.io/en/stable/)
 - [@opensource@ragas](https://github.com/vibrantlabsai/ragas)
-- [@video@RAGAS: Cách thực hiện Evaluate a RAG Application](https://www.youtube.com/watch?v=5fp6e5nhJRk)
+- [@video@RAGAS: Cách Đánh Giá Một Ứng Dụng RAG](https://www.youtube.com/watch?v=5fp6e5nhJRk)

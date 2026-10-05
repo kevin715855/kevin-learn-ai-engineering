@@ -8,12 +8,11 @@ module_title: "Ollama"
 language: vi
 source_status: completed
 ---
-
 # Atlan
 
-Atlan is a data catalog and governance platform that helps organizations discover, document, and manage their data assets across warehouses, pipelines, and BI tools. It provides a searchable inventory of datasets along with lineage, ownership, and quality information, so teams know where data comes from and whether it can be trusted. For AI systems, this kind of catalog can act as a source of vetted context, helping ensure that agents pull from data that is current and properly governed rather than from unreliable or duplicate sources. Atlan is offered as a managed, cloud based product rather than a self hosted tool.
+Atlan là một data catalog và governance platform giúp các tổ chức khám phá, ghi chép và quản lý tài sản dữ liệu của mình trên các warehouses, pipelines và công cụ BI. Nó cung cấp một danh sách có thể tìm kiếm các datasets kèm theo thông tin về lineage, ownership và chất lượng, để các đội biết dữ liệu đến từ đâu và có thể được tin cậy hay không. Với các hệ thống AI, danh mục như vậy có thể đóng vai trò như một nguồn bối cảnh đã được kiểm duyệt, giúp đảm bảo rằng các trích xuất lấy dữ liệu từ nguồn hiện tại và được quản trị tốt thay vì từ nguồn không tin cậy hoặc trùng lặp. Atlan được cung cấp dưới dạng một sản phẩm được quản lý dựa trên đám mây thay vì là một công cụ tự triển khai.
 
-Visit the following resources to learn more:
+Hãy truy cập các nguồn lực sau để tìm hiểu thêm:
 
 - [@official@Altan](https://atlan.com/)
 - [@video@What Does Atlan Do? The Context Layer for Enterprise AI](https://www.youtube.com/watch?v=GhtLIRsbUV8)

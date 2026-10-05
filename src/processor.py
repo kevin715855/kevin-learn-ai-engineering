@@ -4,71 +4,117 @@ import logging
 import re
 from pathlib import Path
 from typing import Dict, List, Any, Tuple
+import anthropic
 from .state import CrawlStateTracker
 
 logger = logging.getLogger(__name__)
 
-# AI Engineer Domain Glossary for English -> Vietnamese Translation
-GLOSSARY = {
-    "Large Language Model": "Mô hình Ngôn ngữ Lớn (LLM)",
-    "Large Language Models": "Các Mô hình Ngôn ngữ Lớn (LLMs)",
-    "Retrieval-Augmented Generation": "Tăng cường Thế hệ bằng Truy xuất (RAG)",
-    "Vector Database": "Cơ sở dữ liệu Vector",
-    "Vector Databases": "Các cơ sở dữ liệu Vector",
-    "Prompt Engineering": "Kỹ thuật Tạo câu lệnh (Prompt Engineering)",
-    "Fine-tuning": "Tinh chỉnh (Fine-tuning)",
-    "Embeddings": "Biểu diễn nhúng (Embeddings)",
-    "Embedding": "Biểu diễn nhúng (Embedding)",
-    "AI Agent": "Tác nhân AI (AI Agent)",
-    "AI Agents": "Các tác nhân AI (AI Agents)",
-    "Context Window": "Cửa sổ ngữ cảnh",
-    "Tokens": "Token",
-    "Token": "Token",
-    "Inference": "Suy luận (Inference)",
-    "Training": "Huấn luyện (Training)",
-    "Zero-Shot": "Zero-Shot",
-    "Few-Shot": "Few-Shot",
-    "Chain of Thought": "Chuỗi suy nghĩ (Chain of Thought)",
-    "ReAct": "ReAct (Reasoning and Acting)",
-    "Hallucination": "Ảo giác (Hallucination)",
-    "Guardrails": "Hàng rào bảo vệ (Guardrails)",
-    "Adversarial Testing": "Kiểm thử đối kháng (Adversarial Testing)",
-    "Content Moderation": "Kiểm duyệt nội dung",
-    "Vector Store": "Kho lưu trữ Vector",
-    "Semantic Search": "Tìm kiếm ngữ nghĩa",
-    "Model Context Protocol": "Giao thức Ngữ cảnh Mô hình (MCP)",
-    "MCP Server": "Máy chủ MCP",
-    "MCP Client": "Máy khách MCP"
-}
-
-COMMON_PHRASES = {
-    "Overview": "Tổng quan",
-    "Introduction": "Giới thiệu",
-    "Key Concepts": "Các khái niệm chính",
-    "Best Practices": "Các phương pháp hay nhất",
-    "Use Cases": "Trường hợp sử dụng",
-    "Examples": "Ví dụ",
-    "Advantages": "Ưu điểm",
-    "Disadvantages": "Nhược điểm",
-    "Conclusion": "Kết luận",
-    "Summary": "Tóm tắt",
-    "Prerequisites": "Điều kiện tiên quyết",
-    "Getting Started": "Bắt đầu",
-    "How it Works": "Cách thức hoạt động",
-    "Why use": "Tại sao nên sử dụng",
-    "Challenges": "Thách thức",
-    "Limitations": "Hạn chế"
-}
-
 class ContentTranslator:
     def __init__(self):
-        self.glossary = GLOSSARY
-        self.phrases = COMMON_PHRASES
+        # Initialize Claude client with environment variables
+        api_key = os.environ.get('ANTHROPIC_AUTH_TOKEN')
+        base_url = os.environ.get('ANTHROPIC_BASE_URL')
+
+        if api_key and base_url:
+            self.client = anthropic.Anthropic(
+                api_key=api_key,
+                base_url=base_url
+            )
+            self.use_api = True
+            logger.info("Initialized Claude API translator")
+        else:
+            self.use_api = False
+            logger.warning("Claude API credentials not found, falling back to rule-based translation")
+            # Fallback glossaries for rule-based translation
+            self.glossary = {
+                "Large Language Model": "Mô hình Ngôn ngữ Lớn (LLM)",
+                "Large Language Models": "Các Mô hình Ngôn ngữ Lớn (LLMs)",
+                "Retrieval-Augmented Generation": "Tăng cường Thế hệ bằng Truy xuất (RAG)",
+                "Vector Database": "Cơ sở dữ liệu Vector",
+                "Vector Databases": "Các cơ sở dữ liệu Vector",
+                "Prompt Engineering": "Kỹ thuật Tạo câu lệnh (Prompt Engineering)",
+                "Fine-tuning": "Tinh chỉnh (Fine-tuning)",
+                "Embeddings": "Biểu diễn nhúng (Embeddings)",
+                "Embedding": "Biểu diễn nhúng (Embedding)",
+                "AI Agent": "Tác nhân AI (AI Agent)",
+                "AI Agents": "Các tác nhân AI (AI Agents)",
+                "Context Window": "Cửa sổ ngữ cảnh",
+                "Tokens": "Token",
+                "Token": "Token",
+                "Inference": "Suy luận (Inference)",
+                "Training": "Huấn luyện (Training)",
+                "Zero-Shot": "Zero-Shot",
+                "Few-Shot": "Few-Shot",
+                "Chain of Thought": "Chuỗi suy nghĩ (Chain of Thought)",
+                "ReAct": "ReAct (Reasoning and Acting)",
+                "Hallucination": "Ảo giác (Hallucination)",
+                "Guardrails": "Hàng rào bảo vệ (Guardrails)",
+                "Adversarial Testing": "Kiểm thử đối kháng (Adversarial Testing)",
+                "Content Moderation": "Kiểm duyệt nội dung",
+                "Vector Store": "Kho lưu trữ Vector",
+                "Semantic Search": "Tìm kiếm ngữ nghĩa",
+                "Model Context Protocol": "Giao thức Ngữ cảnh Mô hình (MCP)",
+                "MCP Server": "Máy chủ MCP",
+                "MCP Client": "Máy khách MCP"
+            }
+
+            self.phrases = {
+                "Overview": "Tổng quan",
+                "Introduction": "Giới thiệu",
+                "Key Concepts": "Các khái niệm chính",
+                "Best Practices": "Các phương pháp hay nhất",
+                "Use Cases": "Trường hợp sử dụng",
+                "Examples": "Ví dụ",
+                "Advantages": "Ưu điểm",
+                "Disadvantages": "Nhược điểm",
+                "Conclusion": "Kết luận",
+                "Summary": "Tóm tắt",
+                "Prerequisites": "Điều kiện tiên quyết",
+                "Getting Started": "Bắt đầu",
+                "How it Works": "Cách thức hoạt động",
+                "Why use": "Tại sao nên sử dụng",
+                "Challenges": "Thách thức",
+                "Limitations": "Hạn chế"
+            }
 
     def translate_text(self, text: str) -> str:
         if not text or not text.strip():
             return text
 
+        # Use Claude API if available
+        if self.use_api:
+            try:
+                message = self.client.messages.create(
+                    model="claude-3-5-sonnet-20241022",
+                    max_tokens=1000,
+                    system="You are a professional translator specializing in technical English to Vietnamese translation. Translate the following text accurately and naturally into Vietnamese. Preserve technical terms and formatting. Only return the translated text, no additional explanation.",
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": f"Translate this to Vietnamese: {text}"
+                        }
+                    ]
+                )
+
+                # Extract text from response content blocks
+                translated_text = ""
+                for block in message.content:
+                    if hasattr(block, 'text'):
+                        translated_text += block.text
+                    elif hasattr(block, 'type') and block.type == 'text':
+                        translated_text += getattr(block, 'text', '')
+
+                return translated_text.strip() if translated_text.strip() else text
+            except Exception as e:
+                logger.error(f"Claude API translation failed: {e}")
+                # Fall back to rule-based translation
+                return self._translate_rule_based(text)
+        else:
+            # Use rule-based translation
+            return self._translate_rule_based(text)
+
+    def _translate_rule_based(self, text: str) -> str:
+        """Fallback rule-based translation"""
         translated = text
 
         # Replace common phrases if exact match or header start
@@ -190,7 +236,7 @@ class RoadmapProcessor:
                     content = Path(raw_file_path).read_text(encoding="utf-8")
                 except Exception as e:
                     logger.warning("Failed to read raw file %s: %s", raw_file_path, e)
-            
+
             if not content:
                 # Try fallback path in raw_data/lessons/
                 fallback_path = self.raw_dir / "lessons" / f"{slug}@{lesson_id}.md"
@@ -228,8 +274,8 @@ module_title: "{module_title}"
 language: vi
 source_status: completed
 ---
-
 """
+
             full_markdown = frontmatter + translated_content
 
             # Save processed lesson markdown

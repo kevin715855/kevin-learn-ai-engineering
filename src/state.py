@@ -10,15 +10,20 @@ class CrawlStateTracker:
     def get_connection(self):
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
+        conn.execute("PRAGMA journal_mode=WAL;")
         return conn
 
     def _execute(self, query, params=()):
         conn = self.get_connection()
         try:
             cursor = conn.cursor()
+            cursor.execute("BEGIN TRANSACTION;")
             cursor.execute(query, params)
             conn.commit()
             return cursor
+        except Exception:
+            conn.rollback()
+            raise
         finally:
             conn.close()
 

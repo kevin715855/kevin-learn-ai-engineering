@@ -1,21 +1,20 @@
 ---
 id: kG1bkF2oY21CJOm9zhdpn
 slug: multi-agents
-title: "Multi-agents"
+title: "Nhiều tác nhân"
 original_title: "Multi-agents"
 module_id: 4_ap0rD9Gl6Ep_4jMfPpG
 module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
+# Hệ thống đa đại lý
 
-# Multi-Agent Systems
+Multi-agent systems liên quan đến hành vi có điều chỉnh của nhiều tác nhân thông minh trong một môi trường. Các tác nhân này tương tác với nhau, có thể hợp tác hoặc cạnh tranh, để đạt được mục tiêu cá nhân hoặc tập thể. Sự phức tạp xuất phát từ nhu cầu các tác nhân phải suy luận về các hành động, ý định và kiến thức của các tác nhân khác để đưa ra quyết định có thông tin và hiệu quả điều hướng trong môi trường.
 
-Multi-agent systems involve the coordinated behavior of multiple intelligent agents within an environment. These agents interact with each other, potentially cooperating or competing, to achieve individual or collective goals. The complexity arises from the need for agents to reason about the actions, intentions, and knowledge of other agents to make informed decisions and effectively navigate the environment.
+Truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@article@Khái niệm a multi-agent system?](https://www.ibm.com/think/topics/multiagent-system)
-- [@article@Multi-Agent Systems](https://huggingface.co/learn/agents-course/en/unit2/smolagents/multi_agent_systems)
+- [@article@Hệ thống multi-agent là gì?](https://www.ibm.com/think/topics/multiagent-system)
+- [@article@Hệ thống đa đại lý](https://huggingface.co/learn/agents-course/en/unit2/smolagents/multi_agent_systems)
 - [@article@Guide to multi-agent systems (MAS)](https://cloud.google.com/discover/what-is-a-multi-agent-system)
-- [@article@Agentic AI 103: Building Multi-Agent Teams](https://towardsdatascience.com/agentic-ai-103-building-multi-agent-teams/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@Agentic AI 103: Xây dựng đội đa đại lý]

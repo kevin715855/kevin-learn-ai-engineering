@@ -1,20 +1,19 @@
 ---
 id: x0G0WD8MUflucdBqf2j5k
 slug: context-sources
-title: "Context Sources"
+title: "Nguồn bối cảnh"
 original_title: "Context Sources"
 module_id: zdeuA4GbdBl2DwKgiOA4G
 module_title: "How LLMs Work"
 language: vi
 source_status: completed
 ---
+# Nguồn bối cảnh
 
-# Context Sources
+Nguồn context là những nơi mà hệ thống AI lấy thông tin để xây dựng những gì một mô hình nhìn thấy tại thời điểm suy luận. Các nguồn phổ biến bao gồm tài liệu và cơ sở kiến thức, cơ sở dữ liệu và kho dữ liệu, kho mã nguồn, công cụ trò chuyện và hỗ trợ, cũng như kết quả từ các cuộc gọi công cụ khác hoặc các proxy. Mỗi nguồn có tần suất cập nhật, quy tắc truy cập và định dạng riêng, vì vậy việc kết hợp chúng tốt đòi hỏi chuẩn hóa và lọc trước khi dữ liệu đạt tới mô hình. Việc lựa chọn nguồn phù hợp cho một nhiệm vụ cũng quan trọng như lượng dữ liệu được đưa vào.
 
-Context sources are the places an AI system pulls information from to build what a model sees at Suy luận (Inference) time. Common sources include documents and knowledge bases, databases and data warehouses, code repositories, chat and support tools, and the outputs of other tool calls or agents. Each source has its own update frequency, access rules, and format, so combining them well requires normalizing and filtering before the data reaches the model. Choosing the right sources for a task matters as much as how much data is included.
-
-Visit the following resources to learn more:
+Hãy truy cập các tài nguyên sau để tìm hiểu thêm:
 
 - [@article@The Context Layer for AI: What Enterprises Get Wrong](https://datahub.com/blog/context-layer-for-ai/)
-- [@article@Context Engineering for Các tác nhân AI (AI Agents): The Complete Guide](https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7)
-- [@video@Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
+- [@article@Kỹ thuật ngữ cảnh cho các tác nhân AI: Hướng dẫn hoàn chỉnh](https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7)
+- [@video@Hầu hết các dev không hiểu cách làm việc của các cửa sổ ngữ cảnh](https://www.youtube.com/watch?v=-uW5-TaVXu4)

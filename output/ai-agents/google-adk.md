@@ -8,13 +8,12 @@ module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
-
 # Google ADK
 
-The Google Agent Development Kit (ADK) is a framework designed to help developers build, test, and deploy Các tác nhân AI (AI Agents). It provides tools and libraries that streamline the agent development process, offering features like agent orchestration, tool integration, and evaluation metrics. ADK aims to simplify the complexities of creating sophisticated Các tác nhân AI (AI Agents) capable of interacting with the real world.
+Google Agent Development Kit (ADK) là một khung công cụ được thiết kế để giúp các nhà phát triển xây dựng, kiểm thử và triển khai các tác nhân AI. Nó cung cấp các công cụ và thư viện giúp quá trình phát triển tác nhân được đơn giản hóa, bao gồm các tính năng như điều phối tác nhân, tích hợp công cụ và các chỉ số đánh giá. ADK nhằm đơn giản hoá các phức tạp trong việc tạo ra các tác nhân AI tinh vi có khả năng tương tác với thế giới thực.
 
-Visit the following resources to learn more:
+Hãy truy cập các nguồn lực sau để biết thêm:
 
-- [@course@ADK Crash Course - From Beginner To Expert](https://codelabs.developers.google.com/onramp/instructions#0)
-- [@official@Agent Development Kit](https://google.github.io/adk-docs/)
-- [@official@Tổng quan of Agent Development Kit](https://docs.cloud.google.com/agent-builder/agent-development-kit/Tổng quan)
+- [@course@ADK Khóa học intensif - Từ người mới bắt đầu đến chuyên gia](https://codelabs.developers.google.com/onramp/instructions#0)
+- [@official@Bộ công cụ phát triển Tác nhân](https://google.github.io/adk-docs/)
+- [@official@Tổng quan Agent Development Kit](https://docs.cloud.google.com/agent-builder/agent-development-kit/overview)

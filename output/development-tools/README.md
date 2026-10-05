@@ -5,8 +5,8 @@
 
 ## Danh sách bài học
 
-1. [Audio Processing](./audio-processing.md) (`audio-processing`)
-2. [Text-to-Speech](./text-to-speech.md) (`text-to-speech`)
-3. [Speech-to-Text](./speech-to-text.md) (`speech-to-text`)
-4. [LangChain for Multimodal Apps](./langchain-for-multimodal-apps.md) (`langchain-for-multimodal-apps`)
-5. [LlamaIndex for Multimodal Apps](./llamaindex-for-multimodal-apps.md) (`llamaindex-for-multimodal-apps`)
+1. [Xử lý âm thanh](./audio-processing.md) (`audio-processing`)
+2. [Chuyển đổi văn bản thành giọng nói](./text-to-speech.md) (`text-to-speech`)
+3. [Giọng nói thành văn bản](./speech-to-text.md) (`speech-to-text`)
+4. [LangChain cho Ứng dụng đa chế độ](./langchain-for-multimodal-apps.md) (`langchain-for-multimodal-apps`)
+5. [LlamaIndex cho Ứng dụng đa phương tiện](./llamaindex-for-multimodal-apps.md) (`llamaindex-for-multimodal-apps`)

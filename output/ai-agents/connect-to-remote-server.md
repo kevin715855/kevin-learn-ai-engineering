@@ -1,20 +1,19 @@
 ---
 id: 2t4uINxmzfx8FUF-_i_2B
 slug: connect-to-remote-server
-title: "Connect to Remote Server"
+title: "Kết nối tới máy chủ từ xa"
 original_title: "Connect to Remote Server"
 module_id: 4_ap0rD9Gl6Ep_4jMfPpG
 module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
+# Kết nối tới Máy chủ từ xa
 
-# Connect to Remote Server
+Triển khai từ xa hoặc trên đám mây đặt MCP server trên một nhà cung cấp đám mây thay vì trên máy local. Bạn đóng gói MCP server dưới dạng container hoặc virtual machine, chọn một dịch vụ như AWS, Azure, hoặc GCP, và cung cấp cho nó compute, storage, và một địa chỉ HTTPS công cộng. Một load balancer phân phối lưu lượng, trong khi auto-scaling thêm hoặc loại bỏ các bản sao của MCP server khi nhu cầu thay đổi. Bảo vệ điểm cuối bằng TLS, API keys,
 
-Remote or cloud deployment places the Máy chủ MCP on a cloud provider instead of a local machine. You package the server as a container or virtual machine, choose a service like AWS, Azure, or GCP, and give it compute, storage, and a public HTTPS address. A load balancer spreads traffic, while auto-scaling adds or removes copies of the server as demand changes. You secure the endpoint with TLS, API keys, and firewalls, and you send logs and metrics to the provider’s monitoring tools. This setup lets the server handle many users, updates are easier, and you avoid local hardware limits, though you must watch costs and protect sensitive data.
+Truy cập các tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@official@Connect to remote MCP Servers](https://modelcontextprotocol.io/docs/develop/connect-remote-servers)
-- [@article@Remote MCP Servers](https://mcpservers.org/remote-mcp-servers)
+- [@official@Kết nối với các máy chủ MCP từ xa](https://modelcontextprotocol.io/docs/develop/connect-remote-servers)
+- [@article@Máy chủ MCP từ xa](https://mcpservers.org/remote-mcp-servers)
 - [@video@Deploy Remote MCP Servers in Python (Step by Step)](https://www.youtube.com/watch?v=wXAqv8uvY0M)

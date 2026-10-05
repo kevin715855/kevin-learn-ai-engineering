@@ -1,18 +1,17 @@
 ---
 id: PT3uDiUjiKhO8laOkCmgP
 slug: constraints
-title: "Constraints"
+title: "Ràng buộc"
 original_title: "Constraints"
 module_id: zdeuA4GbdBl2DwKgiOA4G
 module_title: "How LLMs Work"
 language: vi
 source_status: completed
 ---
+# Giới hạn Prompt
 
-# Constraining Prompts
+Việc áp dụng các ràng buộc cho system prompts liên quan đến việc xác định rõ ràng ranh giới và hạn chế trong các hướng dẫn được cung cấp cho một mô hình ngôn ngữ lớn (LLM). Kỹ thuật này tập trung vào việc hướng dẫn LLM hoạt động trong một phạm vi cụ thể, ngăn chặn việc sinh ra các phản hồi không liên quan, gây hại hoặc sai事實 bằng cách thiết lập các quy tắc và hạn chế đối với hành vi và định dạng đầu ra của nó.
 
-Constraining system prompts involves explicitly defining boundaries and Hạn chế within the instructions given to a Mô hình Ngôn ngữ Lớn (LLM) (LLM). This technique focuses on guiding the LLM to operate within a specific scope, preventing it from generating irrelevant, harmful, or factually incorrect responses by setting rules and restrictions on its behavior and output format.
+Hãy truy cập các tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@article@Giới thiệu: The Power of Clear Instructions](https://codesignal.com/learn/courses/prompting-foundations/lessons/defining-constraints-and-requirements-for-effective-prompts)
+- [@article@Giới thiệu: Sức mạnh của các chỉ dẫn rõ ràng](https://codesignal.com/learn/courses/prompting-foundations/lessons/defining-constraints-and-requirements

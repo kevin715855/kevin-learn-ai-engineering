@@ -1,20 +1,19 @@
 ---
 id: 0Rk0rCbmRFJT2GKwUibQS
 slug: building-an-mcp-client
-title: "Building an Máy khách MCP"
+title: "Xây dựng một MCP Client"
 original_title: "Building an MCP Client"
 module_id: 4_ap0rD9Gl6Ep_4jMfPpG
 module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
+# Xây dựng một MCP Client
 
-# Building an Máy khách MCP
+Xây dựng khách hàng MCP (Model Context Protocol) liên quan đến việc phát triển phần mềm có thể tương tác với các mô hình AI bằng cách sử dụng một giao thức chuẩn. Khách hàng này làmหน้าที่ như một trung gian: định dạng các yêu cầu dành cho mô hình, gửi chúng, và sau đó xử lý phản hồi của mô hình thành một định dạng có thể sử dụng cho các ứng dụng hoặc hệ thống khác. Từ thực tế, đây là thành phần phần mềm cho phép bạn giao tiếp và khai thác khả năng của một mô hình AI theo cách có cấu trúc và nhất quán.
 
-Building an MCP (Giao thức Ngữ cảnh Mô hình (MCP)) client involves creating software that can interact with AI models using a standardized protocol. This client acts as an intermediary, formatting requests for the model, sending them, and then processing the model's responses into a usable format for other applications or systems. Essentially, it's the piece of software that allows you to communicate with and leverage the capabilities of an AI model in a structured and consistent way.
+Hãy truy cập các nguồn lực sau đây để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@official@Build an Máy khách MCP](https://modelcontextprotocol.io/docs/develop/build-client)
-- [@article@Máy khách MCP - Step by Step Guide to Building from Scratch](https://composio.dev/blog/mcp-client-step-by-step-guide-to-building-from-scratch)
-- [@video@Create an Máy khách MCP in Python - FastAPI Tutorial](https://www.youtube.com/watch?v=mhdGVbJBswA)
+- [@official@Xây dựng một ứng dụng khách MCP](https://modelcontextprotocol.io/docs/develop/build-client)
+- [@article@MCP Client - Hướng dẫn từng bước để xây dựng từ đầu](https://composio.dev/blog/mcp-client-step-by-step-guide-to-building-from-scratch)
+- [@video@Tạo một MCP Client bằng Python - Hướng dẫn FastAPI](https://www.youtube.com/watch?v=mhdGVbJBswA)

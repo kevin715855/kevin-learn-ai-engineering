@@ -6,7 +6,7 @@
 ## Danh sách bài học
 
 1. [Chunking](./chunking.md) (`chunking`)
-2. [Biểu diễn nhúng (Embedding)](./embedding.md) (`embedding`)
-3. [Cơ sở dữ liệu Vector](./vector-database.md) (`vector-database`)
-4. [Retrieval Process](./retrieval-process.md) (`retrieval-process`)
-5. [Generation](./generation.md) (`generation`)
+2. [Nhúng](./embedding.md) (`embedding`)
+3. [Cơ sở dữ liệu vector](./vector-database.md) (`vector-database`)
+4. [Quá trình truy xuất](./retrieval-process.md) (`retrieval-process`)
+5. [sinh](./generation.md) (`generation`)

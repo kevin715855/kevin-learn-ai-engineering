@@ -8,12 +8,11 @@ module_title: "Context Engineering"
 language: vi
 source_status: completed
 ---
-
 # Qwen
 
-Qwen is a series of Các Mô hình Ngôn ngữ Lớn (LLMs) (LLMs) developed by Alibaba Group. These models are open-source, meaning their code and architecture are publicly available, allowing researchers and developers to use, study, and modify them for their own purposes. Qwen models are designed to perform various natural language processing tasks, such as text generation, translation, and question answering, and come in different sizes, allowing for flexibility based on computational resources and specific application requirements.
+Qwen là một chuỗi các mô hình ngôn ngữ lớn (LLMs) được phát triển bởi Alibaba Group. Các mô hình này là mã nguồn mở, nghĩa là mã và kiến trúc của chúng được công khai, cho phép các nhà nghiên cứu và nhà phát triển sử dụng, nghiên cứu và sửa đổi chúng cho mục đích riêng của họ. Các mô hình Qwen được thiết kế để thực hiện các tác vụ xử lý ngôn ngữ tự nhiên khác nhau, như tạo văn bản, dịch và trả lời câu hỏi, và có các kích thước khác nhau, cho phép linh hoạt dựa trên tài nguyên tính toán và yêu cầu cụ thể của ứng dụng.
 
-Visit the following resources to learn more:
+Truy cập các nguồn lực sau để tìm hiểu thêm:
 
 - [@official@Qwen](https://chat.qwen.ai/)
-- [@article@Khái niệm Qwen AI?](https://zapier.com/blog/qwen/)
+- [@article@Qwen AI là gì?](https://zapier.com/blog/qwen/)

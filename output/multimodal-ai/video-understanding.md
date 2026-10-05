@@ -1,19 +1,18 @@
 ---
 id: TxaZCtTCTUfwCxAJ2pmND
 slug: video-understanding
-title: "Video Understanding"
+title: "Hiểu video"
 original_title: "Video Understanding"
 module_id: W7cKPt_UxcUgwp8J6hS4p
 module_title: "Multimodal AI"
 language: vi
 source_status: completed
 ---
+# hiểu biết video
 
-# Video Understanding
+Hiểu video với multimodal AI liên quan đến việc phân tích và giải thích cả nội dung hình ảnh và âm thanh để cung cấp một sự hiểu biết toàn diện hơn về video. Các trường hợp sử dụng phổ biến bao gồm video summarization, trong đó AI trích xuất các cảnh quan trọng và tạo ra bản tóm tắt; content moderation, nơi hệ thống phát hiện các hình ảnh hoặc âm thanh không thích hợp; và video indexing để tìm kiếm và truy xuất dễ dàng các khoảnh khắc cụ thể trong một video. Các ứng dụng khác bao gồm cải thiện video-based recommendations, security surveillance và interactive entertainment, nơi video và âm thanh được xử lý cùng nhau để thực hiện tương tác người dùng theo thời gian thực.
 
-Video understanding with multimodal AI involves analyzing and interpreting both visual and audio content to provide a more comprehensive understanding of videos. Common Trường hợp sử dụng include video summarization, where AI extracts key scenes and generates summaries; Kiểm duyệt nội dung, where the system detects inappropriate visuals or audio; and video indexing for easier search and retrieval of specific moments within a video. Other applications include enhancing video-based recommendations, security surveillance, and interactive entertainment, where video and audio are processed together for real-time user interaction.
+Truy cập các nguồn lực sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@opensource@Awesome LLM for Video Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
-- [@article@Video Understanding](https://dl.acm.org/doi/10.1145/3503161.3551600)
+- [@opensource@LLM tuyệt vời cho hiểu biết video](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+- [@article@Hiểu biết video](https://dl.acm.org/doi/10.1145/3503161.3551600)

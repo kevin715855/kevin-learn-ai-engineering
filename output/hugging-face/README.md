@@ -5,13 +5,13 @@
 
 ## Danh sách bài học
 
-1. [CoT](./cot.md) (`cot`)
+1. [Chuỗi suy nghĩ](./cot.md) (`cot`)
 2. [Zero-Shot](./zero-shot.md) (`zero-shot`)
 3. [Hugging Face Hub](./hugging-face-hub.md) (`hugging-face-hub`)
-4. [Hugging Face Tasks](./hugging-face-tasks.md) (`hugging-face-tasks`)
+4. [Nhiệm vụ Hugging Face](./hugging-face-tasks.md) (`hugging-face-tasks`)
 5. [MCP](./mcp.md) (`mcp`)
-6. [Multi-agent Context Sharing](./multi-agent-context-sharing.md) (`multi-agent-context-sharing`)
-7. [Context Evaluation](./context-evaluation.md) (`context-evaluation`)
-8. [Long-Context Processing](./long-context-processing.md) (`long-context-processing`)
-9. [State & Historical Context](./state--historical-context.md) (`state--historical-context`)
-10. [Memory Systems](./memory-systems.md) (`memory-systems`)
+6. [Chia sẻ bối cảnh multi-agent](./multi-agent-context-sharing.md) (`multi-agent-context-sharing`)
+7. [Đánh giá ngữ cảnh](./context-evaluation.md) (`context-evaluation`)
+8. [Xử lý ngữ cảnh dài](./long-context-processing.md) (`long-context-processing`)
+9. [Trạng thái & Bối cảnh lịch sử](./state--historical-context.md) (`state--historical-context`)
+10. [Hệ thống bộ nhớ](./memory-systems.md) (`memory-systems`)

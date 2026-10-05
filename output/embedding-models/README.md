@@ -5,6 +5,6 @@
 
 ## Danh sách bài học
 
-1. [Indexing Biểu diễn nhúng (Embeddings)](./indexing-embeddings.md) (`indexing-embeddings`)
-2. [Performing Similarity Search](./performing-similarity-search.md) (`performing-similarity-search`)
-3. [Multimodal AI Usecases](./multimodal-ai-usecases.md) (`multimodal-ai-usecases`)
+1. [Lập chỉ mục các nhúng](./indexing-embeddings.md) (`indexing-embeddings`)
+2. [Thực hiện tìm kiếm tương đồng](./performing-similarity-search.md) (`performing-similarity-search`)
+3. [Các trường hợp sử dụng AI đa phương thức](./multimodal-ai-usecases.md) (`multimodal-ai-usecases`)

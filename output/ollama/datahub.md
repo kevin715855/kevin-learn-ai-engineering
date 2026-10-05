@@ -8,12 +8,11 @@ module_title: "Ollama"
 language: vi
 source_status: completed
 ---
-
 # DataHub
 
-DataHub is an open source metadata platform originally built at LinkedIn for cataloging and managing data across an organization. It tracks where data lives, how it flows between systems, who owns it, and how it is used, giving teams a searchable map of their data assets. In the context of AI systems, this kind of metadata helps determine which datasets are trustworthy and relevant enough to feed into a model. Because it is open source, teams can self host and extend it rather than relying on a managed vendor.
+DataHub là một nền tảng metadata mã nguồn mở được xây dựng ban đầu tại LinkedIn để mục lục và quản lý dữ liệu trên toàn tổ chức. Nó theo dõi dữ liệu ở đâu, cách nó chuyển luồng giữa các hệ thống, ai là người sở hữu và cách nó được sử dụng, cung cấp cho các nhóm một bản đồ có thể tìm kiếm của tài sản dữ liệu của họ. Trong bối cảnh các hệ thống AI, loại metadata này giúp xác định bộ dữ liệu nào đáng tin cậy và liên quan đủ để đưa vào mô hình. Vì là mã nguồn mở, các nhóm có thể tự triển khai và mở rộng nó thay vì phải dựa vào nhà cung cấp được quản lý.
 
-Visit the following resources to learn more:
+Hãy truy cập các nguồn lực sau để tìm hiểu thêm:
 
 - [@official@DataHub](https://datahub.com/)
-- [@video@DataHub Context Platform demo: Tác nhân AI (AI Agent) with and without DataHub context](https://www.youtube.com/watch?v=eCW925m_el0)
+- [@video@DataHub demo nền tảng Context: AI agent với và không có ngữ cảnh DataHub](https://www.youtube.com/watch?v=eCW925m_el0)

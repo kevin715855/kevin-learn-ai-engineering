@@ -1,10 +1,17 @@
 import urllib.request
 import urllib.error
-import time
 import logging
 from typing import Tuple, Dict, Any
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception
 
 logger = logging.getLogger(__name__)
+
+def should_retry(exception):
+    if isinstance(exception, urllib.error.HTTPError):
+        return exception.code == 429 or (500 <= exception.code < 600)
+    if isinstance(exception, (urllib.error.URLError, TimeoutError, ConnectionError)):
+        return True
+    return False
 
 class ContentFetcher:
     def __init__(self, timeout: int = 30, max_retries: int = 3, backoff_factor: float = 2.0):
@@ -13,11 +20,19 @@ class ContentFetcher:
         self.backoff_factor = backoff_factor
 
     def fetch(self, url: str) -> Tuple[str, int, Dict[str, str]]:
-        attempt = 0
-        last_error = None
-
-        while attempt < self.max_retries:
-            attempt += 1
+        @retry(
+            stop=stop_after_attempt(self.max_retries),
+            wait=wait_exponential(multiplier=self.backoff_factor, min=1, max=60),
+            retry=retry_if_exception(should_retry),
+            before_sleep=lambda retry_state: logger.warning(
+                "Retrying %s after error: %s (attempt %d)",
+                url,
+                retry_state.outcome.exception(),
+                retry_state.attempt_number
+            ),
+            reraise=True
+        )
+        def _do_fetch():
             try:
                 req = urllib.request.Request(
                     url,
@@ -30,19 +45,13 @@ class ContentFetcher:
                     status_code = resp.status
                     headers = dict(resp.headers.items())
                     content = resp.read().decode("utf-8", errors="replace")
+                    logger.info("Fetched %s - Status: %d", url, status_code)
                     return content, status_code, headers
             except urllib.error.HTTPError as e:
-                last_error = f"HTTPError {e.code}: {e.reason}"
-                logger.warning("Attempt %d/%d failed for %s: %s", attempt, self.max_retries, url, last_error)
-                if e.code in (404, 403):
-                    # Do not retry on permanent client errors
-                    break
+                logger.error("HTTPError fetching %s: %d %s", url, e.code, e.reason)
+                raise
             except Exception as e:
-                last_error = f"{type(e).__name__}: {str(e)}"
-                logger.warning("Attempt %d/%d failed for %s: %s", attempt, self.max_retries, url, last_error)
+                logger.error("Error fetching %s: %s", url, e)
+                raise
 
-            if attempt < self.max_retries:
-                sleep_time = self.backoff_factor ** attempt
-                time.sleep(sleep_time)
-
-        raise RuntimeError(f"Failed to fetch {url} after {attempt} attempts. Last error: {last_error}")
+        return _do_fetch()

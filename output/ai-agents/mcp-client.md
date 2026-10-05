@@ -1,20 +1,19 @@
 ---
 id: po0fIZYaFhRbNlza7sB37
 slug: mcp-client
-title: "Máy khách MCP"
+title: "Khách hàng MCP"
 original_title: "MCP Client"
 module_id: 4_ap0rD9Gl6Ep_4jMfPpG
 module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
+# Khách MCP
 
-# Máy khách MCP
+MCP Client là một thành phần phần mềm cho phép các tác nhân AI tương tác với máy chủ Giao thức Mô hình Ngữ cảnh (MCP). Nó chịu trách nhiệm xử lý giao tiếp, serialize và deserialize dữ liệu được trao đổi giữa tác nhân và máy chủ, cho phép tác nhân truy cập và quản lý thông tin ngữ cảnh liên quan đến nhiệm vụ của nó. Client này đơn giản hoá quá trình tích hợp các tác nhân với hệ sinh thái MCP.
 
-The Máy khách MCP is a software component that allows Các tác nhân AI (AI Agents) to interact with a Giao thức Ngữ cảnh Mô hình (MCP) (MCP) server. It handles the communication, serialization, and deserialization of data exchanged between the agent and the server, enabling the agent to access and manage contextual information relevant to its tasks. This client simplifies the process of integrating agents with the MCP ecosystem.
+Truy cập các tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@course@Giao thức Ngữ cảnh Mô hình (MCP) (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/Giới thiệu)
-- [@official@Understanding MCP clients](https://modelcontextprotocol.io/docs/learn/client-concepts#understanding-mcp-clients)
-- [@video@The Complete Guide to Building Các tác nhân AI (AI Agents) for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
+- [@official@Hiểu về các khách hàng MCP](https://modelcontextprotocol.io/docs/learn/client-concepts#understanding-mcp-clients)
+- [@video@Hướng Dẫn Hoàn Chỉnh Về Xây Dựng Nhân Trách AI Cho Người Mới Bắt Đầu](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)

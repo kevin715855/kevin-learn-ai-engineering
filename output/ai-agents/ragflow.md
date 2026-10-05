@@ -8,13 +8,12 @@ module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
-
 # RAGFlow
 
-RAGFlow is a framework designed to streamline the creation, evaluation, and deployment of Tăng cường Thế hệ bằng Truy xuất (RAG) (RAG) pipelines. It provides tools and abstractions for building modular RAG systems, allowing developers to easily experiment with different components like data loaders, retrievers, and generators, and then assess their performance.
+RAGFlow là một framework được thiết kế để đơn giản hoá quá trình tạo, đánh giá và triển khai các pipeline Retrieval-Augmented Generation (RAG). Nó cung cấp các công cụ và phương pháp trừu tượng để xây dựng các hệ thống RAG mô-đun, cho phép nhà phát triển dễ dàng thực nghiệm với các thành phần khác nhau như data loaders, retrievers và generators, rồi sau đó đánh giá hiệu suất của chúng.
 
-Visit the following resources to learn more:
+Hãy truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
 - [@official@RagFlow](https://ragflow.io/)
 - [@opensource@ragflow](https://github.com/infiniflow/ragflow)
-- [@video@RagFlow: Ultimate RAG Engine](https://www.youtube.com/watch?v=ApA-7G7FGRc)
+- [@video@RagFlow: Engine RAG mạnh nhất](https://www.youtube.com/watch?v=ApA-7G7FGRc)

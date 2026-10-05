@@ -8,12 +8,11 @@ module_title: "LLM Evaluations"
 language: vi
 source_status: completed
 ---
-
 # Arize AI
 
-Arize is an ML observability platform that supports both traditional ML models and LLM applications. For LLMs, it provides tracing, drift detection, and evaluation tooling. It is often used in enterprise settings where you need to monitor models already deployed in production and need deep integration with existing ML infrastructure.
+Arize là một nền tảng quan sát ML hỗ trợ cả mô hình ML truyền thống và các ứng dụng LLM. Đối với LLM, nó cung cấp theo dõi, phát hiện drift và công cụ đánh giá. Nó thường được sử dụng trong môi trường doanh nghiệp khi bạn cần giám sát các mô hình đã được triển khai trong sản xuất và cần tích hợp sâu với cơ sở hạ tầng ML hiện có.
 
-Visit the following resources to learn more:
+Truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
-- [@official@Arize AI Docs](https://arize.com/docs/ax)
-- [@video@Cách thực hiện Evaluate Tool-Calling Agents](https://www.youtube.com/watch?v=JytjrbDaI44&list=PL86ARIu_ElO5F3LCwM-k3ZDhvnuigxqbw)
+- [@official@Tài liệu Arize AI](https://arize.com/docs/ax)
+- [@video@Cách Đánh Giá Các Đائن Gọi Công Cụ](https://www.youtube.com/watch?v=JytjrbDaI44&list=PL86ARIu_ElO5F3LCwM-k3ZDhvnuigxqbw)

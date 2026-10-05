@@ -1,0 +1,11 @@
+{
+  "lesson_id": "jpSel6gPj1d0EhH73Knm7",
+  "slug": "mcp",
+  "download_url": "https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp%40jpSel6gPj1d0EhH73Knm7.md",
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8"
+  },
+  "fetched_at": "2026-10-01T12:00:00Z",
+  "content": "# MCP\n\nModel Context Protocol (MCP) overview and guidelines."
+}

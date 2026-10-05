@@ -1,18 +1,17 @@
 ---
 id: Z0920V57_ziDhXbQJMN9O
 slug: data-layer
-title: "Data Layer"
+title: "Lớp dữ liệu"
 original_title: "Data Layer"
 module_id: 4_ap0rD9Gl6Ep_4jMfPpG
 module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
+# Lớp dữ liệu trong Giao thức Ngữ cảnh Mô hình
 
-# Data Layer in Giao thức Ngữ cảnh Mô hình (MCP)
+Lớp Dữ liệu trong Giao thức Ngữ cảnh Mô hình (MCP) chịu trách nhiệm quản lý và cung cấp truy cập tới dữ liệu mà các tác nhân AI sử dụng để suy luận, học tập và đưa ra quyết định. Nó làm nhiệm vụ là trung gian giữa tác nhân và các nguồn dữ liệu khác nhau, đảm bảo dữ liệu dễ dàng có sẵn, được định dạng đúng và được truy cập an toàn. Lớp này xử lý lưu trữ, truy xuất, bộ nhớ đệm và chuyển đổi dữ liệu, cho phép các tác nhân sử dụng hiệu quả thông tin liên quan từ các nguồn đa dạng.
 
-The Data Layer within the Giao thức Ngữ cảnh Mô hình (MCP) (MCP) is responsible for managing and providing access to the data that Các tác nhân AI (AI Agents) use to reason, learn, and make decisions. It acts as an intermediary between the agent and various data sources, ensuring data is readily available, properly formatted, and securely accessed. This layer handles data storage, retrieval, caching, and transformation, enabling agents to efficiently utilize relevant information from diverse sources.
+Hãy truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@official@Layer](https://modelcontextprotocol.io/docs/learn/architecture#layers)
+- [@chính thức@Layer](https://modelcontextprotocol.io/docs/learn/architecture#layers)

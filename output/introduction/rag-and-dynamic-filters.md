@@ -1,20 +1,19 @@
 ---
 id: LnQ2AatMWpExUHcZhDIPd
 slug: rag-and-dynamic-filters
-title: " RAG & Dynamic Filters"
+title: "RAG & Bộ lọc động"
 original_title: " RAG & Dynamic Filters"
 module_id: _hYN0gEi9BL24nptEtXWU
 module_title: "Introduction"
 language: vi
 source_status: completed
 ---
+# RAG và Bộ lọc Động
 
-# RAG and Dynamic Filters
+Retrieval-Augmented Generation (RAG) nâng cao các mô hình ngôn ngữ lớn (LLM) bằng cách cung cấp cho chúng thông tin liên quan, cập nhật từ các nguồn bên ngoài. Các bộ lọc động là các kỹ thuật lọc chọn lọc thông tin được truy xuất cho RAG, đảm bảo rằng LLM chỉ nhận được bối cảnh phù hợp nhất dựa trên truy vấn cụ thể và người dùng. Điều này dẫn đến các phản hồi LLM chính xác hơn, tập trung hơn và phù hợp với bối cảnh.
 
-Tăng cường Thế hệ bằng Truy xuất (RAG) (RAG) enhances Các Mô hình Ngôn ngữ Lớn (LLMs) (LLMs) by providing them with relevant, up-to-date information from external sources. Dynamic filters are techniques that selectively filter the information retrieved for RAG, ensuring that the LLM receives only the most pertinent context based on the specific query and user. This results in more accurate, focused, and contextually appropriate LLM responses.
-
-Visit the following resources to learn more:
+Hãy truy cập các tài nguyên sau để biết thêm chi tiết:
 
 - [@article@4 context engineering strategies every AI engineer needs to know](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
 - [@article@Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
-- [@article@Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI](https://towardsdatascience.com/beyond-rag/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@RAG đã chết? Sự tăng trưởng của Context Engineering và Semantic Layers cho Agentic AI](https://towardsdatascience.com/beyond-rag/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

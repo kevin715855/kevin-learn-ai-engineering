@@ -1,19 +1,18 @@
 ---
 id: LKFwwjtcawJ4Z12X102Cb
 slug: dall-e-api
-title: "DALL-E API"
+title: "API DALL-E"
 original_title: "DALL-E API"
 module_id: W7cKPt_UxcUgwp8J6hS4p
 module_title: "Multimodal AI"
 language: vi
 source_status: completed
 ---
+# API DALL-E
 
-# DALL-E API
+API DALL-E là một công cụ được cung cấp bởi OpenAI cho phép nhà phát triển tích hợp mô hình sinh ảnh DALL-E vào các ứng dụng. DALL-E là một mô hình AI được thiết kế để tạo ra hình ảnh từ các mô tả văn bản, có khả năng tạo ra các hình ảnh chi tiết và sáng tạo cao. API cho phép người dùng cung cấp một prompt mô tả, và mô hình sẽ tạo ra các hình ảnh tương ứng, mở ra những khả năng trong các lĩnh vực như thiết kế, quảng cáo, tạo nội dung và nghệ thuật.
 
-The DALL-E API is a tool provided by OpenAI that allows developers to integrate the DALL-E image generation model into applications. DALL-E is an AI model designed to generate images from textual descriptions, capable of producing highly detailed and creative visuals. The API enables users to provide a descriptive prompt, and the model generates corresponding images, opening up possibilities in fields like design, advertising, content creation, and art.
+Truy cập các nguồn lực sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@official@OpenAI Image Generation](https://platform.openai.com/docs/guides/images)
-- [@video@DALL E API - Giới thiệu (Generative AI Pictures from OpenAI)](https://www.youtube.com/watch?v=Zr6vAWwjHN0)
+- [@official@OpenAI Tạo hình ảnh](https://platform.openai.com/docs/guides/images)
+- [@video@DALL E API - Introduction (Generative AI Pictures from OpenAI)](https://www.youtube.com/watch?v=Zr6vAWwjHN0)

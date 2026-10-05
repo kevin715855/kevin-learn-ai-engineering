@@ -5,10 +5,10 @@
 
 ## Danh sách bài học
 
-1. [Image Understanding](./image-understanding.md) (`image-understanding`)
-2. [Image Generation](./image-generation.md) (`image-generation`)
-3. [Video Understanding](./video-understanding.md) (`video-understanding`)
-4. [OpenAI Vision API](./openai-vision-api.md) (`openai-vision-api`)
-5. [DALL-E API](./dall-e-api.md) (`dall-e-api`)
+1. [Hiểu biết hình ảnh](./image-understanding.md) (`image-understanding`)
+2. [Tạo hình ảnh](./image-generation.md) (`image-generation`)
+3. [Hiểu video](./video-understanding.md) (`video-understanding`)
+4. [API Thị giác OpenAI](./openai-vision-api.md) (`openai-vision-api`)
+5. [API DALL-E](./dall-e-api.md) (`dall-e-api`)
 6. [Whisper API](./whisper-api.md) (`whisper-api`)
-7. [Hugging Face Models](./hugging-face-models.md) (`hugging-face-models`)
+7. [Mô hình Hugging Face](./hugging-face-models.md) (`hugging-face-models`)

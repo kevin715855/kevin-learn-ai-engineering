@@ -1,20 +1,19 @@
 ---
 id: wFfjHkGLrcCyLyXV4BiFM
 slug: function-calling
-title: "Function Calling"
+title: "Gọi Hàm"
 original_title: "Function Calling"
 module_id: zdeuA4GbdBl2DwKgiOA4G
 module_title: "How LLMs Work"
 language: vi
 source_status: completed
 ---
+# gọi hàm
 
-# Function Calling
+Gọi hàm cho phép các Mô hình Ngôn ngữ Lớn (LLM) tương tác với các công cụ và API bên ngoài. Thay vì chỉ sinh ra văn bản, LLM có thể được chỉ dẫn để nhận ra khi một hàm cụ thể cần được gọi dựa trên đầu vào của người dùng, và sau đó xuất ra các đối số cần thiết để thực thi hàm đó. Điều này cho phép LLM thực hiện các hành động ngoài dữ liệu huấn luyện của nó, chẳng hạn như truy xuất thông tin thời gian thực hoặc tự động hóa các công việc.
 
-Function calling allows Các Mô hình Ngôn ngữ Lớn (LLMs) (LLMs) to interact with external tools and APIs. Instead of just generating text, the LLM can be instructed to recognize when a specific function should be called based on the user's input, and then output the arguments needed to execute that function. This enables the LLM to perform actions beyond its Huấn luyện (Training) data, such as retrieving real-time information or automating tasks.
+Hãy truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
-Visit the following resources to learn more:
-
-- [@article@A Comprehensive Guide to Function Calling in LLMs](https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/)
-- [@article@Function Calling with LLMs | Kỹ thuật Tạo câu lệnh (Prompt Engineering) Guide](https://www.promptingguide.ai/applications/function_calling)
-- [@video@LLM Function Calling - AI Tools Deep Dive](https://www.youtube.com/watch?v=gMeTK6zzaO4)
+- [@article@Hướng Dẫn Tổng Quát Về Gọi Hàm Trong LLMs](https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/)
+- [@article@Gọi hàm với LLM | Hướng dẫn Kỹ thuật Prompt](https://www.promptingguide.ai/applications/function_calling)
+- [@video@LLM Function Calling - Đào Sâu về Công cụ AI](https://www.youtube.com/watch?v=gMeTK6zzaO4)

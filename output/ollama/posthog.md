@@ -8,12 +8,11 @@ module_title: "Ollama"
 language: vi
 source_status: completed
 ---
-
 # PostHog
 
-PostHog is a product analytics platform that also offers what it calls a context warehouse, a combined store of product event data, session replays, and business context from tools like Slack and support tickets. Rather than requiring a separate ETL pipeline to move data between systems, PostHog exposes this combined data directly to Các tác nhân AI (AI Agents) through its Máy chủ MCP, letting an agent query product behavior and business context using the same interface a person would use.
+PostHog là một nền tảng phân tích sản phẩm mà còn cung cấp những gì nó gọi là “kho chứa ngữ cảnh”, một kho lưu trữ tổng hợp dữ liệu sự kiện sản phẩm, bản ghi lại phiên làm việc và ngữ cảnh kinh doanh từ các công cụ như Slack và vé hỗ trợ. Thay vì phải có một pipeline ETL riêng để di chuyển dữ liệu giữa các hệ thống, PostHog выставляет эти объединенные данные непосредственно к агентам ИИ через свой сервер MCP, позволяя агенту запрашивать поведение продукта и бизнес-контекст через тот же интерфейс, который использует человек.
 
-Visit the following resources to learn more:
+Hãy truy cập các tài nguyên sau để tìm hiểu thêm:
 
-- [@official@PostHob Docs](https://posthog.com/handbook)
-- [@video@Khái niệm PostHog? (Official Demo & Tutorial)](https://www.youtube.com/watch?v=1FZji2L-LmM)
+- [@official@PostHob Tài liệu](https://posthog.com/handbook)
+- [@video@PostHog là gì? (Demo chính thức & Hướng dẫn)](https://www.youtube.com/watch?v=1FZji2L-LmM)

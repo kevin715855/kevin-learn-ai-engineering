@@ -8,14 +8,13 @@ module_title: "AI Agents"
 language: vi
 source_status: completed
 ---
-
 # Máy chủ MCP
 
-The Máy chủ MCP acts as a central hub for managing and serving contextual information to Các tác nhân AI (AI Agents). It's responsible for receiving requests from agents, retrieving relevant context from various data sources, and delivering that context in a standardized format. This allows agents to make more informed decisions by leveraging external knowledge and data.
+MCP Server hoạt động như một trung tâm để quản lý và cung cấp thông tin bối cảnh cho các AI agent. Nó chịu trách nhiệm nhận yêu cầu từ các agent, truy xuất bối cảnh liên quan từ nhiều nguồn dữ liệu và cung cấp bối cảnh đó dưới dạng chuẩn hoá. Điều này giúp các agent đưa ra quyết định có thông tin tốt hơn bằng cách tận dụng kiến thức và dữ liệu bên ngoài.
 
-Visit the following resources to learn more:
+Truy cập các tài nguyên sau để tìm hiểu thêm:
 
-- [@course@Giao thức Ngữ cảnh Mô hình (MCP) (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/Giới thiệu)
+- [@course@Khóa học Giao thức Mô hình Ngữ cảnh (MCP)](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
 - [@official@Understanding MCP Servers](https://modelcontextprotocol.io/docs/learn/server-concepts#understanding-mcp-servers)
-- [@article@Awesome MCP Servers](https://mcpservers.org/)
-- [@video@The Complete Guide to Building Các tác nhân AI (AI Agents) for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@article@Máy chủ MCP tuyệt vời](https://mcpservers.org/)
+- [@video@The Complete Guide to Building AI Agents for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)

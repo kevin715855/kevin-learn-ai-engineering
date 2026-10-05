@@ -1,0 +1,33 @@
+{
+  "total_modules": 1,
+  "total_lessons": 1,
+  "modules": [
+    {
+      "id": "v99C5Bml2a6148LCJ9gy9",
+      "title": "Hugging Face",
+      "slug": "hugging-face",
+      "lessons": [
+        {
+          "id": "jpSel6gPj1d0EhH73Knm7",
+          "title": "MCP",
+          "slug": "mcp",
+          "module_id": "v99C5Bml2a6148LCJ9gy9",
+          "module_title": "Hugging Face",
+          "download_url": "https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp%40jpSel6gPj1d0EhH73Knm7.md",
+          "y_pos": 100.0
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "jpSel6gPj1d0EhH73Knm7",
+      "title": "MCP",
+      "slug": "mcp",
+      "module_id": "v99C5Bml2a6148LCJ9gy9",
+      "module_title": "Hugging Face",
+      "download_url": "https://raw.githubusercontent.com/nilbuild/developer-roadmap/master/roadmaps/ai-engineer/content/mcp%40jpSel6gPj1d0EhH73Knm7.md",
+      "y_pos": 100.0
+    }
+  ]
+}

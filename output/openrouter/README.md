@@ -5,7 +5,7 @@
 
 ## Danh sách bài học
 
-1. [Purpose and Functionality](./purpose-and-functionality.md) (`purpose-and-functionality`)
+1. [Mục đích và chức năng](./purpose-and-functionality.md) (`purpose-and-functionality`)
 2. [Chroma](./chroma.md) (`chroma`)
 3. [Pinecone](./pinecone.md) (`pinecone`)
 4. [Weaviate](./weaviate.md) (`weaviate`)
@@ -14,5 +14,5 @@
 7. [Qdrant](./qdrant.md) (`qdrant`)
 8. [Supabase](./supabase.md) (`supabase`)
 9. [MongoDB Atlas](./mongodb-atlas.md) (`mongodb-atlas`)
-10. [Claude Messages API](./claude-messages-api.md) (`claude-messages-api`)
-11. [OpenAI-compatible APIs](./openai-compatible-apis.md) (`openai-compatible-apis`)
+10. [API Tin nhắn Claude](./claude-messages-api.md) (`claude-messages-api`)
+11. [APIs tương thích với OpenAI](./openai-compatible-apis.md) (`openai-compatible-apis`)

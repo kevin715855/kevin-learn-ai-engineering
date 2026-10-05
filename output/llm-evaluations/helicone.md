@@ -8,12 +8,11 @@ module_title: "LLM Evaluations"
 language: vi
 source_status: completed
 ---
-
 # Helicone
 
-Helicone is a logging and observability proxy for LLM APIs. Instead of calling OpenAI or Anthropic directly, you route requests through Helicone, which captures every request and response with zero code changes. It provides dashboards for cost tracking, latency, error rates, and user-level analytics.
+Helicone là một proxy ghi log và quan sát cho API LLM. Thay vì gọi trực tiếp OpenAI hoặc Anthropic, bạn định tuyến các yêu cầu qua Helicone, điều này ghi lại mọi yêu cầu và phản hồi mà không cần thay đổi mã. Nó cung cấp các bảng điều khiển để theo dõi chi phí, độ trễ, mức lỗi và phân tích tại cấp người dùng.
 
-Visit the following resources to learn more:
+Truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
 
-- [@official@Helicone Docs](https://docs.helicone.ai/getting-started/quick-start)
-- [@video@ES  Skip navigation Helicone tutorial     Create   Avatar image Helicone AI — The Open-source LLM Observability for Developers](https://www.youtube.com/watch?v=RNFa8bl3RdE)
+- [@official@Tài liệu Helicone](https://docs.helicone.ai/getting-started/quick-start)
+- [@video@ES  Bỏ qua navigation hướng dẫn Helicone Tạo hình ảnh avatar Helicone AI — Giám sát LLM mã nguồn mở dành cho nhà phát triển](https://www.youtube.com/watch?v=RNFa8bl3RdE)

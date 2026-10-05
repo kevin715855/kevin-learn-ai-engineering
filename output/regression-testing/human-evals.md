@@ -1,19 +1,18 @@
 ---
 id: QIx5nT75l2Cn2q75-TxfD
 slug: human-evals
-title: "Human Evals"
+title: "Đánh giá của con người"
 original_title: "Human Evals"
 module_id: Bkzi3QyzKyHxcHE7sodRZ
 module_title: "Regression Testing"
 language: vi
 source_status: completed
 ---
+# Đánh giá con người
 
-# Human Evals
+Human evals bao gồm việc con người trực tiếp xem xét và chấm điểm các đầu ra của mô hình dựa trên các tiêu chí được xác định. Chúng là hình thức đánh giá chính xác nhất cho các chiều chất lượng tinh vi hoặc chủ quan, và đóng vai trò làm mốc verità (ground truth) mà các phương pháp đánh giá khác được kiểm chứng dựa trên. Human evals chậm hơn và có chi phí cao hơn so với các cách tiếp cận tự động, vì vậy chúng thường được sử dụng để ra quyết định có rủi ro cao,較正 các automated evals, hoặc xem xét các trường hợp đặc biệt được các phương pháp khác đánh dấu.
 
-Human evals involve people directly reviewing and scoring model outputs against defined criteria. They are the most accurate form of evaluation for nuanced or subjective quality dimensions, and serve as the ground truth that other eval methods are validated against. Human evals are slower and more expensive than automated approaches, so they are typically used for high-stakes decisions, calibrating automated evals, or reviewing edge cases flagged by other methods.
-
-Visit the following resources to learn more:
+Truy cập các nguồn tài nguyên sau đây để tìm hiểu thêm:
 
 - [@article@LLM-as-a-judge vs. human evaluation: Why together is better](https://www.superannotate.com/blog/llm-as-a-judge-vs-human-evaluation)
-- [@article@Cách thực hiện run human-in-the-loop evals for LLM apps](https://www.braintrust.dev/articles/human-in-the-loop-evals-for-llm-apps)
+- [@article@Cách chạy đánh giá human-in-the-loop cho ứng dụng LLM](https://www.braintrust.dev/articles/human-in-the-loop-evals-for-llm-apps)
