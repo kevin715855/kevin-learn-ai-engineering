@@ -16,7 +16,16 @@
           "filename": "ai-agents.md",
           "module": 1,
           "lesson": 1,
-          "url": "https://roadmap.sh/ai-agents",
+          "url": [
+            {
+              "title": "Hướng dẫn xây dựng AI Agent - LangChain",
+              "url": "https://python.langchain.com/docs/tutorials/agents/"
+            },
+            {
+              "title": "AI Agents và Các Loại của Họ",
+              "url": "https://www.digitalocean.com/resources/articles/types-of-ai-agents"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -28,7 +37,20 @@
           "filename": "ai-engineer-vs-ml-engineer.md",
           "module": 1,
           "lesson": 2,
-          "url": "https://roadmap.sh/ai-engineer-vs-ml-engineer",
+          "url": [
+            {
+              "title": "Một kỹ sư AI làm gì?",
+              "url": "https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do/"
+            },
+            {
+              "title": "ML Engineer là gì?",
+              "url": "https://www.coursera.org/articles/what-is-machine-learning-engineer"
+            },
+            {
+              "title": "Học Máy so với Kỹ sư AI: Những Khác Biệt Gì?",
+              "url": "https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -40,7 +62,20 @@
           "filename": "ai-vs-agi.md",
           "module": 1,
           "lesson": 3,
-          "url": "https://roadmap.sh/ai-vs-agi",
+          "url": [
+            {
+              "title": "AGI là gì?",
+              "url": "https://aws.amazon.com/what-is/artificial-general-intelligence/"
+            },
+            {
+              "title": "Sự khác biệt then chốt giữa AI và AGI",
+              "url": "https://www.forbes.com/sites/bernardmarr/2024/05/20/the-crucial-difference-between-ai-and-agi/"
+            },
+            {
+              "title": "Ngừng lo lắng về AGI: Nguy hiểm ngay lập tức là Trí tuệ Chung Giảm (RGI)",
+              "url": "https://towardsdatascience.com/stop-worrying-about-agi-the-immediate-danger-is-reduced-general-intelligence-rgi/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -52,7 +87,16 @@
           "filename": "context-compaction.md",
           "module": 1,
           "lesson": 4,
-          "url": "https://roadmap.sh/context-compaction",
+          "url": [
+            {
+              "title": "Kỹ thuật bối cảnh",
+              "url": "https://blog.langchain.com/context-engineering-for-agents/"
+            },
+            {
+              "title": "Nén bối cảnh",
+              "url": "https://gist.github.com/badlogic/cd2ef65b0697c4dbe2d13fbecb0a0a5f"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -64,7 +108,16 @@
           "filename": "context-isolation.md",
           "module": 1,
           "lesson": 5,
-          "url": "https://roadmap.sh/context-isolation",
+          "url": [
+            {
+              "title": "4 chiến lược Context Engineering mà mỗi kỹ sư AI cần biết",
+              "url": "https://newsletter.owainlewis.com/p/4-context-engineering-strategies"
+            },
+            {
+              "title": "Context Engineering",
+              "url": "https://blog.langchain.com/context-engineering-for-agents/"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -76,7 +129,16 @@
           "filename": "context-window.md",
           "module": 1,
           "lesson": 6,
-          "url": "https://roadmap.sh/context-window",
+          "url": [
+            {
+              "title": "What is a context window?",
+              "url": "https://www.ibm.com/think/topics/context-window"
+            },
+            {
+              "title": "Các tác nhân mã hoá không cần cửa sổ ngữ cảnh lớn hơn",
+              "url": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -88,7 +150,16 @@
           "filename": "embeddings.md",
           "module": 1,
           "lesson": 7,
-          "url": "https://roadmap.sh/embeddings",
+          "url": [
+            {
+              "title": "What are Embeddings in Machine Learning?",
+              "url": "https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/"
+            },
+            {
+              "title": "Embedding là gì?",
+              "url": "https://www.ibm.com/topics/embedding"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -100,7 +171,16 @@
           "filename": "impact-on-product-development.md",
           "module": 1,
           "lesson": 8,
-          "url": "https://roadmap.sh/impact-on-product-development",
+          "url": [
+            {
+              "title": "AI in Product Development: Netflix, BMW, and PepsiCo",
+              "url": "https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw#:~:text=AI%20can%20help%20make%20product,and%20gain%20a%20competitive%20edge."
+            },
+            {
+              "title": "Phát triển sản phẩm AI: Tại sao các nhà sáng lập lại bị cuốn hút mạnh mẽ bởi tiềm năng?",
+              "url": "https://www.techmagic.co/blog/ai-product-development/"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -112,7 +192,16 @@
           "filename": "inference.md",
           "module": 1,
           "lesson": 9,
-          "url": "https://roadmap.sh/inference",
+          "url": [
+            {
+              "title": "Inference vs Training",
+              "url": "https://www.cloudflare.com/learning/ai/inference-vs-training/"
+            },
+            {
+              "title": "Machine Learning Inference là gì?",
+              "url": "https://hazelcast.com/glossary/machine-learning-inference/"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -124,7 +213,16 @@
           "filename": "large-language-model-llm.md",
           "module": 1,
           "lesson": 10,
-          "url": "https://roadmap.sh/large-language-model-llm",
+          "url": [
+            {
+              "title": "Mô hình ngôn ngữ lớn (LLM) là gì?",
+              "url": "https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/"
+            },
+            {
+              "title": "Bạn mới với LLM? Bắt đầu ở đây",
+              "url": "https://towardsdatascience.com/new-to-llms-start-here/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -136,7 +234,20 @@
           "filename": "rag-and-dynamic-filters.md",
           "module": 1,
           "lesson": 11,
-          "url": "https://roadmap.sh/rag-and-dynamic-filters",
+          "url": [
+            {
+              "title": "4 context engineering strategies every AI engineer needs to know",
+              "url": "https://newsletter.owainlewis.com/p/4-context-engineering-strategies"
+            },
+            {
+              "title": "Context Engineering",
+              "url": "https://blog.langchain.com/context-engineering-for-agents/"
+            },
+            {
+              "title": "RAG đã chết? Sự tăng trưởng của Context Engineering và Semantic Layers cho Agentic AI",
+              "url": "https://towardsdatascience.com/beyond-rag/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -148,7 +259,16 @@
           "filename": "rags.md",
           "module": 1,
           "lesson": 12,
-          "url": "https://roadmap.sh/rags",
+          "url": [
+            {
+              "title": "Retrieval-Augmented Generation là gì? - Google",
+              "url": "https://cloud.google.com/use-cases/retrieval-augmented-generation"
+            },
+            {
+              "title": "RAG Giải thích: Hiểu về Embedding, Độ tương đồng và Truy xuất",
+              "url": "https://towardsdatascience.com/rag-explained-understanding-embeddings-similarity-and-retrieval/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -160,7 +280,16 @@
           "filename": "roles-and-responsiblities.md",
           "module": 1,
           "lesson": 13,
-          "url": "https://roadmap.sh/roles-and-responsiblities",
+          "url": [
+            {
+              "title": "AI Engineer Mô tả công việc",
+              "url": "https://resources.workable.com/ai-engineer-job-description"
+            },
+            {
+              "title": "Cách trở thành Kỹ sư AI (Bổ sung Nhiệm vụ công việc và Kỹ năng)",
+              "url": "https://www.indeed.com/career-advice/finding-a-job/ai-engineer"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -172,7 +301,20 @@
           "filename": "training.md",
           "module": 1,
           "lesson": 14,
-          "url": "https://roadmap.sh/training",
+          "url": [
+            {
+              "title": "Huấn luyện Model là gì?",
+              "url": "https://oden.io/glossary/model-training/"
+            },
+            {
+              "title": "Đào tạo mô hình học máy: Gì là điều đó và tại sao nó quan trọng",
+              "url": "https://domino.ai/blog/what-is-machine-learning-model-training"
+            },
+            {
+              "title": "Training ML Models - Amazon",
+              "url": "https://docs.aws.amazon.com/machine-learning/latest/dg/training-ml-models.html"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -184,7 +326,16 @@
           "filename": "vector-dbs.md",
           "module": 1,
           "lesson": 15,
-          "url": "https://roadmap.sh/vector-dbs",
+          "url": [
+            {
+              "title": "Cơ sở dữ liệu vector",
+              "url": "https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/"
+            },
+            {
+              "title": "Vector Databases là gì?",
+              "url": "https://www.mongodb.com/resources/basics/databases/vector-databases"
+            }
+          ],
           "directory": "data/processed/introduction/"
         },
         {
@@ -196,7 +347,20 @@
           "filename": "what-is-an-ai-engineer.md",
           "module": 1,
           "lesson": 16,
-          "url": "https://roadmap.sh/what-is-an-ai-engineer",
+          "url": [
+            {
+              "title": "Cách trở thành Kỹ sư AI: Nhiệm vụ, Kỹ năng, và Lương",
+              "url": "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer"
+            },
+            {
+              "title": "Kỹ sư AI: Họ làm gì và cách để trở thành một",
+              "url": "https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer"
+            },
+            {
+              "title": "I Transitioned from Data Science to AI Engineering: Đây là mọi thứ bạn cần biết",
+              "url": "https://towardsdatascience.com/i-transitioned-from-data-science-to-ai-engineering-heres-everything-you-need-to-know/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/introduction/"
         }
       ]
@@ -215,7 +379,7 @@
           "filename": "constraints.md",
           "module": 2,
           "lesson": 1,
-          "url": "https://roadmap.sh/constraints",
+          "url": [],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -227,7 +391,20 @@
           "filename": "context-engineering.md",
           "module": 2,
           "lesson": 2,
-          "url": "https://roadmap.sh/context-engineering",
+          "url": [
+            {
+              "title": "Hướng dẫn Kỹ thuật Ngữ cảnh",
+              "url": "https://www.promptingguide.ai/guides/context-engineering-guide"
+            },
+            {
+              "title": "Effective context engineering for AI agents",
+              "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+            },
+            {
+              "title": "Cách Thực Hiện Kỹ Thuật Nghĩa Giao Agentic Hiệu Quả",
+              "url": "https://towardsdatascience.com/how-to-perform-effective-agentic-context-engineering/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -239,7 +416,16 @@
           "filename": "context-security.md",
           "module": 2,
           "lesson": 3,
-          "url": "https://roadmap.sh/context-security",
+          "url": [
+            {
+              "title": "Kỹ thuật ngữ cảnh là Kỹ thuật bảo mật. RSA 2026 đã đưa ra lập luận.",
+              "url": "https://zenity.io/blog/events/context-engineering-security-engineering"
+            },
+            {
+              "title": "When Data Becomes Instructions: AI Agents Need a Chain of Custody for Context",
+              "url": "https://blog.checkpoint.com/ai-security/ai-agent-context-chain-of-custody/"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -251,7 +437,16 @@
           "filename": "context-sources.md",
           "module": 2,
           "lesson": 4,
-          "url": "https://roadmap.sh/context-sources",
+          "url": [
+            {
+              "title": "The Context Layer for AI: What Enterprises Get Wrong",
+              "url": "https://datahub.com/blog/context-layer-for-ai/"
+            },
+            {
+              "title": "Kỹ thuật ngữ cảnh cho các tác nhân AI: Hướng dẫn hoàn chỉnh",
+              "url": "https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -263,7 +458,16 @@
           "filename": "context-vs-prompt-eng.md",
           "module": 2,
           "lesson": 5,
-          "url": "https://roadmap.sh/context-vs-prompt-eng",
+          "url": [
+            {
+              "title": "Xây dựng một kho ngữ cảnh",
+              "url": "https://www.getmodus.com/blog/?utm_source=roadmapsh&utm_medium=referral&utm_campaign=ai-engineer-roadmap&utm_content=context-vs-prompt"
+            },
+            {
+              "title": "Context Engineering vs. Prompt Engineering",
+              "url": "https://datahub.com/blog/context-engineering-vs-prompt-engineering/"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -275,7 +479,7 @@
           "filename": "context.md",
           "module": 2,
           "lesson": 6,
-          "url": "https://roadmap.sh/context",
+          "url": [],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -287,7 +491,16 @@
           "filename": "few-shot.md",
           "module": 2,
           "lesson": 7,
-          "url": "https://roadmap.sh/few-shot",
+          "url": [
+            {
+              "title": "Few-Shot Prompting",
+              "url": "https://www.promptingguide.ai/techniques/fewshot"
+            },
+            {
+              "title": "Few-shot prompting là gì?",
+              "url": "https://www.ibm.com/think/topics/few-shot-prompting"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -299,7 +512,16 @@
           "filename": "fine-tuning.md",
           "module": 2,
           "lesson": 8,
-          "url": "https://roadmap.sh/fine-tuning",
+          "url": [
+            {
+              "title": "Fine-tuning là gì?",
+              "url": "https://www.ibm.com/think/topics/fine-tuning"
+            },
+            {
+              "title": "Cách tôi đã tinh chỉnh Granite-Vision 2B để vượt qua một mô hình 90B — Những hiểu biết và bài học rút ra",
+              "url": "https://towardsdatascience.com/how-i-fine-tuned-granite-vision-2b-to-beat-a-90b-model-insights-and-lessons-learned/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -311,7 +533,16 @@
           "filename": "function-calling.md",
           "module": 2,
           "lesson": 9,
-          "url": "https://roadmap.sh/function-calling",
+          "url": [
+            {
+              "title": "Hướng Dẫn Tổng Quát Về Gọi Hàm Trong LLMs",
+              "url": "https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/"
+            },
+            {
+              "title": "Gọi hàm với LLM | Hướng dẫn Kỹ thuật Prompt",
+              "url": "https://www.promptingguide.ai/applications/function_calling"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -323,7 +554,16 @@
           "filename": "input-format.md",
           "module": 2,
           "lesson": 10,
-          "url": "https://roadmap.sh/input-format",
+          "url": [
+            {
+              "title": "Các thành phần của một Prompt",
+              "url": "https://www.promptingguide.ai/introduction/elements"
+            },
+            {
+              "title": "Prompt Formatting có tác động nào đến hiệu suất LLM không?",
+              "url": "https://arxiv.org/html/2411.10541v1"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -335,7 +575,12 @@
           "filename": "prompt-caching.md",
           "module": 2,
           "lesson": 11,
-          "url": "https://roadmap.sh/prompt-caching",
+          "url": [
+            {
+              "title": "Prompt Caching là gì?",
+              "url": "https://www.ibm.com/think/topics/prompt-caching"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -347,7 +592,16 @@
           "filename": "prompt-engineering.md",
           "module": 2,
           "lesson": 12,
-          "url": "https://roadmap.sh/prompt-engineering",
+          "url": [
+            {
+              "title": "What is Prompt Engineering? - AI Prompt Engineering Explained - AWS",
+              "url": "https://aws.amazon.com/what-is/prompt-engineering/"
+            },
+            {
+              "title": "Kỹ thuật Prompt nâng cao cho các dự án Data Science",
+              "url": "https://towardsdatascience.com/advanced-prompt-engineering-for-data-science-projects/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -359,7 +613,12 @@
           "filename": "react.md",
           "module": 2,
           "lesson": 13,
-          "url": "https://roadmap.sh/react",
+          "url": [
+            {
+              "title": "ReAct Prompting",
+              "url": "https://www.promptingguide.ai/techniques/react"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -371,7 +630,12 @@
           "filename": "role--behavior.md",
           "module": 2,
           "lesson": 14,
-          "url": "https://roadmap.sh/role--behavior",
+          "url": [
+            {
+              "title": "Vượt qua cơ bản: Prompting bối cảnh & vai trò thật sự hiệu quả",
+              "url": "https://medium.com/@the_manoj_desai/beyond-basics-contextual-role-prompting-that-actually-works-bd75a0c5086b"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -383,7 +647,20 @@
           "filename": "streaming-responses.md",
           "module": 2,
           "lesson": 15,
-          "url": "https://roadmap.sh/streaming-responses",
+          "url": [
+            {
+              "title": "Streaming Responses in AI: How AI Outputs Are Generated in Real Time",
+              "url": "https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb"
+            },
+            {
+              "title": "Phản hồi Streaming và Non-Streaming của LLM",
+              "url": "https://medium.com/@vasanthancomrads/streaming-vs-non-streaming-llm-responses-db297ba5467e"
+            },
+            {
+              "title": "AI dành cho nhà phát triển web: Phản hồi nhanh hơn với HTTP Streaming",
+              "url": "https://austingil.com/ai-for-web-devs-streaming/"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -395,7 +672,20 @@
           "filename": "structured-output.md",
           "module": 2,
           "lesson": 16,
-          "url": "https://roadmap.sh/structured-output",
+          "url": [
+            {
+              "title": "Structured Output",
+              "url": "https://abdullin.com/structured-output/"
+            },
+            {
+              "title": "Generating Structured Outputs from LLMs",
+              "url": "https://towardsdatascience.com/generating-structured-outputs-from-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            },
+            {
+              "title": "Structured Outputs hoạt động như thế nào?",
+              "url": "https://docs.cohere.com/docs/structured-outputs"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -407,7 +697,12 @@
           "filename": "system-prompting.md",
           "module": 2,
           "lesson": 17,
-          "url": "https://roadmap.sh/system-prompting",
+          "url": [
+            {
+              "title": "User prompts vs. system prompts: Sự khác biệt là gì?",
+              "url": "https://www.regie.ai/blog/user-prompts-vs-system-prompts"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -419,7 +714,20 @@
           "filename": "temperature.md",
           "module": 2,
           "lesson": 18,
-          "url": "https://roadmap.sh/temperature",
+          "url": [
+            {
+              "title": "What Temperature Means in Natural Language Processing and AI",
+              "url": "https://thenewstack.io/what-temperature-means-in-natural-language-processing-and-ai/"
+            },
+            {
+              "title": "LLM Temperature là gì? - IBM",
+              "url": "https://www.ibm.com/think/topics/llm-temperature"
+            },
+            {
+              "title": "Cách Cài Đặt Nhiệt Độ Thay Đổi Cách Trả Lời Của Trình Đại Diện AI Của Bạn",
+              "url": "https://docsbot.ai/article/how-temperature-settings-transform-your-ai-agents-responses"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -431,7 +739,12 @@
           "filename": "top-k.md",
           "module": 2,
           "lesson": 19,
-          "url": "https://roadmap.sh/top-k",
+          "url": [
+            {
+              "title": "Top-K Sampling: The Complete Token Selection Guide",
+              "url": "https://www.dataannotation.tech/blog/top-k-sampling"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -443,7 +756,7 @@
           "filename": "top-p.md",
           "module": 2,
           "lesson": 20,
-          "url": "https://roadmap.sh/top-p",
+          "url": [],
           "directory": "data/processed/how-llms-work/"
         },
         {
@@ -455,7 +768,20 @@
           "filename": "what-is-a-context-layer.md",
           "module": 2,
           "lesson": 21,
-          "url": "https://roadmap.sh/what-is-a-context-layer",
+          "url": [
+            {
+              "title": "Cách xây dựng lớp bối cảnh và não công ty",
+              "url": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/"
+            },
+            {
+              "title": "Lớp bối cảnh là gì? Cơ sở hạ tầng tác nhân AI",
+              "url": "https://redis.io/blog/what-is-a-context-layer/"
+            },
+            {
+              "title": "Context Layer vs Semantic Layer: What the Debate Gets Right and What It Misses",
+              "url": "https://datahub.com/blog/context-layer-vs-semantic-layer/"
+            }
+          ],
           "directory": "data/processed/how-llms-work/"
         }
       ]
@@ -474,7 +800,7 @@
           "filename": "anthropic-claude.md",
           "module": 3,
           "lesson": 1,
-          "url": "https://roadmap.sh/anthropic-claude",
+          "url": [],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -486,7 +812,12 @@
           "filename": "cohere.md",
           "module": 3,
           "lesson": 2,
-          "url": "https://roadmap.sh/cohere",
+          "url": [
+            {
+              "title": "Cohere làm gì?",
+              "url": "https://medium.com/geekculture/what-does-cohere-do-cdadf6d70435"
+            }
+          ],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -498,7 +829,20 @@
           "filename": "context.md",
           "module": 3,
           "lesson": 3,
-          "url": "https://roadmap.sh/context",
+          "url": [
+            {
+              "title": "What is a Context Window in AI?",
+              "url": "https://www.ibm.com/think/topics/context-window"
+            },
+            {
+              "title": "Cửa sổ ngữ cảnh của AI là gì?",
+              "url": "https://www.coursera.org/articles/context-window"
+            },
+            {
+              "title": "Cắt Qua Nhiễu: Quản Lý Ngữ Cảnh Thông Minh Cho Các Đại Lý Động Lực LLM",
+              "url": "https://blog.jetbrains.com/research/2025/12/efficient-context-management/"
+            }
+          ],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -510,7 +854,7 @@
           "filename": "google-gemini.md",
           "module": 3,
           "lesson": 4,
-          "url": "https://roadmap.sh/google-gemini",
+          "url": [],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -522,7 +866,7 @@
           "filename": "meta-llama.md",
           "module": 3,
           "lesson": 5,
-          "url": "https://roadmap.sh/meta-llama",
+          "url": [],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -534,7 +878,7 @@
           "filename": "mistral.md",
           "module": 3,
           "lesson": 6,
-          "url": "https://roadmap.sh/mistral",
+          "url": [],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -546,7 +890,12 @@
           "filename": "openai-gpt-o-series.md",
           "module": 3,
           "lesson": 7,
-          "url": "https://roadmap.sh/openai-gpt-o-series",
+          "url": [
+            {
+              "title": "Your guide to the complete OpenAI models list",
+              "url": "https://www.eesel.ai/blog/openai-models-list"
+            }
+          ],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -558,7 +907,12 @@
           "filename": "repetition-penalties.md",
           "module": 3,
           "lesson": 8,
-          "url": "https://roadmap.sh/repetition-penalties",
+          "url": [
+            {
+              "title": "Stop the LLM From Rambling: Using Penalties to Control Repetition",
+              "url": "https://dev.to/superorange0707/stop-the-llm-from-rambling-using-penalties-to-control-repetition-5h8"
+            }
+          ],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -570,7 +924,7 @@
           "filename": "sampling-parameters.md",
           "module": 3,
           "lesson": 9,
-          "url": "https://roadmap.sh/sampling-parameters",
+          "url": [],
           "directory": "data/processed/prompt-engineering/"
         },
         {
@@ -582,7 +936,16 @@
           "filename": "tokens.md",
           "module": 3,
           "lesson": 10,
-          "url": "https://roadmap.sh/tokens",
+          "url": [
+            {
+              "title": "Giải thích về Tokens — Ngôn ngữ và Tiền tệ của AI",
+              "url": "https://blogs.nvidia.com/blog/ai-tokens-explained/"
+            },
+            {
+              "title": "Hiểu biết về Token và Tham số trong Huấn luyện Mô hình: Một Khám phá Sâu",
+              "url": "https://www.functionize.com/blog/understanding-tokens-and-parameters-in-model-training"
+            }
+          ],
           "directory": "data/processed/prompt-engineering/"
         }
       ]
@@ -601,7 +964,20 @@
           "filename": "bias-and-fairness.md",
           "module": 4,
           "lesson": 1,
-          "url": "https://roadmap.sh/bias-and-fairness",
+          "url": [
+            {
+              "title": "Chúng ta nên làm gì về các tendency tendency trong AI?",
+              "url": "https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai"
+            },
+            {
+              "title": "AI Bias - Nó là gì và cách tránh nó?",
+              "url": "https://levity.ai/blog/ai-bias-how-to-avoid"
+            },
+            {
+              "title": "Về công bằng, sự chênh lệch và phân biệt đối xử thì sao?",
+              "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/what-about-fairness-bias-and-discrimination/"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -613,7 +989,16 @@
           "filename": "content-moderation-apis.md",
           "module": 4,
           "lesson": 2,
-          "url": "https://roadmap.sh/content-moderation-apis",
+          "url": [
+            {
+              "title": "Cách sử dụng API điều chỉnh",
+              "url": "https://cookbook.openai.com/examples/how_to_use_moderation"
+            },
+            {
+              "title": "Kiểm duyệt nội dung: Nó là gì, cách nó hoạt động, và các API tốt nhất",
+              "url": "https://www.assemblyai.com/blog/content-moderation-what-it-is-how-it-works-best-apis-2"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -625,7 +1010,12 @@
           "filename": "deepseek.md",
           "module": 4,
           "lesson": 3,
-          "url": "https://roadmap.sh/deepseek",
+          "url": [
+            {
+              "title": "DeepSeek explained: Everything you need to know",
+              "url": "https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -637,7 +1027,7 @@
           "filename": "gemma.md",
           "module": 4,
           "lesson": 4,
-          "url": "https://roadmap.sh/gemma",
+          "url": [],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -649,7 +1039,16 @@
           "filename": "prompt-injection-attacks.md",
           "module": 4,
           "lesson": 5,
-          "url": "https://roadmap.sh/prompt-injection-attacks",
+          "url": [
+            {
+              "title": "Prompt Injection trong LLMs",
+              "url": "https://www.promptingguide.ai/prompts/adversarial-prompting/prompt-injection"
+            },
+            {
+              "title": "What is a Prompt Injection Attack?",
+              "url": "https://www.wiz.io/academy/prompt-injection-attack"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -661,7 +1060,12 @@
           "filename": "qwen.md",
           "module": 4,
           "lesson": 6,
-          "url": "https://roadmap.sh/qwen",
+          "url": [
+            {
+              "title": "Qwen AI là gì?",
+              "url": "https://zapier.com/blog/qwen/"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         },
         {
@@ -673,7 +1077,12 @@
           "filename": "security-and-privacy-concerns.md",
           "module": 4,
           "lesson": 7,
-          "url": "https://roadmap.sh/security-and-privacy-concerns",
+          "url": [
+            {
+              "title": "Đánh giá rủi ro về quyền riêng tư trong hệ thống AI",
+              "url": "https://transcend.io/blog/ai-and-privacy"
+            }
+          ],
           "directory": "data/processed/context-engineering/"
         }
       ]
@@ -692,7 +1101,7 @@
           "filename": "adding-end-user-ids-in-prompts.md",
           "module": 5,
           "lesson": 1,
-          "url": "https://roadmap.sh/adding-end-user-ids-in-prompts",
+          "url": [],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -704,7 +1113,7 @@
           "filename": "closed-vs-open-source-models.md",
           "module": 5,
           "lesson": 2,
-          "url": "https://roadmap.sh/closed-vs-open-source-models",
+          "url": [],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -716,7 +1125,16 @@
           "filename": "conducting-adversarial-testing.md",
           "module": 5,
           "lesson": 3,
-          "url": "https://roadmap.sh/conducting-adversarial-testing",
+          "url": [
+            {
+              "title": "Kiểm tra đối kháng cho AI sinh tạo",
+              "url": "https://developers.google.com/machine-learning/resources/adv-testing"
+            },
+            {
+              "title": "Kiểm Tra Đối Địch: Định Nghĩa, Ví Dụ và Tài Nguyên",
+              "url": "https://www.leapwork.com/blog/adversarial-testing"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -728,7 +1146,16 @@
           "filename": "constraining-outputs-and-inputs.md",
           "module": 5,
           "lesson": 4,
-          "url": "https://roadmap.sh/constraining-outputs-and-inputs",
+          "url": [
+            {
+              "title": "Preventing Prompt Injection",
+              "url": "https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction"
+            },
+            {
+              "title": "Giới thiệu Đầu ra Có Cấu trúc trong API - OpenAI",
+              "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -740,7 +1167,12 @@
           "filename": "know-your-customers--usecases.md",
           "module": 5,
           "lesson": 5,
-          "url": "https://roadmap.sh/know-your-customers--usecases",
+          "url": [
+            {
+              "title": "Gán vai trò",
+              "url": "https://learnprompting.org/docs/basics/roles"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -752,7 +1184,12 @@
           "filename": "pre-trained-models.md",
           "module": 5,
           "lesson": 6,
-          "url": "https://roadmap.sh/pre-trained-models",
+          "url": [
+            {
+              "title": "Pre-trained Models: Past, Present and Future",
+              "url": "https://www.sciencedirect.com/science/article/pii/S2666651021000231"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -764,7 +1201,12 @@
           "filename": "robust-prompt-engineering.md",
           "module": 5,
           "lesson": 7,
-          "url": "https://roadmap.sh/robust-prompt-engineering",
+          "url": [
+            {
+              "title": "Kỹ Thuật Prompt Hiệu Quả: Hướng Dẫn Toàn Diện",
+              "url": "https://medium.com/@nmurugs/effective-prompt-engineering-a-comprehensive-guide-803160c571ed"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         },
         {
@@ -776,7 +1218,16 @@
           "filename": "self-hosted-models.md",
           "module": 5,
           "lesson": 8,
-          "url": "https://roadmap.sh/self-hosted-models",
+          "url": [
+            {
+              "title": "Self-Hosted LLM: A Practical Guide for DevOps",
+              "url": "https://www.plural.sh/blog/self-hosting-large-language-models/"
+            },
+            {
+              "title": "Serverless vs. self-hosted LLM inference",
+              "url": "https://bentoml.com/llm/llm-inference-basics/serverless-vs-self-hosted-llm-inference"
+            }
+          ],
           "directory": "data/processed/type-of-models/"
         }
       ]
@@ -795,7 +1246,16 @@
           "filename": "anomaly-detection.md",
           "module": 6,
           "lesson": 1,
-          "url": "https://roadmap.sh/anomaly-detection",
+          "url": [
+            {
+              "title": "Anomaly trong Embeddings",
+              "url": "https://ai.google.dev/gemini-api/tutorials/anomaly_detection"
+            },
+            {
+              "title": "Nâng cao Phát hiện bất thường của bạn bằng LLMs",
+              "url": "https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/choosing-the-right-model-/"
         },
         {
@@ -807,7 +1267,7 @@
           "filename": "cohere.md",
           "module": 6,
           "lesson": 2,
-          "url": "https://roadmap.sh/cohere",
+          "url": [],
           "directory": "data/processed/choosing-the-right-model-/"
         },
         {
@@ -819,7 +1279,12 @@
           "filename": "data-classification.md",
           "module": 6,
           "lesson": 3,
-          "url": "https://roadmap.sh/data-classification",
+          "url": [
+            {
+              "title": "Phân loại dữ liệu là gì?",
+              "url": "https://www.paloaltonetworks.com/cyberpedia/data-classification"
+            }
+          ],
           "directory": "data/processed/choosing-the-right-model-/"
         },
         {
@@ -831,7 +1296,12 @@
           "filename": "recommendation-systems.md",
           "module": 6,
           "lesson": 4,
-          "url": "https://roadmap.sh/recommendation-systems",
+          "url": [
+            {
+              "title": "What is a Recommendation Engine?",
+              "url": "https://www.ibm.com/think/topics/recommendation-engine"
+            }
+          ],
           "directory": "data/processed/choosing-the-right-model-/"
         },
         {
@@ -843,7 +1313,12 @@
           "filename": "semantic-search.md",
           "module": 6,
           "lesson": 5,
-          "url": "https://roadmap.sh/semantic-search",
+          "url": [
+            {
+              "title": "What is Semantic Search?",
+              "url": "https://www.elastic.co/what-is/semantic-search"
+            }
+          ],
           "directory": "data/processed/choosing-the-right-model-/"
         }
       ]
@@ -862,7 +1337,16 @@
           "filename": "context-evaluation.md",
           "module": 7,
           "lesson": 1,
-          "url": "https://roadmap.sh/context-evaluation",
+          "url": [
+            {
+              "title": "Đánh giá AI Agent",
+              "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            },
+            {
+              "title": "Kỹ thuật bối cảnh hiệu quả cho các tác nhân AI: Hướng dẫn cho nhà phát triển",
+              "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -874,7 +1358,20 @@
           "filename": "cot.md",
           "module": 7,
           "lesson": 2,
-          "url": "https://roadmap.sh/cot",
+          "url": [
+            {
+              "title": "What is chain of thought (CoT) prompting?",
+              "url": "https://www.ibm.com/think/topics/chain-of-thoughts"
+            },
+            {
+              "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+              "url": "https://arxiv.org/abs/2201.11903"
+            },
+            {
+              "title": "Kích hoạt Chuỗi suy nghĩ trong LLM - Hướng dẫn Prompting",
+              "url": "https://www.promptingguide.ai/techniques/cot"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -886,7 +1383,7 @@
           "filename": "hugging-face-hub.md",
           "module": 7,
           "lesson": 3,
-          "url": "https://roadmap.sh/hugging-face-hub",
+          "url": [],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -898,7 +1395,7 @@
           "filename": "hugging-face-tasks.md",
           "module": 7,
           "lesson": 4,
-          "url": "https://roadmap.sh/hugging-face-tasks",
+          "url": [],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -910,7 +1407,16 @@
           "filename": "long-context-processing.md",
           "module": 7,
           "lesson": 5,
-          "url": "https://roadmap.sh/long-context-processing",
+          "url": [
+            {
+              "title": "Qua Cửa Sổ: Hướng Dẫn Hoàn Toàn Về Các Mô Hình Ngôn Ngữ Bối Cảnh Dài (Và Lý Do Chúng Đang Thay Đổi AI)",
+              "url": "https://towardsdev.com/beyond-the-window-the-complete-guide-to-long-context-language-models-and-why-theyre-changing-ai-ee28f6c2b428"
+            },
+            {
+              "title": "Long-Context LLM Infrastructure: Building Systems for Million-Token Windows",
+              "url": "https://introl.com/blog/long-context-llm-infrastructure-million-token-windows-guide"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -922,7 +1428,16 @@
           "filename": "mcp.md",
           "module": 7,
           "lesson": 6,
-          "url": "https://roadmap.sh/mcp",
+          "url": [
+            {
+              "title": "Giao thức Ngữ cảnh Mô hình (MCP) là gì?",
+              "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro"
+            },
+            {
+              "title": "MCP Được Giải Thích: Cách Các Đại Lý AI Hiện Đại Kết Nối Với Thế Giới Thực",
+              "url": "https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -934,7 +1449,16 @@
           "filename": "memory-systems.md",
           "module": 7,
           "lesson": 7,
-          "url": "https://roadmap.sh/memory-systems",
+          "url": [
+            {
+              "title": "A Practical Guide to Memory for Autonomous LLM Agents",
+              "url": "https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/"
+            },
+            {
+              "title": "Hướng Dẫn Cuối Cùng về Bộ Nhớ LLM: Từ Cửa Sổ Ngữ cảnh đến Hệ Thống Bộ Nhớ Trình Đại Lý Nâng Cao",
+              "url": "https://medium.com/@sonitanishk2003/the-ultimate-guide-to-llm-memory-from-context-windows-to-advanced-agent-memory-systems-3ec106d2a345"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -946,7 +1470,16 @@
           "filename": "multi-agent-context-sharing.md",
           "module": 7,
           "lesson": 8,
-          "url": "https://roadmap.sh/multi-agent-context-sharing",
+          "url": [
+            {
+              "title": "Hệ thống nhiều tác nhân phi tập trung với ngữ cảnh chung",
+              "url": "https://arxiv.org/abs/2606.10662"
+            },
+            {
+              "title": "Cách triển khai các mẫu chia sẻ ngữ cảnh multi-agent",
+              "url": "https://fast.io/resources/multi-agent-context-sharing-patterns/"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -958,7 +1491,12 @@
           "filename": "state--historical-context.md",
           "module": 7,
           "lesson": 9,
-          "url": "https://roadmap.sh/state--historical-context",
+          "url": [
+            {
+              "title": "Trạng thái, bộ nhớ và ngữ cảnh trong các tác nhân: Trí tuệ nhân tạo theo dõi điều gì bạn đã hỏi",
+              "url": "https://medium.com/@koganti.saichandana14/state-memory-and-context-in-agents-how-ai-keeps-track-of-what-you-asked-a5f18de54dd8"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         },
         {
@@ -970,7 +1508,16 @@
           "filename": "zero-shot.md",
           "module": 7,
           "lesson": 10,
-          "url": "https://roadmap.sh/zero-shot",
+          "url": [
+            {
+              "title": "Zero-shot prompting là gì?",
+              "url": "https://www.ibm.com/think/topics/zero-shot-prompting"
+            },
+            {
+              "title": "Zero-Shot Prompting",
+              "url": "https://www.promptingguide.ai/techniques/zeroshot"
+            }
+          ],
           "directory": "data/processed/hugging-face/"
         }
       ]
@@ -989,7 +1536,7 @@
           "filename": "atlan.md",
           "module": 8,
           "lesson": 1,
-          "url": "https://roadmap.sh/atlan",
+          "url": [],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1001,7 +1548,20 @@
           "filename": "context-failure-modes.md",
           "module": 8,
           "lesson": 2,
-          "url": "https://roadmap.sh/context-failure-modes",
+          "url": [
+            {
+              "title": "How Long Contexts Fail",
+              "url": "https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html"
+            },
+            {
+              "title": "Hiểu các chế độ thất bại của LLM (Và tại sao chúng quan trọng hơn chính mô hình)",
+              "url": "https://medium.com/@RamPrakashD/understanding-llm-failure-modes-and-why-they-matter-more-than-the-model-itself-2104edccf3cd"
+            },
+            {
+              "title": "Các Đồi Trình Code Không Cần Cửa Sổ Bối Cảnh Lớn — Họ Cần Một Trình Biên Dịch Bối Cảnh",
+              "url": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1013,7 +1573,7 @@
           "filename": "datahub.md",
           "module": 8,
           "lesson": 3,
-          "url": "https://roadmap.sh/datahub",
+          "url": [],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1025,7 +1585,12 @@
           "filename": "google-gemini-api.md",
           "module": 8,
           "lesson": 4,
-          "url": "https://roadmap.sh/google-gemini-api",
+          "url": [
+            {
+              "title": "Tất cả những gì bạn cần biết về Gemini API như một nhà phát triển trong ít hơn 5 phút",
+              "url": "https://medium.com/around-the-prompt/everything-you-need-to-know-about-the-gemini-api-as-a-developer-in-less-than-5-minutes-5e75343ccff9"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1037,7 +1602,12 @@
           "filename": "hugging-face-inference-sdk.md",
           "module": 8,
           "lesson": 5,
-          "url": "https://roadmap.sh/hugging-face-inference-sdk",
+          "url": [
+            {
+              "title": "Endpoint Setup",
+              "url": "https://www.npmjs.com/package/@huggingface/inference"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1049,7 +1619,12 @@
           "filename": "modus.md",
           "module": 8,
           "lesson": 6,
-          "url": "https://roadmap.sh/modus",
+          "url": [
+            {
+              "title": "Cách Xây dựng Một Lớp Bối cảnh và Một Não Công ty",
+              "url": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1061,7 +1636,7 @@
           "filename": "openai-response-api.md",
           "module": 8,
           "lesson": 7,
-          "url": "https://roadmap.sh/openai-response-api",
+          "url": [],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1073,7 +1648,7 @@
           "filename": "posthog.md",
           "module": 8,
           "lesson": 8,
-          "url": "https://roadmap.sh/posthog",
+          "url": [],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1085,7 +1660,20 @@
           "filename": "rag-usecases.md",
           "module": 8,
           "lesson": 9,
-          "url": "https://roadmap.sh/rag-usecases",
+          "url": [
+            {
+              "title": "Retrieval augmented generation use cases: Chuyển đổi dữ liệu thành các insight",
+              "url": "https://www.glean.com/blog/retrieval-augmented-generation-use-cases"
+            },
+            {
+              "title": "Sinh tạo tăng cường truy xuất (RAG) – 5 Trường hợp sử dụng",
+              "url": "https://theblue.ai/blog/rag-news/"
+            },
+            {
+              "title": "Cách huấn luyện chatbot bằng RAG và dữ liệu tùy chỉnh",
+              "url": "https://towardsdatascience.com/how-to-train-a-chatbot-using-rag-and-custom-data/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1097,7 +1685,16 @@
           "filename": "rag-vs-fine-tuning.md",
           "module": 8,
           "lesson": 10,
-          "url": "https://roadmap.sh/rag-vs-fine-tuning",
+          "url": [
+            {
+              "title": "RAG vs Fine Tuning: Cách chọn phương pháp phù hợp",
+              "url": "https://www.montecarlodata.com/blog-rag-vs-fine-tuning/"
+            },
+            {
+              "title": "RAG RAG so sánh với Finetuning — Công cụ nào là tốt nhất để nâng cao ứng dụng LLM của bạn?",
+              "url": "https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7"
+            }
+          ],
           "directory": "data/processed/ollama/"
         },
         {
@@ -1109,7 +1706,7 @@
           "filename": "transformersjs.md",
           "module": 8,
           "lesson": 11,
-          "url": "https://roadmap.sh/transformersjs",
+          "url": [],
           "directory": "data/processed/ollama/"
         }
       ]
@@ -1128,7 +1725,12 @@
           "filename": "chroma.md",
           "module": 9,
           "lesson": 1,
-          "url": "https://roadmap.sh/chroma",
+          "url": [
+            {
+              "title": "Chroma Hướng dẫn",
+              "url": "https://lablab.ai/tech/chroma"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1140,7 +1742,12 @@
           "filename": "claude-messages-api.md",
           "module": 9,
           "lesson": 2,
-          "url": "https://roadmap.sh/claude-messages-api",
+          "url": [
+            {
+              "title": "Claude API: Cách lấy key và sử dụng API",
+              "url": "https://zapier.com/blog/claude-api/"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1152,7 +1759,12 @@
           "filename": "faiss.md",
           "module": 9,
           "lesson": 3,
-          "url": "https://roadmap.sh/faiss",
+          "url": [
+            {
+              "title": "Faiss (Tìm kiếm độ tương tự AI của Facebook) là gì?",
+              "url": "https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1164,7 +1776,7 @@
           "filename": "lancedb.md",
           "module": 9,
           "lesson": 4,
-          "url": "https://roadmap.sh/lancedb",
+          "url": [],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1176,7 +1788,7 @@
           "filename": "mongodb-atlas.md",
           "module": 9,
           "lesson": 5,
-          "url": "https://roadmap.sh/mongodb-atlas",
+          "url": [],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1188,7 +1800,16 @@
           "filename": "openai-compatible-apis.md",
           "module": 9,
           "lesson": 6,
-          "url": "https://roadmap.sh/openai-compatible-apis",
+          "url": [
+            {
+              "title": "API tương thích với OpenAI",
+              "url": "https://bentoml.com/llm/llm-inference-basics/openai-compatible-api"
+            },
+            {
+              "title": "tương thích OpenAI - Gemini",
+              "url": "https://ai.google.dev/gemini-api/docs/openai"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1200,7 +1821,12 @@
           "filename": "pinecone.md",
           "module": 9,
           "lesson": 7,
-          "url": "https://roadmap.sh/pinecone",
+          "url": [
+            {
+              "title": "Tất cả những gì bạn cần biết về Pinecone",
+              "url": "https://www.packtpub.com/article-hub/everything-you-need-to-know-about-pinecone-a-vector-database?srsltid=AfmBOorXsy9WImpULoLjd-42ERvTzj3pQb7C2EFgamWlRobyGJVZKKdz"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1212,7 +1838,20 @@
           "filename": "purpose-and-functionality.md",
           "module": 9,
           "lesson": 8,
-          "url": "https://roadmap.sh/purpose-and-functionality",
+          "url": [
+            {
+              "title": "What is a Vector Database? Top 12 Use Cases",
+              "url": "https://lakefs.io/blog/what-is-vector-databases/"
+            },
+            {
+              "title": "Vector Databases: Giới thiệu, Trường hợp sử dụng",
+              "url": "https://www.v7labs.com/blog/vector-databases"
+            },
+            {
+              "title": "Khi (Không) Sử Dụng Vector DB",
+              "url": "https://towardsdatascience.com/when-not-to-use-vector-db/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1224,7 +1863,7 @@
           "filename": "qdrant.md",
           "module": 9,
           "lesson": 9,
-          "url": "https://roadmap.sh/qdrant",
+          "url": [],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1236,7 +1875,7 @@
           "filename": "supabase.md",
           "module": 9,
           "lesson": 10,
-          "url": "https://roadmap.sh/supabase",
+          "url": [],
           "directory": "data/processed/openrouter/"
         },
         {
@@ -1248,7 +1887,7 @@
           "filename": "weaviate.md",
           "module": 9,
           "lesson": 11,
-          "url": "https://roadmap.sh/weaviate",
+          "url": [],
           "directory": "data/processed/openrouter/"
         }
       ]
@@ -1267,7 +1906,12 @@
           "filename": "indexing-embeddings.md",
           "module": 10,
           "lesson": 1,
-          "url": "https://roadmap.sh/indexing-embeddings",
+          "url": [
+            {
+              "title": "Indexing & Embeddings",
+              "url": "https://developers.llamaindex.ai/python/framework/understanding/rag/indexing/"
+            }
+          ],
           "directory": "data/processed/embedding-models/"
         },
         {
@@ -1279,7 +1923,7 @@
           "filename": "multimodal-ai-usecases.md",
           "module": 10,
           "lesson": 2,
-          "url": "https://roadmap.sh/multimodal-ai-usecases",
+          "url": [],
           "directory": "data/processed/embedding-models/"
         },
         {
@@ -1291,7 +1935,12 @@
           "filename": "performing-similarity-search.md",
           "module": 10,
           "lesson": 3,
-          "url": "https://roadmap.sh/performing-similarity-search",
+          "url": [
+            {
+              "title": "Similarity Search là gì & nó hoạt động như thế nào?",
+              "url": "https://www.truefoundry.com/blog/similarity-search"
+            }
+          ],
           "directory": "data/processed/embedding-models/"
         }
       ]
@@ -1310,7 +1959,7 @@
           "filename": "gemini-embedding.md",
           "module": 11,
           "lesson": 1,
-          "url": "https://roadmap.sh/gemini-embedding",
+          "url": [],
           "directory": "data/processed/vector-databases/"
         },
         {
@@ -1322,7 +1971,7 @@
           "filename": "jina.md",
           "module": 11,
           "lesson": 2,
-          "url": "https://roadmap.sh/jina",
+          "url": [],
           "directory": "data/processed/vector-databases/"
         },
         {
@@ -1334,7 +1983,7 @@
           "filename": "models-on-hugging-face.md",
           "module": 11,
           "lesson": 3,
-          "url": "https://roadmap.sh/models-on-hugging-face",
+          "url": [],
           "directory": "data/processed/vector-databases/"
         },
         {
@@ -1346,7 +1995,7 @@
           "filename": "open-ai-embeddings-api.md",
           "module": 11,
           "lesson": 4,
-          "url": "https://roadmap.sh/open-ai-embeddings-api",
+          "url": [],
           "directory": "data/processed/vector-databases/"
         },
         {
@@ -1358,7 +2007,20 @@
           "filename": "sentence-transformers.md",
           "module": 11,
           "lesson": 5,
-          "url": "https://roadmap.sh/sentence-transformers",
+          "url": [
+            {
+              "title": "BERT là gì?",
+              "url": "https://h2o.ai/wiki/bert/"
+            },
+            {
+              "title": "SentenceTransformers Tài liệu",
+              "url": "https://sbert.net/"
+            },
+            {
+              "title": "Using Sentence Transformers at Hugging Face",
+              "url": "https://huggingface.co/docs/hub/sentence-transformers"
+            }
+          ],
           "directory": "data/processed/vector-databases/"
         }
       ]
@@ -1377,7 +2039,20 @@
           "filename": "chunking.md",
           "module": 12,
           "lesson": 1,
-          "url": "https://roadmap.sh/chunking",
+          "url": [
+            {
+              "title": "Hiểu về RecursiveCharacterTextSplitter của LangChain",
+              "url": "https://dev.to/eteimz/understanding-langchains-recursivecharactertextsplitter-2846"
+            },
+            {
+              "title": "Chunking Strategies for LLM Applications",
+              "url": "https://www.pinecone.io/learn/chunking-strategies/"
+            },
+            {
+              "title": "Hướng dẫn về các chiến lược chunking cho Retrieval Augmented Generation",
+              "url": "https://zilliz.com/learn/guide-to-chunking-strategies-for-rag"
+            }
+          ],
           "directory": "data/processed/what-are-rags/"
         },
         {
@@ -1389,7 +2064,16 @@
           "filename": "embedding.md",
           "module": 12,
           "lesson": 2,
-          "url": "https://roadmap.sh/embedding",
+          "url": [
+            {
+              "title": "Hiểu biết về vai trò của embeddings trong các LLM RAG",
+              "url": "https://www.aporia.com/learn/understanding-the-role-of-embeddings-in-rag-llms/"
+            },
+            {
+              "title": "Thành thạo RAG: Cách chọn mô hình nhúng",
+              "url": "https://www.rungalileo.io/blog/mastering-rag-how-to-select-an-embedding-model"
+            }
+          ],
           "directory": "data/processed/what-are-rags/"
         },
         {
@@ -1401,7 +2085,12 @@
           "filename": "generation.md",
           "module": 12,
           "lesson": 3,
-          "url": "https://roadmap.sh/generation",
+          "url": [
+            {
+              "title": "RAG (Retrieval-Augmented Generation) là gì?",
+              "url": "https://aws.amazon.com/what-is/retrieval-augmented-generation/"
+            }
+          ],
           "directory": "data/processed/what-are-rags/"
         },
         {
@@ -1413,7 +2102,16 @@
           "filename": "retrieval-process.md",
           "module": 12,
           "lesson": 4,
-          "url": "https://roadmap.sh/retrieval-process",
+          "url": [
+            {
+              "title": "What is Retrieval-Augmented Generation (RAG)?",
+              "url": "https://cloud.google.com/use-cases/retrieval-augmented-generation"
+            },
+            {
+              "title": "What Is Retrieval-Augmented Generation, aka RAG?",
+              "url": "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/"
+            }
+          ],
           "directory": "data/processed/what-are-rags/"
         },
         {
@@ -1425,7 +2123,16 @@
           "filename": "vector-database.md",
           "module": 12,
           "lesson": 5,
-          "url": "https://roadmap.sh/vector-database",
+          "url": [
+            {
+              "title": "Cách triển khai Graph RAG bằng Knowledge Graphs và Vector Databases",
+              "url": "https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759"
+            },
+            {
+              "title": "Retrieval Augmented Generation (RAG) với Cơ sở dữ liệu Vector: Mở rộng Khả năng AI",
+              "url": "https://objectbox.io/retrieval-augmented-generation-rag-with-vector-databases-expanding-ai-capabilities/"
+            }
+          ],
           "directory": "data/processed/what-are-rags/"
         }
       ]
@@ -1444,7 +2151,20 @@
           "filename": "agents-usecases.md",
           "module": 13,
           "lesson": 1,
-          "url": "https://roadmap.sh/agents-usecases",
+          "url": [
+            {
+              "title": "Top 15 Trường hợp sử dụng của AI Agents trong Doanh nghiệp",
+              "url": "https://www.ampcome.com/post/15-use-cases-of-ai-agents-in-business"
+            },
+            {
+              "title": "Hướng dẫn ngắn gọn về AI Agents: Lợi ích và Trường hợp sử dụng",
+              "url": "https://www.codica.com/blog/brief-guide-on-ai-agents/"
+            },
+            {
+              "title": "Cách Xây dựng Các Đôi Trí Tuệ Nhân Tạo Hiệu Quả Để Xử Lý Triệu Yêu Cầu",
+              "url": "https://towardsdatascience.com/how-to-build-effective-ai-agents-to-process-millions-of-requests/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1456,7 +2176,12 @@
           "filename": "building-an-mcp-client.md",
           "module": 13,
           "lesson": 2,
-          "url": "https://roadmap.sh/building-an-mcp-client",
+          "url": [
+            {
+              "title": "MCP Client - Hướng dẫn từng bước để xây dựng từ đầu",
+              "url": "https://composio.dev/blog/mcp-client-step-by-step-guide-to-building-from-scratch"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1468,7 +2193,12 @@
           "filename": "building-an-mcp-server.md",
           "module": 13,
           "lesson": 3,
-          "url": "https://roadmap.sh/building-an-mcp-server",
+          "url": [
+            {
+              "title": "MCP server: Hướng dẫn từng bước để xây dựng từ đầu",
+              "url": "https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1480,7 +2210,12 @@
           "filename": "claude-agent-sdk.md",
           "module": 13,
           "lesson": 4,
-          "url": "https://roadmap.sh/claude-agent-sdk",
+          "url": [
+            {
+              "title": "Bắt đầu với Claude Agent SDK",
+              "url": "https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1492,7 +2227,12 @@
           "filename": "connect-to-local-server.md",
           "module": 13,
           "lesson": 5,
-          "url": "https://roadmap.sh/connect-to-local-server",
+          "url": [
+            {
+              "title": "Hướng dẫn Xây dựng và Lưu trữ Máy chủ MCP Của Bạn trong Các Bước Đơn giản",
+              "url": "ttps://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1504,7 +2244,12 @@
           "filename": "connect-to-remote-server.md",
           "module": 13,
           "lesson": 6,
-          "url": "https://roadmap.sh/connect-to-remote-server",
+          "url": [
+            {
+              "title": "Máy chủ MCP từ xa",
+              "url": "https://mcpservers.org/remote-mcp-servers"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1516,7 +2261,7 @@
           "filename": "data-layer.md",
           "module": 13,
           "lesson": 7,
-          "url": "https://roadmap.sh/data-layer",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1528,7 +2273,7 @@
           "filename": "google-adk.md",
           "module": 13,
           "lesson": 8,
-          "url": "https://roadmap.sh/google-adk",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1540,7 +2285,7 @@
           "filename": "haystack.md",
           "module": 13,
           "lesson": 9,
-          "url": "https://roadmap.sh/haystack",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1552,7 +2297,7 @@
           "filename": "langchain.md",
           "module": 13,
           "lesson": 10,
-          "url": "https://roadmap.sh/langchain",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1564,7 +2309,7 @@
           "filename": "llama-index.md",
           "module": 13,
           "lesson": 11,
-          "url": "https://roadmap.sh/llama-index",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1576,7 +2321,7 @@
           "filename": "manual-implementation.md",
           "module": 13,
           "lesson": 12,
-          "url": "https://roadmap.sh/manual-implementation",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1588,7 +2333,7 @@
           "filename": "mcp-client.md",
           "module": 13,
           "lesson": 13,
-          "url": "https://roadmap.sh/mcp-client",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1600,7 +2345,7 @@
           "filename": "mcp-host.md",
           "module": 13,
           "lesson": 14,
-          "url": "https://roadmap.sh/mcp-host",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1612,7 +2357,12 @@
           "filename": "mcp-server.md",
           "module": 13,
           "lesson": 15,
-          "url": "https://roadmap.sh/mcp-server",
+          "url": [
+            {
+              "title": "Máy chủ MCP tuyệt vời",
+              "url": "https://mcpservers.org/"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1624,7 +2374,20 @@
           "filename": "multi-agents.md",
           "module": 13,
           "lesson": 16,
-          "url": "https://roadmap.sh/multi-agents",
+          "url": [
+            {
+              "title": "Hệ thống multi-agent là gì?",
+              "url": "https://www.ibm.com/think/topics/multiagent-system"
+            },
+            {
+              "title": "Hệ thống đa đại lý",
+              "url": "https://huggingface.co/learn/agents-course/en/unit2/smolagents/multi_agent_systems"
+            },
+            {
+              "title": "Guide to multi-agent systems (MAS)",
+              "url": "https://cloud.google.com/discover/what-is-a-multi-agent-system"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1636,7 +2399,7 @@
           "filename": "openai-agentkit--agent-sdk.md",
           "module": 13,
           "lesson": 17,
-          "url": "https://roadmap.sh/openai-agentkit--agent-sdk",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1648,7 +2411,7 @@
           "filename": "ragflow.md",
           "module": 13,
           "lesson": 18,
-          "url": "https://roadmap.sh/ragflow",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1660,7 +2423,16 @@
           "filename": "react-prompting.md",
           "module": 13,
           "lesson": 19,
-          "url": "https://roadmap.sh/react-prompting",
+          "url": [
+            {
+              "title": "ReAct Prompting",
+              "url": "https://www.promptingguide.ai/techniques/react"
+            },
+            {
+              "title": "ReAct Prompting: How We Prompt for High-Quality Results from LLMs",
+              "url": "https://www.width.ai/post/react-prompting"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1672,7 +2444,16 @@
           "filename": "tools--function-calling.md",
           "module": 13,
           "lesson": 20,
-          "url": "https://roadmap.sh/tools--function-calling",
+          "url": [
+            {
+              "title": "So sánh 50+ công cụ trình đại lý AI năm 2026",
+              "url": "https://aimultiple.com/ai-agent-tools"
+            },
+            {
+              "title": "Các Nhân Trí Tú AI Được Giải Thích Cú Đơn Giản Cho Người Mới Bắt Đầu",
+              "url": "https://www.geeky-gadgets.com/ai-agents-explained-for-beginners/"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1684,7 +2465,7 @@
           "filename": "transport-layer.md",
           "module": 13,
           "lesson": 21,
-          "url": "https://roadmap.sh/transport-layer",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1696,7 +2477,7 @@
           "filename": "using-sdks-directly.md",
           "module": 13,
           "lesson": 22,
-          "url": "https://roadmap.sh/using-sdks-directly",
+          "url": [],
           "directory": "data/processed/ai-agents/"
         },
         {
@@ -1708,7 +2489,12 @@
           "filename": "vertex-ai-agent-builder.md",
           "module": 13,
           "lesson": 23,
-          "url": "https://roadmap.sh/vertex-ai-agent-builder",
+          "url": [
+            {
+              "title": "Hướng dẫn Vertex AI: Hướng dẫn toàn diện cho người mới bắt đầu",
+              "url": "https://www.datacamp.com/tutorial/vertex-ai-tutorial"
+            }
+          ],
           "directory": "data/processed/ai-agents/"
         }
       ]
@@ -1727,7 +2513,16 @@
           "filename": "costlatency-monitoring.md",
           "module": 14,
           "lesson": 1,
-          "url": "https://roadmap.sh/costlatency-monitoring",
+          "url": [
+            {
+              "title": "Trilemma suy luận LLM: Throughput, Latency, Cost",
+              "url": "https://www.digitalocean.com/blog/llm-inference-tradeoffs"
+            },
+            {
+              "title": "Tối ưu chi phí LLM: 5 công cụ giảm chi phí API 70-85%",
+              "url": "https://www.morphllm.com/llm-cost-optimization"
+            }
+          ],
           "directory": "data/processed/llm-observability/"
         },
         {
@@ -1739,7 +2534,12 @@
           "filename": "production-monitoring.md",
           "module": 14,
           "lesson": 2,
-          "url": "https://roadmap.sh/production-monitoring",
+          "url": [
+            {
+              "title": "LLM Observability: Hướng dẫn đầy đủ về việc Monitoring LLMs trong môi trường Production",
+              "url": "https://www.swept.ai/post/llm-observability-complete-guide"
+            }
+          ],
           "directory": "data/processed/llm-observability/"
         },
         {
@@ -1751,7 +2551,12 @@
           "filename": "tracing--logging.md",
           "module": 14,
           "lesson": 3,
-          "url": "https://roadmap.sh/tracing--logging",
+          "url": [
+            {
+              "title": "Hướng dẫn về gỡ lỗi, truy vết và giám sát LLM",
+              "url": "https://wandb.ai/onlineinference/genai-research/reports/A-guide-to-LLM-debugging-tracing-and-monitoring--VmlldzoxMzk1MjAyOQ"
+            }
+          ],
           "directory": "data/processed/llm-observability/"
         }
       ]
@@ -1770,7 +2575,7 @@
           "filename": "arize-ai.md",
           "module": 15,
           "lesson": 1,
-          "url": "https://roadmap.sh/arize-ai",
+          "url": [],
           "directory": "data/processed/llm-evaluations/"
         },
         {
@@ -1782,7 +2587,16 @@
           "filename": "deterministic-evals.md",
           "module": 15,
           "lesson": 2,
-          "url": "https://roadmap.sh/deterministic-evals",
+          "url": [
+            {
+              "title": "How I Built Deterministic LLM Evaluation Metrics for DeepEval",
+              "url": "https://www.confident-ai.com/blog/how-i-built-deterministic-llm-evaluation-metrics-for-deepeval"
+            },
+            {
+              "title": "Giải mã các đánh giá cho AI agents",
+              "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
+            }
+          ],
           "directory": "data/processed/llm-evaluations/"
         },
         {
@@ -1794,7 +2608,7 @@
           "filename": "helicone.md",
           "module": 15,
           "lesson": 3,
-          "url": "https://roadmap.sh/helicone",
+          "url": [],
           "directory": "data/processed/llm-evaluations/"
         },
         {
@@ -1806,7 +2620,7 @@
           "filename": "langfuse.md",
           "module": 15,
           "lesson": 4,
-          "url": "https://roadmap.sh/langfuse",
+          "url": [],
           "directory": "data/processed/llm-evaluations/"
         },
         {
@@ -1818,7 +2632,7 @@
           "filename": "langsmith.md",
           "module": 15,
           "lesson": 5,
-          "url": "https://roadmap.sh/langsmith",
+          "url": [],
           "directory": "data/processed/llm-evaluations/"
         }
       ]
@@ -1837,7 +2651,7 @@
           "filename": "dall-e-api.md",
           "module": 16,
           "lesson": 1,
-          "url": "https://roadmap.sh/dall-e-api",
+          "url": [],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1849,7 +2663,7 @@
           "filename": "hugging-face-models.md",
           "module": 16,
           "lesson": 2,
-          "url": "https://roadmap.sh/hugging-face-models",
+          "url": [],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1861,7 +2675,7 @@
           "filename": "image-generation.md",
           "module": 16,
           "lesson": 3,
-          "url": "https://roadmap.sh/image-generation",
+          "url": [],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1873,7 +2687,12 @@
           "filename": "image-understanding.md",
           "module": 16,
           "lesson": 4,
-          "url": "https://roadmap.sh/image-understanding",
+          "url": [
+            {
+              "title": "Hiểu biết ảnh độ trung thực thấp hoặc cao - OpenAI",
+              "url": "https://platform.openai.com/docs/guides/images"
+            }
+          ],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1885,7 +2704,7 @@
           "filename": "openai-vision-api.md",
           "module": 16,
           "lesson": 5,
-          "url": "https://roadmap.sh/openai-vision-api",
+          "url": [],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1897,7 +2716,12 @@
           "filename": "video-understanding.md",
           "module": 16,
           "lesson": 6,
-          "url": "https://roadmap.sh/video-understanding",
+          "url": [
+            {
+              "title": "Hiểu biết video",
+              "url": "https://dl.acm.org/doi/10.1145/3503161.3551600"
+            }
+          ],
           "directory": "data/processed/multimodal-ai/"
         },
         {
@@ -1909,7 +2733,7 @@
           "filename": "whisper-api.md",
           "module": 16,
           "lesson": 7,
-          "url": "https://roadmap.sh/whisper-api",
+          "url": [],
           "directory": "data/processed/multimodal-ai/"
         }
       ]
@@ -1928,7 +2752,12 @@
           "filename": "audio-processing.md",
           "module": 17,
           "lesson": 1,
-          "url": "https://roadmap.sh/audio-processing",
+          "url": [
+            {
+              "title": "The State of Audio Processing",
+              "url": "https://appwrite.io/blog/post/state-of-audio-processing"
+            }
+          ],
           "directory": "data/processed/development-tools/"
         },
         {
@@ -1940,7 +2769,7 @@
           "filename": "langchain-for-multimodal-apps.md",
           "module": 17,
           "lesson": 2,
-          "url": "https://roadmap.sh/langchain-for-multimodal-apps",
+          "url": [],
           "directory": "data/processed/development-tools/"
         },
         {
@@ -1952,7 +2781,7 @@
           "filename": "llamaindex-for-multimodal-apps.md",
           "module": 17,
           "lesson": 3,
-          "url": "https://roadmap.sh/llamaindex-for-multimodal-apps",
+          "url": [],
           "directory": "data/processed/development-tools/"
         },
         {
@@ -1964,7 +2793,20 @@
           "filename": "speech-to-text.md",
           "module": 17,
           "lesson": 4,
-          "url": "https://roadmap.sh/speech-to-text",
+          "url": [
+            {
+              "title": "Speech to Text là gì?",
+              "url": "https://aws.amazon.com/what-is/speech-to-text/"
+            },
+            {
+              "title": "Chuyển lời nói thành văn bản bằng Google AI",
+              "url": "https://cloud.google.com/speech-to-text"
+            },
+            {
+              "title": "Speech to Text được sử dụng như thế nào?",
+              "url": "https://h2o.ai/wiki/speech-to-text/"
+            }
+          ],
           "directory": "data/processed/development-tools/"
         },
         {
@@ -1976,7 +2818,16 @@
           "filename": "text-to-speech.md",
           "module": 17,
           "lesson": 5,
-          "url": "https://roadmap.sh/text-to-speech",
+          "url": [
+            {
+              "title": "Text-to-Speech là gì?",
+              "url": "https://aws.amazon.com/polly/what-is-text-to-speech/"
+            },
+            {
+              "title": "Từ Văn bản tới Giọng nói: Sự phát triển của các giọng nói tổng hợp",
+              "url": "https://ignitetech.ai/about/blogs/text-speech-evolution-synthetic-voices"
+            }
+          ],
           "directory": "data/processed/development-tools/"
         }
       ]
