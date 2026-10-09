@@ -1,0 +1,118 @@
+# Hướng dẫn xây dựng AI Agent - LangChain: Agent hỏi đáp tài liệu với RAG và Deep Agents
+
+## 1. Mục tiêu học tập
+
+Sau bài học này, bạn sẽ:
+
+- Hiểu **Retrieval Augmented Generation (RAG)** là gì và vì sao một LLM đứng riêng lẻ không đủ để trả lời chính xác về tài liệu riêng hoặc tài liệu mới.
+- Phân biệt được bốn mẫu (pattern) RAG mà **Deep Agents** hỗ trợ: skills-guided retrieval, rubric-checked grounding, todo-driven investigation, và retrieve–offload–delegate.
+- Xây dựng được pipeline **indexing** gồm Load → Split → Embed → Store.
+- Viết được một custom retrieval tool ghi kết quả tìm kiếm ra filesystem backend của agent.
+- Cấu hình được một Deep Agent có **subagent** để phân tích song song từng chunk, giúp context của orchestrator gọn.
+- Nhận biết rủi ro **indirect prompt injection** trong ứng dụng RAG.
+
+## 2. Tổng quan
+
+Một trong những ứng dụng LLM mạnh nhất là chatbot hỏi đáp (Q&A) được bổ sung dữ liệu ở thời điểm suy luận (inference-time). Dữ liệu đó có thể là dữ liệu riêng tư, dữ liệu mới, hoặc dữ liệu không nằm trong tập huấn luyện của mô hình. Kỹ thuật này gọi là **Retrieval Augmented Generation (RAG)**.
+
+**Deep Agents** cung cấp các thành phần cơ bản (primitives) cho RAG:
+
+- custom retrieval tools
+- filesystem backend
+- subagents
+- skills
+- grading rubrics
+
+Bạn có thể kết hợp chúng tùy theo kích thước corpus, yêu cầu về độ trễ (latency) và mức độ nghiêm ngặt khi bắt buộc câu trả lời bám sát dữ liệu nguồn (grounded).
+
+Bài học xây dựng một **agent hỏi đáp tài liệu**. Agent này:
+
+1. lập chỉ mục một phần tài liệu trên `docs.langchain.com`,
+2. truy xuất các chunk liên quan khi có câu hỏi,
+3. ghi chúng ra filesystem,
+4. giao việc phân tích cho các subagent.
+
+Nhờ vậy context của agent điều phối (orchestrator) không bị phình to.
+
+## 3. Kiến thức cốt lõi
+
+### 3.1. Các mẫu RAG với Deep Agents
+
+| Mẫu | Cách hoạt động |
+|---|---|
+| **Skills-guided retrieval** | Agent nạp một skill mô tả cách tìm kiếm trong corpus (dùng index nào, cách viết query, định dạng trích dẫn). Sau đó agent gọi retrieval tool theo hướng dẫn và tổng hợp câu trả lời. |
+| **Rubric-checked grounding** | Agent truy xuất bằng chứng và soạn câu trả lời. Một grader sub-agent cấu hình bằng `RubricMiddleware` đánh giá câu trả lời có bám nguồn không. Agent sửa lại cho đến khi đạt rubric hoặc chạm giới hạn số vòng lặp. |
+| **Todo-driven investigation** | Nếu bạn bật (opt in) task planning, agent dùng planning tool để lập todo list gồm các trang tài liệu hoặc truy vấn cần khảo sát, truy xuất từng mục rồi tổng hợp. |
+| **Retrieve, offload, and delegate** | Agent truy xuất các chunk và ghi vào filesystem backend, thay vì giữ toàn văn trong context của orchestrator. Các subagent đọc, tìm kiếm và tóm tắt từng file song song. Với tài liệu lớn, agent có thể phân trang qua file bằng công cụ tìm kiếm tích hợp, hoặc dùng code interpreter để tạo bảng, timeline, hình ảnh từ dữ liệu nguồn. |
+
+> Grading rubrics yêu cầu `deepagents>=0.6.5` và hiện đang ở giai đoạn **beta**.
+
+Bài học này cài đặt mẫu **retrieve, offload, and delegate**. Các primitive tương tự cũng xuất hiện trong những mẫu còn lại: skills thường bao bọc quy trình retrieval, rubrics có thể chấm điểm cho mọi luồng, và todo planning giúp tách câu hỏi phức tạp thành các lượt tìm kiếm tập trung.
+
+### 3.2. Vì sao cần retrieval
+
+Một mô hình ngôn ngữ đứng riêng không truy cập được tài liệu của bạn. Nếu hỏi về một API vừa thay đổi, nó trả lời từ dữ liệu huấn luyện. Câu trả lời thường hợp lý, đôi khi sai, và không bao giờ bám vào "nguồn sự thật" của bạn.
+
+Ngay cả khi tài liệu có sẵn, thường bạn không thể nhét toàn bộ vào context window. Bạn phải chọn đúng các đoạn liên quan đến câu hỏi, và việc này không hề đơn giản.
+
+Bài học dùng xuyên suốt một câu hỏi:
+
+> How do I stream intermediate tool results from a subagent?
+
+**Baseline: agent không có tool và không có tài liệu.** Ví dụ dưới dùng model Google; nguồn có các biến thể tương tự cho OpenAI, Anthropic, OpenRouter, Fireworks, Baseten, Ollama (chỉ khác chuỗi `model`).
+
+```python
+from deepagents import create_deep_agent
+from langchain.messages import HumanMessage
+
+EXAMPLE_QUERY = "How do I stream intermediate tool results from a subagent?"
+
+baseline_agent = create_deep_agent(
+    model="google_genai:gemini-3.6-flash",
+    tools=[],
+    system_prompt=(
+        "You are a helpful LangChain documentation assistant. "
+        "Answer questions about LangChain APIs and patterns."
+    ),
+)
+
+result = baseline_agent.invoke(
+    {"messages": [HumanMessage(content=EXAMPLE_QUERY)]}
+)
+
+print(result["messages"][-1].text)
+```
+
+Không có retrieval, agent không thể tra cứu tài liệu LangChain hiện hành. Câu trả lời có xu hướng chung chung, có thể bỏ sót hướng dẫn như *subagent streaming*, hoặc chứa thông tin lỗi thời.
+
+### 3.3. Những gì bạn sẽ xây dựng
+
+1. **Index**: nạp tài liệu LangChain vào một vector store.
+2. **Search**: xây custom tool chạy vector similarity search và ghi mỗi chunk truy xuất được vào filesystem của agent.
+3. **Analyze**: giao việc phân tích file cho subagent, subagent đọc file và trả về bản tóm tắt tập trung.
+4. **Synthesize**: agent chính tổng hợp câu trả lời cuối từ các báo cáo của subagent.
+
+### 3.4. Yêu cầu trước khi bắt đầu
+
+Bạn cần API key cho:
+
+- Một [chat model integration](https://docs.langchain.com/oss/python/integrations/chat) cho agent.
+- OpenAI (hoặc một embeddings integration khác) cho bước indexing.
+
+### 3.5. Thiết lập môi trường
+
+**Bước 1: Tạo thư mục dự án**
+
+```bash
+mkdir docs-rag-agent
+cd docs-rag-agent
+```
+
+**Bước 2: Cài đặt dependencies**
+
+Với pip:
+
+```bash
+pip install deepagents "langchain[openai]" langchain-text-splitters requests numpy
+```
+
