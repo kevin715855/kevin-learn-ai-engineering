@@ -1,0 +1,3 @@
+Nguồn cung cấp chỉ chứa hướng dẫn “Hãy viết bài học hoàn chỉnh bằng Markdown” và không bao gồm bất kỳ nội dung kỹ thuật nào để dựa vào việc biên soạn bài học. Do thiếu thông tin cụ thể về chủ đề, khái niệm, ví dụ hoặc mã nguồn mà bài học cần giải thích, tôi không thể tạo ra một bài học kỹ thuật chính xác mà không rischiando đưa ra thông tin bịa đặt hoặc không có căn cứ.
+
+Vui lòng cung cấp thêm nội dung nguồn (ví dụ: tài liệu, mô tả khái niệm, ví dụ code, v.v.) mà bạn muốn tôi dựa vào để biên soạn bài học theo cấu trúc đã yêu cầu. Khi có đủ thông tin, tôi sẽ sẵn sàng viết bài học bằng tiếng Việt theo định dạng Markdown.
