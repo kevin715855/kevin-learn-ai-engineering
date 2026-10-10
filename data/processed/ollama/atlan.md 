@@ -1,0 +1,3 @@
+Nguồn cấp đã cung cấp chỉ có câu “Hãy viết bài học hoàn chỉnh bằng Markdown.” và không chứa bất kỳ thông tin kỹ thuật nào để dựa vào việc biên soạn một bài học. Để tuân thủ nguyên tắc không bịa/thêm thông tin chưa được xác minh, tôi không thể tạo ra nội dung bài học mà không có nguồn gốc cụ thể.
+
+Vui lòng cung cấp thêm tài liệu, khái niệm, ví dụ mã hoặc bất kỳ nội dung nào liên quan đến chủ đề AI Engineering mà bạn muốn tôi chuyển thành bài học. Khi có đủ thông tin, tôi sẽ viết bài học hoàn chỉnh bằng Markdown theo cấu trúc và các quy định đã nêu.
