@@ -1,0 +1,1 @@
+Nguồn tài liệu được cung cấp không chứa nội dung cụ thể nào về chủ đề kỹ thuật để biên soạn bài học. Vì thiếu thông tin cần thiết (ví dụ: khái niệm, giải thích, ví dụ mã nguồn…), tôi không thể tạo ra bài họcMarkdown đầy đủ và chính xác dựa trên nguồn hiện có. Vui lòng cung cấp nội dung nguồn chi tiết để tôi có thể thực hiện nhiệm vụ theo yêu cầu.
