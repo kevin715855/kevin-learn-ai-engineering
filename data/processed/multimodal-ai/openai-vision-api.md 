@@ -1,0 +1,3 @@
+Nguyên tắc số 7 trong hướng dẫn cho phép chúng tôi chỉ trình bày những gì có thể xác minh từ nguồn đã cho. Vì phần “Nguồn nội dung” được cung cấp là trống, không có bất kỳ thông tin cụ thể nào về chủ đề, khái niệm, ví dụ hoặc mã nguồn mà chúng tôi có thể dựa vào để biên soạn một bài học kỹ thuật. Do đó, tôi không thể tạo ra một bài học mà không risk bịa thông tin hoặc mở rộng ra những chủ đề không liên quan.
+
+Nếu bạn có thể cung cấp tài liệu nguồn (ví dụ: mô tả khái niệm, ví dụ code, tài liệu tham khảo, v.v.), xin vui lòng gửi lại để tôi có thể biên soán bài học đầy đủ và chính xác theo yêu cầu.
