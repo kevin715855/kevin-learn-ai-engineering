@@ -1,0 +1,21 @@
+{
+  "total_modules": 1,
+  "total_lessons": 1,
+  "modules": [
+    {
+      "id": "hugging-face",
+      "slug": "hugging-face",
+      "title": "Hugging Face",
+      "lessons": [
+        {
+          "id": "jpSel6gPj1d0EhH73Knm7",
+          "slug": "mcp",
+          "title": "Giao thức Ngữ cảnh Mô hình (MCP)",
+          "original_title": "MCP",
+          "content": "---\nid: jpSel6gPj1d0EhH73Knm7\nslug: mcp\ntitle: \"Giao thức Ngữ cảnh Mô hình (MCP)\"\noriginal_title: \"MCP\"\nmodule_id: v99C5Bml2a6148LCJ9gy9\nmodule_title: \"Hugging Face\"\nlanguage: vi\nsource_status: completed\n---\n\n# MCP\n\nModel Context Protocol overview.",
+          "filename": "mcp.md"
+        }
+      ]
+    }
+  ]
+}

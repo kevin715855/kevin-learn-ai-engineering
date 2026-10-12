@@ -1,0 +1,1010 @@
+{
+  "total_lessons": 167,
+  "processed_lessons": 167,
+  "malformed_lessons": 167,
+  "total_modules": 18,
+  "malformed_details": [
+    {
+      "id": "GN6SnI7RXIeW8JeD-qORW",
+      "slug": "what-is-an-ai-engineer",
+      "title": "What is an AI Engineer?",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "jSZ1LhPdhlkW-9QJhIvFs",
+      "slug": "ai-engineer-vs-ml-engineer",
+      "title": "AI Engineer vs ML Engineer",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "wf2BSyUekr1S1q6l8kyq6",
+      "slug": "large-language-model-llm",
+      "title": "Large Language Model (LLM)",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "4NtUD9V64gkp8SFudj_ai",
+      "slug": "inference",
+      "title": "Inference",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "xostGgoaYkqMO28iN2gx8",
+      "slug": "training",
+      "title": "Training",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "dzPKW_fn82lY1OOVrggk3",
+      "slug": "vector-dbs",
+      "title": "Vector DBs",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "IX1BJWGwGmB4L063g0Frf",
+      "slug": "rags",
+      "title": "RAGs",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "VjXmSCdzi2ACv-W85Sy9D",
+      "slug": "prompt-engineering",
+      "title": "Prompt Engineering",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Uffu609uQbIzDl88Ddccv",
+      "slug": "ai-agents",
+      "title": "AI Agents",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "5QdihE1lLpMc3DFrGy46M",
+      "slug": "ai-vs-agi",
+      "title": "AI vs AGI",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "qJVgKe9uBvXc-YPfvX_Y7",
+      "slug": "impact-on-product-development",
+      "title": "Impact on Product Development",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "K9EiuFgPBFgeRxY4wxAmb",
+      "slug": "roles-and-responsiblities",
+      "title": "Roles and Responsiblities",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "d7fzv_ft12EopsQdmEsel",
+      "slug": "pre-trained-models",
+      "title": "Pre-trained Models",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "2WbVpRLqwi3Oeqk1JPui4",
+      "slug": "tokens",
+      "title": "Tokens",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "vvpYkmycH0_W030E-L12f",
+      "slug": "context",
+      "title": "Context",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "hy6EyKiNxk1x84J63dhez",
+      "slug": "anthropic-claude",
+      "title": "Anthropic Claude",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "oe8E6ZIQWuYvHVbYJHUc1",
+      "slug": "google-gemini",
+      "title": "Google Gemini",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "3PQVZbcr4neNMRr6CuNzS",
+      "slug": "openai-gpt-o-series",
+      "title": "OpenAI (GPT, o-series)",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "OkYO-aSPiuVYuLXHswBCn",
+      "slug": "meta-llama",
+      "title": "Meta Llama",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "n-Ud2dXkqIzK37jlKItN4",
+      "slug": "mistral",
+      "title": "Mistral",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "a7qsvoauFe5u953I699ps",
+      "slug": "cohere",
+      "title": "Cohere",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Waox7xR_yUeSnOtQFzU4c",
+      "slug": "react",
+      "title": "ReAct",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "nyBgEHvUhwF-NANMwkRJW",
+      "slug": "cot",
+      "title": "CoT",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "15XOFdVp0IC-kLYPXUJWh",
+      "slug": "zero-shot",
+      "title": "Zero-Shot",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "qzvp6YxWDiGakA2mtspfh",
+      "slug": "top-k",
+      "title": "Top-K",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "FjV3oD7G2Ocq5HhUC17iH",
+      "slug": "top-p",
+      "title": "Top-P",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "DZPM9zjCbYYWBPLmQImxQ",
+      "slug": "few-shot",
+      "title": "Few-Shot",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "cUyLT6ctYQ1pgmodCKREq",
+      "slug": "prompt-injection-attacks",
+      "title": "Prompt Injection Attacks",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "lhIU0ulpvDAn1Xc3ooYz_",
+      "slug": "bias-and-fairness",
+      "title": "Bias and Fairness",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "sWBT-j2cRuFqRFYtV_5TK",
+      "slug": "security-and-privacy-concerns",
+      "title": "Security and Privacy Concerns",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Pt-AJmSJrOxKvolb5_HEv",
+      "slug": "conducting-adversarial-testing",
+      "title": "Conducting adversarial testing",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ljZLa3yjQpegiZWwtnn_q",
+      "slug": "content-moderation-apis",
+      "title": "Content Moderation APIs",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "4Q5x2VCXedAWISBXUIyin",
+      "slug": "adding-end-user-ids-in-prompts",
+      "title": "Adding end-user IDs in prompts",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "qmx6OHqx4_0JXVIv8dASp",
+      "slug": "robust-prompt-engineering",
+      "title": "Robust prompt engineering",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "t1SObMWkDZ1cKqNNlcd9L",
+      "slug": "know-your-customers--usecases",
+      "title": "Know your Customers / Usecases",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ONLDyczNacGVZGojYyJrU",
+      "slug": "constraining-outputs-and-inputs",
+      "title": "Constraining outputs and inputs",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "RBwGsq9DngUsl8PrrCbqx",
+      "slug": "closed-vs-open-source-models",
+      "title": "Closed vs Open Source Models",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "YLOdOvLXa5Fa7_mmuvKEi",
+      "slug": "hugging-face-hub",
+      "title": "Hugging Face Hub",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "3kRTzlLNBnXdTsAEXVu_M",
+      "slug": "hugging-face-inference-sdk",
+      "title": "Hugging Face Inference SDK",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "bGLrbpxKgENe2xS1eQtdh",
+      "slug": "transformersjs",
+      "title": "Transformers.js",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ro3vY_sp6xMQ-hfzO-rc1",
+      "slug": "openai-response-api",
+      "title": "OpenAI Response API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "TsG_I7FL-cOCSw8gvZH3r",
+      "slug": "google-gemini-api",
+      "title": "Google Gemini APi",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "eMfcyBxnMY_l_5-8eg6sD",
+      "slug": "semantic-search",
+      "title": "Semantic Search",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "HQe9GKy3p0kTUPxojIfSF",
+      "slug": "recommendation-systems",
+      "title": "Recommendation Systems",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "AglWJ7gb9rTT2rMkstxtk",
+      "slug": "anomaly-detection",
+      "title": "Anomaly Detection",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "06Xta-OqSci05nV2QMFdF",
+      "slug": "data-classification",
+      "title": "Data Classification",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "l6priWeJhbdUD5tJ7uHyG",
+      "slug": "open-ai-embeddings-api",
+      "title": "Open AI Embeddings API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "y0qD5Kb4Pf-ymIwW-tvhX",
+      "slug": "cohere",
+      "title": "Cohere",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "4GArjDYipit4SLqKZAWDf",
+      "slug": "gemini-embedding",
+      "title": "Gemini Embedding",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "apVYIV4EyejPft25oAvdI",
+      "slug": "jina",
+      "title": "Jina",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ZV_V6sqOnRodgaw4mzokC",
+      "slug": "sentence-transformers",
+      "title": "Sentence Transformers",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "dLEg4IA3F5jgc44Bst9if",
+      "slug": "models-on-hugging-face",
+      "title": "Models on Hugging Face",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "WcjX6p-V-Rdd77EL8Ega9",
+      "slug": "purpose-and-functionality",
+      "title": "Purpose and Functionality",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "dSd2C9lNl-ymmCRT9_ZC3",
+      "slug": "chroma",
+      "title": "Chroma",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "_Cf7S1DCvX7p1_3-tP3C3",
+      "slug": "pinecone",
+      "title": "Pinecone",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "VgUnrZGKVjAAO4n_llq5-",
+      "slug": "weaviate",
+      "title": "Weaviate",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "JurLbOO1Z8r6C3yUqRNwf",
+      "slug": "faiss",
+      "title": "FAISS",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "rjaCNT3Li45kwu2gXckke",
+      "slug": "lancedb",
+      "title": "LanceDB",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "DwOAL5mOBgBiw-EQpAzQl",
+      "slug": "qdrant",
+      "title": "Qdrant",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "9kT7EEQsbeD2WDdN9ADx7",
+      "slug": "supabase",
+      "title": "Supabase",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "j6bkm0VUgLkHdMDDJFiMC",
+      "slug": "mongodb-atlas",
+      "title": "MongoDB Atlas",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "5TQnO9B4_LTHwqjI7iHB1",
+      "slug": "indexing-embeddings",
+      "title": "Indexing Embeddings",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ZcbRPtgaptqKqWBgRrEBU",
+      "slug": "performing-similarity-search",
+      "title": "Performing Similarity Search",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "GCn4LGNEtPI0NWYAZCRE-",
+      "slug": "rag-usecases",
+      "title": "RAG Usecases",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "qlBEXrbV88e_wAGRwO9hW",
+      "slug": "rag-vs-fine-tuning",
+      "title": "RAG vs Fine-tuning",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "mX987wiZF7p3V_gExrPeX",
+      "slug": "chunking",
+      "title": "Chunking",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "grTcbzT7jKk_sIUwOTZTD",
+      "slug": "embedding",
+      "title": "Embedding",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "zZA1FBhf1y4kCoUZ-hM4H",
+      "slug": "vector-database",
+      "title": "Vector Database",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "OCGCzHQM2LQyUWmiqe6E0",
+      "slug": "retrieval-process",
+      "title": "Retrieval Process",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "2jJnS9vRYhaS69d6OxrMh",
+      "slug": "generation",
+      "title": "Generation",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "WZVW8FQu6LyspSKm1C_sl",
+      "slug": "using-sdks-directly",
+      "title": "Using SDKs Directly",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "jM-Jbo0wUilhVY830hetJ",
+      "slug": "langchain",
+      "title": "Langchain",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "JT4mBXOjvvrUnynA7yrqt",
+      "slug": "llama-index",
+      "title": "Llama Index",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "eOqCBgBTKM8CmY3nsWjre",
+      "slug": "tools--function-calling",
+      "title": "Tools & Function Calling",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "UGYYh2W1XnnbgYNY8L8Hb",
+      "slug": "deepseek",
+      "title": "DeepSeek",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "778HsQzTuJ_3c9OSn5DmH",
+      "slug": "agents-usecases",
+      "title": "Agents Usecases",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "voDKcKvXtyLzeZdx2g3Qn",
+      "slug": "react-prompting",
+      "title": "ReAct Prompting",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "6xaRB34_g0HGt-y1dGYXR",
+      "slug": "manual-implementation",
+      "title": "Manual Implementation",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Sm0Ne5Nx72hcZCdAcC0C2",
+      "slug": "openai-agentkit--agent-sdk",
+      "title": "OpenAI AgentKit & Agent SDK",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "xXLyuUNrKEc32XLQxMjgT",
+      "slug": "claude-agent-sdk",
+      "title": "Claude Agent SDK",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "sGR9qcro68KrzM8qWxcH8",
+      "slug": "multimodal-ai-usecases",
+      "title": "Multimodal AI Usecases",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "fzVq4hGoa2gdbIzoyY1Zp",
+      "slug": "image-understanding",
+      "title": "Image Understanding",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "49BWxYVFpIgZCCqsikH7l",
+      "slug": "image-generation",
+      "title": "Image Generation",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "TxaZCtTCTUfwCxAJ2pmND",
+      "slug": "video-understanding",
+      "title": "Video Understanding",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "mxQYB820447DC6kogyZIL",
+      "slug": "audio-processing",
+      "title": "Audio Processing",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "GCERpLz5BcRtWPpv-asUz",
+      "slug": "text-to-speech",
+      "title": "Text-to-Speech",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "jQX10XKd_QM5wdQweEkVJ",
+      "slug": "speech-to-text",
+      "title": "Speech-to-Text",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "CRrqa-dBw1LlOwVbrZhjK",
+      "slug": "openai-vision-api",
+      "title": "OpenAI Vision API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "LKFwwjtcawJ4Z12X102Cb",
+      "slug": "dall-e-api",
+      "title": "DALL-E API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "OTBd6cPUayKaAM-fLWdSt",
+      "slug": "whisper-api",
+      "title": "Whisper API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "EIDbwbdolR_qsNKVDla6V",
+      "slug": "hugging-face-models",
+      "title": "Hugging Face Models",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "j9zD3pHysB1CBhLfLjhpD",
+      "slug": "langchain-for-multimodal-apps",
+      "title": "LangChain for Multimodal Apps",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "akQTCKuPRRelj2GORqvsh",
+      "slug": "llamaindex-for-multimodal-apps",
+      "title": "LlamaIndex for Multimodal Apps",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "ebXXEhNRROjbbof-Gym4p",
+      "slug": "haystack",
+      "title": "Haystack",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "d0ontCII8KI8wfP-8Y45R",
+      "slug": "ragflow",
+      "title": "RAGFlow",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "MabZ9jOrSj539C5qZrVBd",
+      "slug": "mcp-host",
+      "title": "MCP Host",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "8Xkd88EjX3GE_9DWQhr7G",
+      "slug": "mcp-server",
+      "title": "MCP Server",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "po0fIZYaFhRbNlza7sB37",
+      "slug": "mcp-client",
+      "title": "MCP Client",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Z0920V57_ziDhXbQJMN9O",
+      "slug": "data-layer",
+      "title": "Data Layer",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "o4gHDZ5p9lyeHuCAPvAKz",
+      "slug": "transport-layer",
+      "title": "Transport Layer",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "oLGfKjcqBzJ3vd6Cg-T1B",
+      "slug": "building-an-mcp-server",
+      "title": "Building an MCP Server",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "0Rk0rCbmRFJT2GKwUibQS",
+      "slug": "building-an-mcp-client",
+      "title": "Building an MCP Client",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "H-G93SsEgsA_NGL_v4hPv",
+      "slug": "connect-to-local-server",
+      "title": "Connect to Local Server",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "2t4uINxmzfx8FUF-_i_2B",
+      "slug": "connect-to-remote-server",
+      "title": "Connect to Remote Server",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "AxzTGDCC2Ftp4G66U4Uqr",
+      "slug": "vertex-ai-agent-builder",
+      "title": "Vertex AI Agent Builder",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "mbp2NoL-VZ5hZIIblNBXt",
+      "slug": "google-adk",
+      "title": "Google ADK",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "zTvsCNS3ucsZmvy1tHyeI",
+      "slug": "fine-tuning",
+      "title": "Fine-tuning",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "kCiHNaZ9CgnS9uksIQ_SY",
+      "slug": "context-engineering",
+      "title": "Context Engineering",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "LCHse57rXf3sl8ml1ow0T",
+      "slug": "input-format",
+      "title": "Input Format",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "S46Vaq8hYq6Ee1Id_-fSQ",
+      "slug": "system-prompting",
+      "title": "System Prompting",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "9oUpeEnaMWctQLTobbmY7",
+      "slug": "context",
+      "title": "Context",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "N3TzWYxU0jgv1l99Ts58n",
+      "slug": "role--behavior",
+      "title": "Role & Behavior",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "PT3uDiUjiKhO8laOkCmgP",
+      "slug": "constraints",
+      "title": "Constraints",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "zqhmLzHsmDlrTFVHzhq6-",
+      "slug": "structured-output",
+      "title": "Structured Output",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "wFfjHkGLrcCyLyXV4BiFM",
+      "slug": "function-calling",
+      "title": "Function Calling",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "bqqY0gsZkBpcHMZw1hcZ5",
+      "slug": "prompt-caching",
+      "title": "Prompt Caching",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "MUDBYjR7uCUZQ-kQxi2K_",
+      "slug": "streaming-responses",
+      "title": "Streaming Responses",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "_qqITQ8O0Q0RWUeZsUXnY",
+      "slug": "self-hosted-models",
+      "title": "Self-Hosted Models",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "0_pa739kMPWHfuSQV-VO7",
+      "slug": "repetition-penalties",
+      "title": "Repetition Penalties",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "MNtaY1_kOJHeoWuM-abb4",
+      "slug": "gemma",
+      "title": "Gemma",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "c0RPhpD00VIUgF4HJgN2T",
+      "slug": "qwen",
+      "title": "Qwen",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "nxwMVla0-PNG8nlocKK5v",
+      "slug": "claude-messages-api",
+      "title": "Claude Messages API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "vnXtUupJUlyU_uCbZBbnk",
+      "slug": "openai-compatible-apis",
+      "title": "OpenAI-compatible APIs",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "kG1bkF2oY21CJOm9zhdpn",
+      "slug": "multi-agents",
+      "title": "Multi-agents",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "YKIPOiSj_FNtg0h8uaSMq",
+      "slug": "hugging-face-tasks",
+      "title": "Hugging Face Tasks",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "XyEp6jnBSpCxMGwALnYfT",
+      "slug": "embeddings",
+      "title": "Embeddings",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "wr5ddjutC-fX_ixysTHaT",
+      "slug": "claude-code",
+      "title": "Claude Code",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "hzeEo8COf2l07iu5EdlFo",
+      "slug": "gemini",
+      "title": "Gemini",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "XY2l96sry3WyLzzo3KUeU",
+      "slug": "codex",
+      "title": "Codex",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Xsl8mx6J182TxPPtNP471",
+      "slug": "windsurf",
+      "title": "Devin",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "MWhoqhNnBaoeCdN_8i15k",
+      "slug": "cursor",
+      "title": "Cursor",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Ubk4GN0Z4XlDJ3EbRXdxg",
+      "slug": "replit",
+      "title": "Replit",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "6y73FLjshnqxV8BTGUeiu",
+      "slug": "nanobanana-api",
+      "title": "NanoBanana API",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "LbB2PeytxRSuU07Bk0KlJ",
+      "slug": "sampling-parameters",
+      "title": "Sampling Parameters",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "_bPTciEA1GT1JwfXim19z",
+      "slug": "temperature",
+      "title": "Temperature",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "LnQ2AatMWpExUHcZhDIPd",
+      "slug": "rag-and-dynamic-filters",
+      "title": " RAG & Dynamic Filters",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "9XCxilAQ7FRet7lHQr1gE",
+      "slug": "context-compaction",
+      "title": "Context Compaction",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "9JwWIK0Z2MK8-6EQQJsCO",
+      "slug": "context-isolation",
+      "title": "Context Isolation",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "cdapQf0Owxdx6olAHTrbq",
+      "slug": "tracing--logging",
+      "title": "Tracing & logging",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "CG3XTMPug98s-EP0_rn1Y",
+      "slug": "costlatency-monitoring",
+      "title": "Cost/latency monitoring",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "3gwVG4XaO83z3Yzdd84Z-",
+      "slug": "production-monitoring",
+      "title": "Production monitoring",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "bN_ReFUQgkJmWOAFMLXMg",
+      "slug": "langsmith",
+      "title": "LangSmith",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Xw6-crHimGrVC1u1xujc6",
+      "slug": "langfuse",
+      "title": "Langfuse",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "82LE-qxw1H_FYfVUdgkN9",
+      "slug": "helicone",
+      "title": "Helicone",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "jx57heeBnacrlCyQPhlEi",
+      "slug": "arize-ai",
+      "title": "Arize AI",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "kSDTJK74Tq0KHBfIawJuT",
+      "slug": "deterministic-evals",
+      "title": "Deterministic Evals",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "LJ6_U5lOdc0uRngutj7Ro",
+      "slug": "model-based-evals",
+      "title": "Model-Based Evals",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "QIx5nT75l2Cn2q75-TxfD",
+      "slug": "human-evals",
+      "title": "Human Evals",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "Z8MBleL51wJuV9BkS1djI",
+      "slug": "evaluation-metrics",
+      "title": "Evaluation Metrics",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "hyN5v8dg1lHJLpdZZdtJE",
+      "slug": "deepeval",
+      "title": "DeepEval",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "CZ_-PSDzzSrSon5XdzLen",
+      "slug": "ragas",
+      "title": "RAGAS",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "s2YrrjXbvNIyW5WSFj2po",
+      "slug": "context-vs-prompt-eng",
+      "title": "Context vs Prompt Eng.",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "x0G0WD8MUflucdBqf2j5k",
+      "slug": "context-sources",
+      "title": "Context Sources",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "SF07y6d-JcE1-pzXeBOU7",
+      "slug": "context-window",
+      "title": "Context Window",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "jpSel6gPj1d0EhH73Knm7",
+      "slug": "mcp",
+      "title": "MCP",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "wQfU09yhZ5sd-UPHkq2n0",
+      "slug": "multi-agent-context-sharing",
+      "title": "Multi-agent Context Sharing",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "SzW-BtzGsSfGGa5DbSlr4",
+      "slug": "context-evaluation",
+      "title": "Context Evaluation",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "wel7a_gpXqpuDAdmF_4Rp",
+      "slug": "context-security",
+      "title": "Context Security",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "5b2-GXozMVOqZF1Ga-HE8",
+      "slug": "what-is-a-context-layer",
+      "title": "What is a Context Layer?",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "BfmhnGPe1UdnThdpr7m1i",
+      "slug": "long-context-processing",
+      "title": "Long-Context Processing",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "unoZLoE2oJbKPOCBYUnMZ",
+      "slug": "state--historical-context",
+      "title": "State & Historical Context",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "mfiiWDVZEeUGFa6KKUGLB",
+      "slug": "context-failure-modes",
+      "title": "Context Failure Modes",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "31UjRzoh7wQKk6uAZ7aVM",
+      "slug": "posthog",
+      "title": "PostHog",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "xTqTaiKLo6EE_4JVFdjEt",
+      "slug": "modus",
+      "title": "modus",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "e_Mgd4pxKPdxL5DNxlxQ_",
+      "slug": "atlan",
+      "title": "Atlan",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "4HkJJigCBBO4eOef8qvhz",
+      "slug": "memory-systems",
+      "title": "Memory Systems",
+      "reason": "Content missing or too short / malformed"
+    },
+    {
+      "id": "sFYcBgG9I0n1iKpwlp_7B",
+      "slug": "datahub",
+      "title": "DataHub",
+      "reason": "Content missing or too short / malformed"
+    }
+  ]
+}

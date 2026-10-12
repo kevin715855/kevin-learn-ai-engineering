@@ -1,0 +1,17 @@
+{
+  "project_id": "516b75e0-7706-496c-a162-00240f6469e2",
+  "project_title": "Roadmap AI Engineer Extractor",
+  "project_description": "Build a local tool that discovers, crawls, extracts, translate to VI  \nnormalizes and organizes the complete AI Engineer roadmap  \nfrom roadmap.sh into structured Markdown content.",
+  "resources": [
+    {
+      "id": "eaed5e92-a1f7-4d64-9a03-a7afda86f2c4",
+      "resource_type": "local_directory",
+      "resource_ref": {
+        "label": "roadmap-ai-engineer",
+        "daemon_id": "019dd39e-c1f2-7621-860a-8b5423e08f53",
+        "local_path": "E:\\PROJECT\\roadmap-ai-engineer",
+        "execution_mode": "in_place"
+      }
+    }
+  ]
+}
