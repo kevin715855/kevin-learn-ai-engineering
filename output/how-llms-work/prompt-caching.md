@@ -1,13 +1,18 @@
 ---
 id: bqqY0gsZkBpcHMZw1hcZ5
 slug: prompt-caching
-title: "Prompt Caching"
+title: "Cache lời nhắc"
 original_title: "Prompt Caching"
 module_id: zdeuA4GbdBl2DwKgiOA4G
 module_title: "How LLMs Work"
 language: vi
 source_status: completed
 ---
-# Bộ nhớ đệm Prompt
+# Lưu trữ tạm Prompt
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Prompt caching is a technique that stores the results of previous LLM prompts, allowing you to quickly retrieve and reuse them instead of re-running the prompt every time. This can significantly improve efficiency and reduce costs when dealing with frequently used or computationally expensive prompts.
+
+Truy cập các nguồn sau để tìm hiểu thêm:
+
+- [@article@Prompt Caching là gì?](https://www.ibm.com/think/topics/prompt-caching)
+- [@video@Prompt Caching là gì? Tối ưu độ trễ LLM với AI Transformers](https://www.youtube.com/watch?v=u57EnkQaUTY)
