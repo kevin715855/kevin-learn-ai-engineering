@@ -1,13 +1,1 @@
----
-id: sFYcBgG9I0n1iKpwlp_7B
-slug: datahub
-title: "Hub dữ liệu"
-original_title: "DataHub"
-module_id: rTT2UnvqFO3GH6ThPLEjO
-module_title: "Ollama"
-language: vi
-source_status: completed
----
-# DataHub
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn thông tin được cung cấp chỉ chứa yêu cầu “Hãy viết bài học hoàn chỉnh bằng Markdown” và không bao gồm bất kỳ nội dung kỹ thuật cụ thể nào (khái niệm, ví dụ, mã nguồn, v.v.) để dựa vào khi biên soạn bài học. Do thiếu dữ liệuVerifiable về chủ đề học tập, tôi không thể tạo ra bài học kỹ thuật mà không rischi thêm thông tin không có trong nguồn. Vui lòng cung cấp nội dung nguồn cụ thể (ví dụ: mô tả khái niệm, ví dụ mã, số liệu, v.v.) để tôi có thể biên soạn bài học theo đúng nguyên tắc.

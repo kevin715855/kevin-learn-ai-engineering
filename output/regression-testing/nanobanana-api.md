@@ -1,13 +1,20 @@
 ---
 id: 6y73FLjshnqxV8BTGUeiu
-slug: nanobanana-api
-title: "API NanoBanana"
-original_title: "NanoBanana API"
-module_id: Bkzi3QyzKyHxcHE7sodRZ
-module_title: "Regression Testing"
 language: vi
+module: regression-testing
+module_id: Bkzi3QyzKyHxcHE7sodRZ
+module_title: Regression Testing
+order: 9
+original_title: NanoBanana API
+slug: nanobanana-api
 source_status: completed
+status: completed
+title: NanoBanana API
 ---
 # NanoBanana API
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+The NanoBanana API is a tool designed to facilitate the integration and processing of data from multiple modalities, such as text, images, and audio. It provides a unified interface for managing diverse data types, enabling developers to build AI systems that can understand and reason about information from various sources simultaneously. This API typically includes functionalities for data ingestion, feature extraction, fusion techniques, and output generation tailored for multimodal applications.
+
+Visit the following resources to learn more:
+
+- [@official@NanoBanana API](https://nanobananaapi.ai/)

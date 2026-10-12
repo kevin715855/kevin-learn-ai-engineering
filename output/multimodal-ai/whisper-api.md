@@ -1,13 +1,1 @@
----
-id: OTBd6cPUayKaAM-fLWdSt
-slug: whisper-api
-title: "Whisper API"
-original_title: "Whisper API"
-module_id: W7cKPt_UxcUgwp8J6hS4p
-module_title: "Multimodal AI"
-language: vi
-source_status: completed
----
-# Whisper API
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Tôi không nhận được nội dung nguồn nào để आधार bài học. Vui lòng cung cấp materi​al nguồn (ví dụ: đoạn văn, tài liệu,Slide, v.v.) mà bạn muốn tôi dựa trên để biên soạn bài học kỹ thuật bằng Markdown. Khi có nguồn, tôi sẽ tuân thủ các nguyên tắc và cấu trúc bạn đã nêu để tạo ra bài học hoàn chỉnh.

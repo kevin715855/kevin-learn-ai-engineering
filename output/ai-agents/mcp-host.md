@@ -1,13 +1,3 @@
----
-id: MabZ9jOrSj539C5qZrVBd
-slug: mcp-host
-title: "Máy chủ MCP"
-original_title: "MCP Host"
-module_id: 4_ap0rD9Gl6Ep_4jMfPpG
-module_title: "AI Agents"
-language: vi
-source_status: completed
----
-# Máy chủ MCP
+Nguồn cung cấp chỉ chứa hướng dẫn “Hãy viết bài học hoàn chỉnh bằng Markdown” và không bao gồm bất kỳ nội dung kỹ thuật nào để dựa vào việc biên soạn bài học. Do thiếu thông tin cụ thể về chủ đề, khái niệm, ví dụ hoặc mã nguồn mà bài học cần giải thích, tôi không thể tạo ra một bài học kỹ thuật chính xác mà không rischiando đưa ra thông tin bịa đặt hoặc không có căn cứ.
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Vui lòng cung cấp thêm nội dung nguồn (ví dụ: tài liệu, mô tả khái niệm, ví dụ code, v.v.) mà bạn muốn tôi dựa vào để biên soạn bài học theo cấu trúc đã yêu cầu. Khi có đủ thông tin, tôi sẽ sẵn sàng viết bài học bằng tiếng Việt theo định dạng Markdown.

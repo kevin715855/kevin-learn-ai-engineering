@@ -1,0 +1,21 @@
+---
+id: jM-Jbo0wUilhVY830hetJ
+language: vi
+module: hugging-face
+module_id: v99C5Bml2a6148LCJ9gy9
+module_title: Hugging Face
+order: 75
+original_title: Langchain
+slug: langchain
+source_status: completed
+status: completed
+title: Langchain
+---
+# Langchain
+
+LangChain is a development framework that simplifies building applications powered by language models, enabling seamless integration of multiple AI models and data sources. It focuses on creating chains, or sequences, of operations where language models can interact with databases, APIs, and other models to perform complex tasks. LangChain offers tools for prompt management, data retrieval, and workflow orchestration, making it easier to develop robust, scalable applications like chatbots, automated data analysis, and multi-step reasoning systems.
+
+Visit the following resources to learn more:
+
+- [@official@Langchain](https://www.langchain.com/)
+- [@video@Khái niệm LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)

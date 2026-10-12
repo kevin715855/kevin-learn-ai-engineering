@@ -1,13 +1,22 @@
 ---
 id: hzeEo8COf2l07iu5EdlFo
-slug: gemini
-title: "Song Tử"
-original_title: "Gemini"
-module_id: Bkzi3QyzKyHxcHE7sodRZ
-module_title: "Regression Testing"
 language: vi
+module: regression-testing
+module_id: Bkzi3QyzKyHxcHE7sodRZ
+module_title: Regression Testing
+order: 6
+original_title: Gemini
+slug: gemini
 source_status: completed
+status: completed
+title: Gemini
 ---
-# Song ngọc
+# Gemini
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Gemini is a multimodal AI model developed by Google. It's designed to understand and reason across different types of information, including text, code, audio, images, and video. This allows Gemini to solve complex problems and potentially generate new types of content, offering a more holistic approach compared to models focused on a single modality.
+
+Visit the following resources to learn more:
+
+- [@official@Google Gemini](https://gemini.google.com/)
+- [@official@Helpful Tips for using Gemini at work](https://services.google.com/fh/files/misc/quick_start_guide_to_google_ai_at_work.pdf)
+- [@video@Welcome to the Gemini era](https://www.youtube.com/watch?v=_fuimO6ErKI)

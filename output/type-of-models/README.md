@@ -1,15 +1,14 @@
-# Module: Type of Models
+# Module: Type Of Models
 
-**Mã Module ID**: `2X0NDcq2ojBJ0RxY_U6bl`
+**Mã Module ID**: `type-of-models`
 **Tổng số bài học**: 8
 
 ## Danh sách bài học
-
-1. [Mô hình đã được huấn luyện trước](./pre-trained-models.md) (`pre-trained-models`)
-2. [Thực hiện kiểm tra đối nghịch](./conducting-adversarial-testing.md) (`conducting-adversarial-testing`)
-3. [Thêm ID người dùng cuối trong các prompt](./adding-end-user-ids-in-prompts.md) (`adding-end-user-ids-in-prompts`)
-4. [Kỹ thuật thiết kế prompt bền vững](./robust-prompt-engineering.md) (`robust-prompt-engineering`)
-5. [Nắm vững Khách hàng / Các trường hợp sử dụng](./know-your-customers--usecases.md) (`know-your-customers--usecases`)
-6. [Giới hạn các đầu ra và đầu vào](./constraining-outputs-and-inputs.md) (`constraining-outputs-and-inputs`)
-7. [Closed vs Open Source Models](./closed-vs-open-source-models.md) (`closed-vs-open-source-models`)
-8. [Mô hình tự lưu trữ](./self-hosted-models.md) (`self-hosted-models`)
+1. [Adding End User Ids In Prompts](./adding-end-user-ids-in-prompts.md) (`adding-end-user-ids-in-prompts`)
+2. [Closed Vs Open Source Models](./closed-vs-open-source-models.md) (`closed-vs-open-source-models`)
+3. [Conducting Adversarial Testing](./conducting-adversarial-testing.md) (`conducting-adversarial-testing`)
+4. [Constraining Outputs And Inputs](./constraining-outputs-and-inputs.md) (`constraining-outputs-and-inputs`)
+5. [Know Your Customers  Usecases](./know-your-customers--usecases.md) (`know-your-customers--usecases`)
+6. [Pre Trained Models](./pre-trained-models.md) (`pre-trained-models`)
+7. [Robust Prompt Engineering](./robust-prompt-engineering.md) (`robust-prompt-engineering`)
+8. [Self Hosted Models](./self-hosted-models.md) (`self-hosted-models`)

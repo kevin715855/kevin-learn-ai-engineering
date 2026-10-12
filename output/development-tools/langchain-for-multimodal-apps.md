@@ -1,13 +1,1 @@
----
-id: j9zD3pHysB1CBhLfLjhpD
-slug: langchain-for-multimodal-apps
-title: "LangChain cho Ứng dụng đa phương thức"
-original_title: "LangChain for Multimodal Apps"
-module_id: NYge7PNtfI-y6QWefXJ4d
-module_title: "Development Tools"
-language: vi
-source_status: completed
----
-# LangChain cho Ứng dụng đa modal
-
-Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.
+Nguồn cung cấp không chứa bất kỳ nội dung nào để dựa vào việc biên soạn bài học. Do thiếu thông tin về chủ đề, mục tiêu, khái niệm hoặc ví dụ cụ thể, tôi không thể tạo ra một bài học kỹ thuật mà vẫn đảm bảo tính chính xác và không bịa thêm thông tin. Vui lòng cung cấp nội dung nguồn cụ thể để tôi có thể tiếp tục biên soạn bài học theo yêu cầu.

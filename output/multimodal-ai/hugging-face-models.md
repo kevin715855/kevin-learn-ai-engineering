@@ -1,13 +1,1 @@
----
-id: EIDbwbdolR_qsNKVDla6V
-slug: hugging-face-models
-title: "Hugging Face Models"
-original_title: "Hugging Face Models"
-module_id: W7cKPt_UxcUgwp8J6hS4p
-module_title: "Multimodal AI"
-language: vi
-source_status: completed
----
-# Mô hình Hugging Face
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn cung cấp không chứa bất kỳ nội dung nào liên quan đến chủ đề bài học, do đó không thể biên soạn một bài học kỹ thuật dựa trên thông tin đã cho. Vui lòng cung cấp nội dung nguồn cụ thể để tiếp tục.

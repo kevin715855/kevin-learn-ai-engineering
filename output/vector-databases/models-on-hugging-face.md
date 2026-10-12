@@ -1,13 +1,1 @@
----
-id: dLEg4IA3F5jgc44Bst9if
-slug: models-on-hugging-face
-title: "Các mô hình trên Hugging Face"
-original_title: "Models on Hugging Face"
-module_id: tt9u3oFlsjEMfPyojuqpc
-module_title: "Vector Databases"
-language: vi
-source_status: completed
----
-# Mô hình trên Hugging Face
-
-Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ
+Nguồn cung cấp không chứa đủ thông tin cụ thể để biên soạn một bài học kỹ thuật. Vui lòng cung cấp nội dung chi tiết (ví dụ: chủ đề, khái niệm, ví dụ mã nguồn, v.v.) để tôi có thể tạo ra bài học sesuai yêu cầu.

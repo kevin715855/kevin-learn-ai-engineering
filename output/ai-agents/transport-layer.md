@@ -1,17 +1,3 @@
----
-id: o4gHDZ5p9lyeHuCAPvAKz
-slug: transport-layer
-title: "Lớp truyền輸"
-original_title: "Transport Layer"
-module_id: 4_ap0rD9Gl6Ep_4jMfPpG
-module_title: "AI Agents"
-language: vi
-source_status: completed
----
-# Lớp truyền tải trong Model Context Protocol (MCP)
+Nguồn cung cấp chỉ chứa câu lệnh “Hãy viết bài học hoàn chỉnh bằng Markdown.” mà không bao gồm bất kỳ nội dung kỹ thuật cụ thể nào (ví dụ: khái niệm, thuật toán, mã nguồn, giải thích…) để chúng ta có thể dựa vào để biên soạn một bài học. Theo nguyên tắc số 7 của hướng dẫn, khi nguồn thiếu thông tin chúng ta không được tự lấp chỗ trống bằng suy đoán hoặc tạo ra nội dung không thể xác minh. Do đó, với thông tin hiện có, tôi không thể tạo ra một bài học kỹ thuật đầy đủ và chính xác.
 
-Lớp Giao thông trong Giao thức Mô hình Ngữ cảnh (MCP) chịu trách nhiệm di chuyển dữ liệu một cách đáng tin cậy và hiệu quả giữa các thành phần khác nhau của một hệ thống tác nhân AI. Nó xác định cách các tin nhắn được đóng gói, địa chỉ và truyền qua mạng hoặc trong một máy duy nhất, đảm bảo rằng thông tin tới được điểm đích dự định mà không có lỗi hoặc mất mát. Lớp này xử lý các cơ chế truyền thông cơ bản, trừu tượng hoá đi sự phức tạp của các giao thức mạng và phần cứng.
-
-Hãy truy cập các tài nguyên sau đây để tìm hiểu thêm:
-
-- [@official@lớp](https://modelcontextprotocol.io/docs/learn/architecture#layers)
+Vui lòng cung cấp thêm nội dung nguồn (ví dụ: mô tả chủ đề, điểm cần nêu, ví dụ code, tài liệu tham khảo…) để tôi có thể biên soạn bài học theo cấu trúc yêu cầu.

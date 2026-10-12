@@ -1,0 +1,3 @@
+Nguồn cung cấp chỉ chứa câu lệnh “Hãy viết bài học hoàn chỉnh bằng Markdown.” mà không bao gồm bất kỳ nội dung kỹ thuật cụ thể nào (ví dụ: khái niệm, thuật toán, mã nguồn, giải thích…) để chúng ta có thể dựa vào để biên soạn một bài học. Theo nguyên tắc số 7 của hướng dẫn, khi nguồn thiếu thông tin chúng ta không được tự lấp chỗ trống bằng suy đoán hoặc tạo ra nội dung không thể xác minh. Do đó, với thông tin hiện có, tôi không thể tạo ra một bài học kỹ thuật đầy đủ và chính xác.
+
+Vui lòng cung cấp thêm nội dung nguồn (ví dụ: mô tả chủ đề, điểm cần nêu, ví dụ code, tài liệu tham khảo…) để tôi có thể biên soạn bài học theo cấu trúc yêu cầu.

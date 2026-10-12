@@ -1,13 +1,1 @@
----
-id: n-Ud2dXkqIzK37jlKItN4
-slug: mistral
-title: "Mistral"
-original_title: "Mistral"
-module_id: ozrR8IvjNFbHd44kZrExX
-module_title: "Prompt Engineering"
-language: vi
-source_status: completed
----
-# Mistral
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nội dung nguồn không cung cấp bất kỳ thông tin cụ thể nào về chủ đề bài học, vì vậy tôi không thể biên soạn bài học mà không làm ra thông tin không xác thực. Vui lòng cung cấp nội dung nguồn cụ thể để tôi có thể dựa vào đó để viết bài học kỹ thuật theo yêu cầu.

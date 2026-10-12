@@ -1,12 +1,11 @@
-# Module: Choosing the Right Model 
+# Module: Choosing The Right Model 
 
-**Mã Module ID**: `zeWoTtAFEpVXDQzWNsha4`
+**Mã Module ID**: `choosing-the-right-model-`
 **Tổng số bài học**: 5
 
 ## Danh sách bài học
-
-1. [Tìm kiếm ngữ nghĩa](./semantic-search.md) (`semantic-search`)
-2. [Hệ thống đề xuất](./recommendation-systems.md) (`recommendation-systems`)
-3. [Phát hiện bất thường](./anomaly-detection.md) (`anomaly-detection`)
-4. [Phân loại dữ liệu](./data-classification.md) (`data-classification`)
-5. [Cohere](./cohere.md) (`cohere`)
+1. [Anomaly Detection](./anomaly-detection.md) (`anomaly-detection`)
+2. [Cohere](./cohere.md) (`cohere`)
+3. [Data Classification](./data-classification.md) (`data-classification`)
+4. [Recommendation Systems](./recommendation-systems.md) (`recommendation-systems`)
+5. [Semantic Search](./semantic-search.md) (`semantic-search`)
