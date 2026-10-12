@@ -1,13 +1,3 @@
----
-id: hy6EyKiNxk1x84J63dhez
-slug: anthropic-claude
-title: "Claude của Anthropic"
-original_title: "Anthropic Claude"
-module_id: ozrR8IvjNFbHd44kZrExX
-module_title: "Prompt Engineering"
-language: vi
-source_status: completed
----
-# Anthropic Claude
+Nguồn cung cấp chỉ bao gồm câu lệnh: “Hãy viết bài học hoàn chỉnh bằng Markdown.” Đây không phải là một bài bản kỹ thuật nào chứa khái niệm, thuật ngữ, giải thích hoặc ví dụ cụ thể nào về chủ đề học tập. Do thiếu thông tin cơ bản cần thiết để xây dựng mục tiêu học tập, tổng quan, kiến thức cốt lõi và ví dụ minh họa, tôi không thể biên soạn một bài học kỹ thuật hợp lệ mà không phải thêm vào nội dung không có trong nguồn (việc này vi phạm nguyên tắc không bịa đặt thông tin).
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nếu có thể cung cấp tài liệu nguồn cụ thể (ví dụ: mô tả về một khái niệm, thuật toán, công cụ, hoặc bất kỳ nội dung kỹ thuật nào), tôi sẽ sẵn sàng biên soạn bài học theo cấu trúc yêu cầu. Vui lòng cung cấp thêm chi tiết để tôi có thể hỗ trợ bạn.

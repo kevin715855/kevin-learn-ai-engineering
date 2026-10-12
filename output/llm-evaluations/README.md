@@ -1,12 +1,11 @@
-# Module: LLM Evaluations
+# Module: Llm Evaluations
 
-**Mã Module ID**: `FJ3ZwbTdiFyebrFi96tnz`
+**Mã Module ID**: `llm-evaluations`
 **Tổng số bài học**: 5
 
 ## Danh sách bài học
-
-1. [LangSmith](./langsmith.md) (`langsmith`)
-2. [Langfuse](./langfuse.md) (`langfuse`)
+1. [Arize Ai](./arize-ai.md) (`arize-ai`)
+2. [Deterministic Evals](./deterministic-evals.md) (`deterministic-evals`)
 3. [Helicone](./helicone.md) (`helicone`)
-4. [Arize AI](./arize-ai.md) (`arize-ai`)
-5. [Đánh giá Deterministic](./deterministic-evals.md) (`deterministic-evals`)
+4. [Langfuse](./langfuse.md) (`langfuse`)
+5. [Langsmith](./langsmith.md) (`langsmith`)

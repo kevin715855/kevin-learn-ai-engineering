@@ -1,12 +1,11 @@
-# Module: What are RAGs?
+# Module: What Are Rags
 
-**Mã Module ID**: `lVhWhZGR558O-ljHobxIi`
+**Mã Module ID**: `what-are-rags`
 **Tổng số bài học**: 5
 
 ## Danh sách bài học
-
 1. [Chunking](./chunking.md) (`chunking`)
-2. [Nhúng](./embedding.md) (`embedding`)
-3. [Cơ sở dữ liệu vector](./vector-database.md) (`vector-database`)
-4. [Quy trình truy xuất](./retrieval-process.md) (`retrieval-process`)
-5. [Thế hệ](./generation.md) (`generation`)
+2. [Embedding](./embedding.md) (`embedding`)
+3. [Generation](./generation.md) (`generation`)
+4. [Retrieval Process](./retrieval-process.md) (`retrieval-process`)
+5. [Vector Database](./vector-database.md) (`vector-database`)

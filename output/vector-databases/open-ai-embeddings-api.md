@@ -1,13 +1,1 @@
----
-id: l6priWeJhbdUD5tJ7uHyG
-slug: open-ai-embeddings-api
-title: "Open AI Embeddings API"
-original_title: "Open AI Embeddings API"
-module_id: tt9u3oFlsjEMfPyojuqpc
-module_title: "Vector Databases"
-language: vi
-source_status: completed
----
-# API embeddings của Open AI
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn cung cấp không chứa nội dung cụ thể nào để biên soạn bài học (chỉ có yêu cầu viết bài học bằng Markdown). Vì không có thông tin về chủ đề, mục tiêu, kiến thức cốt lõi hoặc ví dụ nào, tôi không thể tạo ra bài học mà không bịa thêm thông tin không có trong nguồn. Do đó, tôi không thể đáp ứng yêu cầu này dựa trên nguyên tắc không suy đoán và không tạo ra nội dung không có basis.

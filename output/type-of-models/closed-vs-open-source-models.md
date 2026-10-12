@@ -1,13 +1,1 @@
----
-id: RBwGsq9DngUsl8PrrCbqx
-slug: closed-vs-open-source-models
-title: "Closed vs Open Source Models"
-original_title: "Closed vs Open Source Models"
-module_id: 2X0NDcq2ojBJ0RxY_U6bl
-module_title: "Type of Models"
-language: vi
-source_status: completed
----
-# Mô hình mã nguồn đóng vs mã nguồn mở
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn cung cấp không chứa bất kỳ nội dung nào liên quan đến bài học (chỉ là yêu cầu viết bài học bằng Markdown). Vì không có thông tin cụ thể về chủ đề, mục tiêu, kiến thức cốt lõi hoặc ví dụ nào để dựa vào, tôi không thể biên soạn một bài học kỹ thuật mà vẫn đáp ứng được nguyên tắc “không bịa thông tin, số liệu, API hoặc kết quả”. Do đó, tôi không thể tạo ra bài học dựa trên nguồn đã cho.

@@ -6,7 +6,11 @@ from pathlib import Path
 logger = logging.getLogger(__name__)
 
 class ContentProcessor01:
-    def __init__(self, source_dir="output", content_dir="content", output_dir="output"):
+    def __init__(self, source_dir=None, content_dir="content", output_dir="output"):
+        # Set source_dir to data/processed by default to read processed lesson content
+        if source_dir is None:
+            SCRIPT_DIR = Path(__file__).parent
+            source_dir = SCRIPT_DIR / ".." / "data" / "processed"
         self.source_dir = Path(source_dir)
         self.content_dir = Path(content_dir)
         self.output_dir = Path(output_dir)
@@ -25,12 +29,15 @@ class ContentProcessor01:
             for module_path in self.source_dir.iterdir():
                 if module_path.is_dir() and module_path.name != "__pycache__":
                     module_name = module_path.name
-                    target_dir = self.content_dir / module_name
-                    target_dir.mkdir(parents=True, exist_ok=True)
+                    content_target_dir = self.content_dir / module_name
+                    output_target_dir = self.output_dir / module_name
+                    content_target_dir.mkdir(parents=True, exist_ok=True)
+                    output_target_dir.mkdir(parents=True, exist_ok=True)
                     for file_path in module_path.glob("*.md"):
                         if file_path.name != "README.md":
                             try:
-                                shutil.copy2(file_path, target_dir / file_path.name)
+                                shutil.copy2(file_path, content_target_dir / file_path.name)
+                                shutil.copy2(file_path, output_target_dir / file_path.name)
                                 count += 1
                             except Exception as e:
                                 logger.error(f"Failed to copy {file_path}: {e}")

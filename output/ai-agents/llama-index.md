@@ -1,13 +1,1 @@
----
-id: JT4mBXOjvvrUnynA7yrqt
-slug: llama-index
-title: "Chỉ mục Llama"
-original_title: "Llama Index"
-module_id: 4_ap0rD9Gl6Ep_4jMfPpG
-module_title: "AI Agents"
-language: vi
-source_status: completed
----
-# Llama Index
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nội dung nguồn được cung cấp không chứa bất kỳ thông tin cụ thể nào về chủ đề, khái niệm, ví dụ hoặc mã nguồn nào để 기반 cho việc biên soạn bài học. Do thiếu dữ liệu đầu vào, tôi không thể tạo ra bài học kỹ thuật mà vẫn đảm bảo tính chính xác và không bịa đặt thông tin. Vui lòng cung cấp nội dung nguồn chi tiết để tôi có thể tiếp tục thực hiện yêu cầu.

@@ -1,13 +1,3 @@
----
-id: 4Q5x2VCXedAWISBXUIyin
-slug: adding-end-user-ids-in-prompts
-title: "Thêm ID người dùng cuối trong các prompt"
-original_title: "Adding end-user IDs in prompts"
-module_id: 2X0NDcq2ojBJ0RxY_U6bl
-module_title: "Type of Models"
-language: vi
-source_status: completed
----
-# Thêm end-user IDs trong prompts
+# Không thể biên soạn bài học
 
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn thông tin được cung cấp không chứa bất kỳ nội dung kỹ thuật nào để sử dụng làm cơ sở cho bài học. Theo nguyên tắc số 7, khi nguồn thiếu thông tin có thể xác minh, chúng tôi không nên tự tạo ra hoặc suy đoán nội dung. Do đó, không thể viết bài học kỹ thuật theo yêu cầu mà không có dữ liệu nguồn cụ thể. Vui lòng cung cấp tài liệu hoặc chi tiết kỹ thuật mà bạn muốn chuyển thành bài học.

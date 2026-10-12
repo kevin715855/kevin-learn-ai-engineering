@@ -1,13 +1,1 @@
----
-id: LbB2PeytxRSuU07Bk0KlJ
-slug: sampling-parameters
-title: "Tham số lấy mẫu"
-original_title: "Sampling Parameters"
-module_id: ozrR8IvjNFbHd44kZrExX
-module_title: "Prompt Engineering"
-language: vi
-source_status: completed
----
-# Tham số lấy mẫu
-
-*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*
+Nguồn tài liệu được cung cấp không chứa nội dung cụ thể nào về chủ đề kỹ thuật để biên soạn bài học. Vì thiếu thông tin cần thiết (ví dụ: khái niệm, giải thích, ví dụ mã nguồn…), tôi không thể tạo ra bài họcMarkdown đầy đủ và chính xác dựa trên nguồn hiện có. Vui lòng cung cấp nội dung nguồn chi tiết để tôi có thể thực hiện nhiệm vụ theo yêu cầu.

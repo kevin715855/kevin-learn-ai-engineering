@@ -1,10 +1,9 @@
-# Module: LLM Observability
+# Module: Llm Observability
 
-**Mã Module ID**: `1bBgMVISENC-XBwuZFlUk`
+**Mã Module ID**: `llm-observability`
 **Tổng số bài học**: 3
 
 ## Danh sách bài học
-
-1. [Theo dõi & ghi nhật ký](./tracing--logging.md) (`tracing--logging`)
-2. [Cost/latency monitoring](./costlatency-monitoring.md) (`costlatency-monitoring`)
-3. [Giám sát sản xuất](./production-monitoring.md) (`production-monitoring`)
+1. [Costlatency Monitoring](./costlatency-monitoring.md) (`costlatency-monitoring`)
+2. [Production Monitoring](./production-monitoring.md) (`production-monitoring`)
+3. [Tracing  Logging](./tracing--logging.md) (`tracing--logging`)
