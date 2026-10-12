@@ -1,0 +1,3 @@
+# Không thể biên soạn bài học
+
+Nguồn thông tin được cung cấp không chứa bất kỳ nội dung kỹ thuật nào để sử dụng làm cơ sở cho bài học. Theo nguyên tắc số 7, khi nguồn thiếu thông tin có thể xác minh, chúng tôi không nên tự tạo ra hoặc suy đoán nội dung. Do đó, không thể viết bài học kỹ thuật theo yêu cầu mà không có dữ liệu nguồn cụ thể. Vui lòng cung cấp tài liệu hoặc chi tiết kỹ thuật mà bạn muốn chuyển thành bài học.

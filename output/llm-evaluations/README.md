@@ -9,4 +9,4 @@
 2. [Langfuse](./langfuse.md) (`langfuse`)
 3. [Helicone](./helicone.md) (`helicone`)
 4. [Arize AI](./arize-ai.md) (`arize-ai`)
-5. [Deterministic Evals](./deterministic-evals.md) (`deterministic-evals`)
+5. [Đánh giá Deterministic](./deterministic-evals.md) (`deterministic-evals`)

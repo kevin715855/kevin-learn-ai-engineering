@@ -1,0 +1,1 @@
+Nguồn cung cấp không chứa bất kỳ nội dung kỹ thuật nào để biên soạn một bài học. Do đó, không thể tạo ra bài học dựa trên thông tin đã cho.

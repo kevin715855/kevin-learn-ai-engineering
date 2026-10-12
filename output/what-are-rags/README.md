@@ -8,5 +8,5 @@
 1. [Chunking](./chunking.md) (`chunking`)
 2. [Nhúng](./embedding.md) (`embedding`)
 3. [Cơ sở dữ liệu vector](./vector-database.md) (`vector-database`)
-4. [Quá trình truy xuất](./retrieval-process.md) (`retrieval-process`)
-5. [sinh](./generation.md) (`generation`)
+4. [Quy trình truy xuất](./retrieval-process.md) (`retrieval-process`)
+5. [Thế hệ](./generation.md) (`generation`)

@@ -10,9 +10,4 @@ source_status: completed
 ---
 # Tìm kiếm ngữ nghĩa
 
-Embeddings được sử dụng trong tìm kiếm ngữ nghĩa bằng cách chuyển đổi văn bản, như truy vấn và tài liệu, thành các vector chiều cao có thể nắm bắt ý nghĩa và bối cảnh cơ bản, chứ không chỉ là các từ khớp chính xác. Những embeddings này biểu thị mối quan hệ ngữ nghĩa giữa các từ hoặc cụm từ, cho phép hệ thống hiểu ý định của truy vấn và truy xuất thông tin liên quan, kể cả khi các từ khớp chính xác không trùng khớp.
-
-Truy cập các nguồn tài nguyên sau để tìm hiểu thêm:
-
-- [@article@What is Semantic Search?](https://www.elastic.co/what-is/semantic-search)
-- [@video@Semantic Search là gì? - Cohere](https://www.youtube.com/watch?v=fFt4kR4ntAA)
+*Nội dung bài học đang được cập nhật hoặc dữ liệu nguồn không đầy đủ.*

@@ -1,0 +1,1 @@
+Tôi không nhận được nội dung nguồn nào để आधार bài học. Vui lòng cung cấp materi​al nguồn (ví dụ: đoạn văn, tài liệu,Slide, v.v.) mà bạn muốn tôi dựa trên để biên soạn bài học kỹ thuật bằng Markdown. Khi có nguồn, tôi sẽ tuân thủ các nguyên tắc và cấu trúc bạn đã nêu để tạo ra bài học hoàn chỉnh.

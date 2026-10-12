@@ -5,11 +5,11 @@
 
 ## Danh sách bài học
 
-1. [Claude Code](./claude-code.md) (`claude-code`)
+1. [Mã Claude](./claude-code.md) (`claude-code`)
 2. [Song Tử](./gemini.md) (`gemini`)
 3. [Codex](./codex.md) (`codex`)
 4. [Devin](./windsurf.md) (`windsurf`)
-5. [con trỏ](./cursor.md) (`cursor`)
+5. [Con trỏ](./cursor.md) (`cursor`)
 6. [Replit](./replit.md) (`replit`)
 7. [API NanoBanana](./nanobanana-api.md) (`nanobanana-api`)
 8. [Đánh giá dựa trên mô hình](./model-based-evals.md) (`model-based-evals`)

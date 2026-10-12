@@ -5,6 +5,6 @@
 
 ## Danh sách bài học
 
-1. [Theo dõi & ghi log](./tracing--logging.md) (`tracing--logging`)
-2. [Giám sát chi phí/độ trễ](./costlatency-monitoring.md) (`costlatency-monitoring`)
+1. [Theo dõi & ghi nhật ký](./tracing--logging.md) (`tracing--logging`)
+2. [Cost/latency monitoring](./costlatency-monitoring.md) (`costlatency-monitoring`)
 3. [Giám sát sản xuất](./production-monitoring.md) (`production-monitoring`)
